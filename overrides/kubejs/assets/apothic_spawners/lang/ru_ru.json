@@ -1,0 +1,7 @@
+{
+	"misc.apothic_spawners.on": "%s: Вкл.",
+	"misc.apothic_spawners.off": "%s: Выкл.",
+	"info.apothic_spawners.capturing": "Зачарование «Захват» даёт мобам шанс оставить после себя яйцо призыва.\n \nВероятность выпадения: %s%% за уровень",
+	"stat.apothic_spawners.youthful": "Омоложение",
+	"stat.apothic_spawners.youthful.desc": "Рассадник всегда создаёт детёныша существа, если это возможно"
+}

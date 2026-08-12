@@ -1,0 +1,13 @@
+{
+  "name": "Отскок",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Отскок$() — чары для нагрудников и поножей.$(p)Все атакующие в ближнем бою отбрасываются от владельца.$(p)Более высокие уровни увеличивают расстояние."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"tab.allthearcanistgear.armor": "Снаряжение арканиста",
+	"allthearcanistgear.perk_desc.thread_flight": "Даёт творческий полёт. Должно быть установлено в ячейку не ниже 4-го уровня.",
+	"allthearcanistgear.perk_desc.thread_spectral_sight": "Даёт призрачное зрение, позволяющее видеть существ сквозь стены. Радиус обзора увеличивается на 8 блоков за каждый уровень.",
+	"allthearcanistgear.perk_desc.thread_truesight": "Даёт истинное зрение, позволяющее лучше видеть окружающий мир. Уровень 1 даёт ночное зрение, уровень 2 — невосприимчивость к слепоте, уровень 3 — невосприимчивость к тьме, а уровень 4 — зрение в лаве.",
+	"allthearcanistgear.perk_desc.thread_vitality": "Даёт одно дополнительное сердце за каждый уровень.",
+	"allthearcanistgear.thread_of": "Нить: %s",
+	"item.allthearcanistgear.thread_flight": "Полёт",
+	"item.allthearcanistgear.thread_spectral_sight": "Призрачное зрение",
+	"item.allthearcanistgear.thread_truesight": "Истинное зрение",
+	"item.allthearcanistgear.thread_vitality": "Жизненная сила"
+}

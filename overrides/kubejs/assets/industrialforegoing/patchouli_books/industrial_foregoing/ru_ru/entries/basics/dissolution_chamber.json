@@ -1,0 +1,17 @@
+{
+  "name": "Камера растворения",
+  "icon": "industrialforegoing:dissolution_chamber",
+  "category": "industrialforegoing:basics",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Мощная машина создаёт материалы, используя до $(6)8$() предметов и/или $(6)1$() жидкости, а результатом могут быть предметы и/или жидкости.$(br2)Все рецепты бесформенные: ингредиенты можно класть в любые ячейки.$(br2)Когда рецепт собран, машина блокирует все ячейки, не позволяя добавлять предметы."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:dissolution_chamber"
+    }
+  ]
+}

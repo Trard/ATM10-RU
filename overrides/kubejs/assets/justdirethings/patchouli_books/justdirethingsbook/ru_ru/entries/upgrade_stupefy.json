@@ -1,0 +1,17 @@
+{
+  "name": "Ошеломление",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_stupefy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сбейте врагов с толку улучшением «Ошеломление». Посмотрите на противника и нажмите назначенную клавишу — он немедленно забудет о вас!$(br2)Кроме того, несколько мгновений он не сможет снова выбрать вас целью. У способности есть время восстановления."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Ошеломление»",
+      "recipe": "justdirethings:upgrade_stupefy"
+    }
+  ]
+}

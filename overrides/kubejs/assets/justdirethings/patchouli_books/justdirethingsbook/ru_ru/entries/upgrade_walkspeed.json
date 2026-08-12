@@ -1,0 +1,17 @@
+{
+  "name": "Скорость ходьбы",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_walkspeed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Скорость ходьбы» повышает обычный темп движения. Оно удобно в исследованиях и на ферме и помогает перемещаться эффективнее без спринта.$(br2)Его можно установить уже на поножи уровня Ferricore, а более высокие уровни дают ещё большую скорость. Значение регулируется ползунком на экране настроек."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Скорость ходьбы»",
+      "recipe": "justdirethings:upgrade_walkspeed"
+    }
+  ]
+}

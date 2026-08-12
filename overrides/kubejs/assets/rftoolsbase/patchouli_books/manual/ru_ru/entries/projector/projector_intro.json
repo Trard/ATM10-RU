@@ -1,0 +1,15 @@
+{
+  "name": "Проектор",
+  "icon": "rftoolsbuilder:projector",
+  "category": "rftoolsbase:category_rftoolsbuilder_projector",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:projector": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Проектор отображает содержимое Карты фигуры в мире.$(br2)С его помощью можно предварительно просмотреть фигуру перед использованием в другом механизме."
+    }
+  ]
+}

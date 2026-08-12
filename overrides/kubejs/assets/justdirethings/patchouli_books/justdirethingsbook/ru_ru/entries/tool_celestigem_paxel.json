@@ -1,0 +1,12 @@
+{
+  "name": "Паксель из Celestigem",
+  "sortnum": 19,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:celestigem_paxel[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Паксель из Celestigem объединяет возможности кирки, топора и лопаты. Он создаётся из соответствующих инструментов, наследует их улучшения и потому отличается универсальностью.$(br2)Объедините кирку, топор и лопату из Celestigem в кузнечном столе. Все установленные на инструментах улучшения перейдут на паксель."
+    }
+  ]
+}

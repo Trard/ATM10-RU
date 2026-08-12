@@ -1,0 +1,7 @@
+pastebin — программа для загрузки файлов на pastebin.com и скачивания с него. Она удобна для обмена программами с другими игроками.
+Для использования программы HTTP API должен быть включён в ComputerCraft.cfg.
+
+Примеры:
+"pastebin put foo" загружает файл "foo" на pastebin.com и выводит URL.
+"pastebin get xq5gc7LB foo" скачивает файл с URL http://pastebin.com/xq5gc7LB и сохраняет его как "foo".
+"pastebin run CxaWmPrX" скачивает файл с URL http://pastebin.com/CxaWmPrX и сразу запускает его.

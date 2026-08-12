@@ -1,0 +1,17 @@
+{
+  "name": "Слиток Blazegold",
+  "sortnum": 3,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:blazegold_ingot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Слитки Blazegold получают переплавкой сырого Blazegold, добываемого из $(l:justdirethings:res_blazegold_raw)блоков сырого Blazegold$(/l). Эти слитки необходимы для создания предметов, наделённых магическими свойствами."
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Переплавка сырого Blazegold",
+      "recipe": "justdirethings:blazegold_ingot_smelted"
+    }
+  ]
+}

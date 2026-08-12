@@ -1,0 +1,12 @@
+{
+  "name": "Праздничный чулок",
+  "icon": "merrymaking:stocking",
+  "category": "merrymaking:mantels",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:stocking",
+      "text": "Праздничные чулки заботливо развешаны на каминной полке..."
+    }
+  ]
+}

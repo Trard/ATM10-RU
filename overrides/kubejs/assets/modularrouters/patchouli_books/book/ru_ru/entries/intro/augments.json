@@ -1,0 +1,19 @@
+{
+  "name": "Дополнения",
+  "icon": "modularrouters:augment_core",
+  "category": "modularrouters:intro",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Дополнения/$ похожи на $(l:intro/upgrades)улучшения/$, но устанавливаются в $(l:intro/modules)модуль/$, а не в $(l:intro/modular_router)модульный маршрутизатор/$. В каждом модуле есть 4 ячейки дополнений; некоторые складываются в стопки. Они по-разному усиливают и расширяют возможности модуля."
+    },
+    {
+      "type": "image",
+      "images": [
+        "modularrouters:textures/patchouli/augments.png"
+      ],
+      "text": "$(italic)Вакуумный модуль с 6 дополнениями радиуса и дополнением сбора опыта/$",
+      "border": true
+    }
+  ]
+}

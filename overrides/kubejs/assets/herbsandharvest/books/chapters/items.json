@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "Обновление «Кладовая» добавляет в игру несколько новых предметов. Выберите тему ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.items.rennet",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.items.salt",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.items.spices",
+          "target_page": 3
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/items/rennet.png",
+          "caption": "herbsandharvest.guide_book.chapters.items.rennet_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.items.rennet",
+      "summary": "Сычужный фермент создаётся из чертополоха и используется в сыроварении.",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:rennet",
+              "text": "guide.herbsandharvest.rennet_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\nДобавьте его в котёл СРАЗУ после молока.\n\nЕсли медлить слишком долго, молоко превратится в сливки.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.items.salt",
+      "summary": "Соль появляется, когда наполненный соляной бассейн высыхает.",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:salt",
+              "text": "guide.herbsandharvest.salt_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\nСоль завершает процесс сыроварения, а также используется во многих рецептах еды из мода «Травы и урожай».",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.items.spices",
+      "summary": "Все свежие травы из мода «Травы и урожай» можно нарезать. Перец горошком можно перемолоть в специю.",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:chopped_parsley",
+              "text": "guide.herbsandharvest.chopped_parsley_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\nЛук и чеснок можно измельчить, а корицу и имбирь — перемолоть.\n\nЭти травы и специи, а также соль и сахар, можно хранить в небольших банках для специй.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

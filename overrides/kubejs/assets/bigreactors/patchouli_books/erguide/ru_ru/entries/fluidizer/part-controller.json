@@ -1,0 +1,26 @@
+{
+  "name": "Контроллер",
+  "icon": "bigreactors:fluidizercontroller",
+  "category": "bigreactors:fluidizer-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:fluidizercontroller",
+      "link_recipe": true,
+      "title": "Контроллер",
+      "text": "Контроллер — основной интерфейс флюидайзера.$(br2)Нажмите по нему ПКМ, чтобы открыть интерфейс, где можно включить или выключить флюидайзер, проверить запас жидкости и энергии и увидеть состояние текущей операции."
+    },
+    {
+      "type": "crafting-text",
+      "text": "При наведении на элемент управления появится подсказка с дополнительной информацией или пояснением его назначения.$(br2)",
+      "title": "Контроллер",
+      "recipe": "bigreactors:fluidizer/controller"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Обязательно:$() нужен ровно один$(br)$(l)Допустимое положение:$() на любой вертикальной грани (не на каркасе)$(br)$(l)Интерфейс:$() да"
+    }
+  ]
+}

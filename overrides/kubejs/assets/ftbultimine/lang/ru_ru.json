@@ -1,0 +1,22 @@
+{
+  "ftbultimine.info.no_valid_block": "Неподходящий блок",
+  "ftbultimine.info.no_block_targeted": "Блок не выбран",
+  "ftbultimine.info.no_food": "Слишком сильный голод",
+  "ftbultimine.info.no_experience": "Недостаточно опыта",
+  "ftbultimine.info.no_tool": "Нет подходящего инструмента",
+  "ftbultimine.info.no_permission": "Нет разрешения",
+  "ftbultimine.info.denied_tool": "Этот инструмент запрещён",
+  "ftbultimine.info.other_restriction": "Другое ограничение",
+  "ftbultimine.client_settings.general.shape_feedback_hotbar_message": "Сообщение при смене формы",
+  "ftbultimine.client_settings.general.shape_feedback_hotbar_message.tooltip": "Показывать над панелью быстрого доступа сообщение с новой формой при её смене",
+  "ftbultimine.client_settings.overlay.overlay_scale": "Масштаб подсветки",
+  "ftbultimine.client_settings.overlay.overlay_scale.tooltip": "Для лучшего вида шрифта рекомендуется использовать значения, кратные 0,25",
+  "ftbultimine.server_settings.features.single_crop_harvesting": "Сбор отдельной культуры",
+  "ftbultimine.server_settings.features.single_crop_harvesting.tooltip": "Если включено, щелчок ПКМ по культуре без зажатой клавиши Ultimine собирает её",
+  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block": "Требовать подходящий инструмент для Ultimine",
+  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block.tooltip": "Если включено, выбранный инструмент должен подходить для блока, добываемого через Ultimine,\nто есть позволять получить выпадающие предметы.\nСм. также «Требовать инструмент для Ultimine»",
+  "ftbultimine.modifier.max_blocks": "Максимум блоков FTB Ultimine",
+  "ftbultimine.modifier.cooldown": "Перезарядка FTB Ultimine в тиках",
+  "ftbultimine.modifier.exhaustion": "Расход сытости FTB Ultimine",
+  "ftbultimine.modifier.experience": "Стоимость опыта FTB Ultimine"
+}

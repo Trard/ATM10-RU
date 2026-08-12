@@ -1,0 +1,16 @@
+{
+  "name": "Очищенное топливо Blaze Ember",
+  "sortnum": 27,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:refined_t2_fluid_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Очищенное топливо Blaze Ember — мощный источник энергии. Его получают из неочищенного топлива Blaze Ember: бросьте $(l:justdirethings:res_coal_t2)уголёк Blaze$(/l) в $(l:justdirethings:res_polymorphic_fluid)полиморфную жидкость$(/l), а затем поместите смесь рядом с блоком слизи Blazebloom для очистки."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Очищенное топливо Blaze Ember эффективно и может вырабатывать энергию в $(l:justdirethings:mach_generatorfluidt1)топливном генераторе$(/l)."
+    }
+  ]
+}

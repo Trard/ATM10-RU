@@ -1,0 +1,17 @@
+{
+  "name": "Бьющая через край живучесть",
+  "icon": "apothic_attributes:textures/mob_effect/vitality.png",
+  "category": "apotheosis:potion/effects",
+  "flag": "apotheosis:potion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Зелье $(9)бьющей через край живучести$() накладывает положительный эффект.$(p)Под его действием всё получаемое лечение усиливается."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Лечение усиливается на 20% за уровень."
+    }
+  ]
+}

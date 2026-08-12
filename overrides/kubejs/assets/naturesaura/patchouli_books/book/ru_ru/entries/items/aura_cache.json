@@ -1,0 +1,18 @@
+{
+    "name": "Кэш ауры",
+    "icon": "naturesaura:aura_cache",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:infused_materials",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Хорошо иметь рядом $(l:collecting/altar)природный алтарь$(), хранящий $(#419600)ауру$(), но ещё удобнее носить её с собой. Здесь пригодится $(item)кэш ауры$(): он вмещает значительное количество $(#419600)ауры$(), доступной в пути. $(br)Чтобы наполнить кэш, просто положите его на $(item)природный алтарь$() и дождитесь, пока $(#419600)аура$() перетечёт внутрь."
+        },
+        {
+            "type": "crafting",
+            "text": "Создание $(item)кэша ауры$()",
+            "recipe": "naturesaura:aura_cache"
+        }
+    ]
+}

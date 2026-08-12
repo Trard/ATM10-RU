@@ -1,0 +1,19 @@
+{
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_100.description": "Выведено 100% парусов. Теперь дневной свет доступен только по подписке.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_100.title": "Поздравляем! Дневной свет принадлежит вам",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_15.description": "Выведено 15% парусов. Местные фотоны подали жалобу.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_15.title": "Слегка тревожное окружение Солнца",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_25.description": "Выведено 25% парусов. Четверть пути к космической нелепице пройдена.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_25.title": "Четверть сферы, полные амбиции",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_5.description": "Выведено 5% парусов. Солнце едва заметило. Наверное.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_5.title": "Солнце уведомлено",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_50.description": "Выведено 50% парусов. Половина сферы, вдвое больше самонадеянности.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_50.title": "Полпути до звёздного арендодателя",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_75.description": "Выведено 75% парусов. Солнце официально рассматривает пути отхода.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_75.title": "Солнце начинает нервничать",
+  "advancement.dysoncubeproject.root.description": "СЕГОДНЯ МЫ УКРАДЁМ СОЛНЦЕ!",
+  "advancement.dysoncubeproject.root.title": "Проект «Куб Дайсона»",
+  "gui.dysoncubeproject.unsubscribe": "Отписаться от всех сфер (вы вернётесь в свою личную сферу)",
+  "itemGroup.dyson_cube_project": "Проект «Куб Дайсона»",
+  "tooltip.dysoncubeproject.power_optional": "*Питание необязательно; с ним можно наращивать число выводимых лучей/парусов*"
+}

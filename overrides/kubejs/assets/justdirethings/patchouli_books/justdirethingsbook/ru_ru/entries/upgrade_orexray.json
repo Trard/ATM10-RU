@@ -1,0 +1,17 @@
+{
+  "name": "Рентген руды",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_orexray",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Отыщите скрытые богатства улучшением «Рентген руды». Оно позволяет видеть сквозь сплошные блоки и обнаруживать ценные руды, спрятанные в камне.$(br2)Это улучшение заменяет сканер руды и запускается тем же способом."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание рентгена руды",
+      "recipe": "justdirethings:upgrade_orexray"
+    }
+  ]
+}

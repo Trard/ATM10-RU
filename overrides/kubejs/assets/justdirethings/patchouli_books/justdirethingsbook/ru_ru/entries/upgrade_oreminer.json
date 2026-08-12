@@ -1,0 +1,17 @@
+{
+  "name": "Добытчик руды",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_oreminer",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Добытчик руды» — пассивная способность для кирок начиная с Ferricore. Она автоматически разрушает блоки руды, соединённые с добываемым блоком: похоже на добычу жилой, но действует только на руду и не требует отдельной активации."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Добытчик руды»",
+      "recipe": "justdirethings:upgrade_oreminer"
+    }
+  ]
+}

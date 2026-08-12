@@ -1,0 +1,12 @@
+{
+  "name": "Уголёк Eclipse",
+  "sortnum": 24,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t4",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Уголёк Eclipse — последняя ступень развития особого угля. Его создают, помещая блок $(l:justdirethings:res_coal_t3)угля Voidflame$(/l) рядом со $(l:justdirethings:gooblock_tier4)слизью Shadowpulse$(/l). Среди всех видов угля он обладает наибольшей плотностью энергии."
+    }
+  ]
+}

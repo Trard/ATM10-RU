@@ -1,0 +1,17 @@
+{
+  "name": "Продвинутый установщик блоков",
+  "sortnum": 6,
+  "category": "justdirethings:machines",
+  "icon": "justdirethings:blockplacert2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Продвинутый установщик — улучшенная версия $(l:justdirethings:mach_blockplacert1)простого установщика блоков$(/l).$(br2)Фильтры определяют, на какие блоки разрешено ставить новые. Например, фильтр с камнем позволит размещать только на камне. Учитывается и направление: при значении «вниз» блок будет установлен только НА каменный блок."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Продвинутый установщик блоков",
+      "recipe": "justdirethings:blockplacert2"
+    }
+  ]
+}

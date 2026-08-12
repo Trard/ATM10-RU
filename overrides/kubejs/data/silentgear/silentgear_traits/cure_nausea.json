@@ -1,0 +1,18 @@
+{
+  "conditions": [],
+  "description": {
+    "text": "Снимает эффект тошноты, когда предмет экипирован"
+  },
+  "effects": [
+    {
+      "type": "silentgear:cancel_effects",
+      "cleared_effects": [
+        "minecraft:nausea"
+      ]
+    }
+  ],
+  "max_level": 1,
+  "name": {
+    "text": "Исцеление от тошноты"
+  }
+}

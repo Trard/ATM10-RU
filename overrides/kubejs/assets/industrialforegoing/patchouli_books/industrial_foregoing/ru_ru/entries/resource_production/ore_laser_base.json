@@ -1,0 +1,17 @@
+{
+  "name": "Рудная лазерная база",
+  "icon": "industrialforegoing:ore_laser_base",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 14,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Полностью заряженная $(l:resource_production/laser_drill)лазерным буром$() база производит руды. Вероятность каждой руды зависит от биома установки машины и заданной глубины добычи.$(br2)Лазерные линзы повышают вероятность соответствующей руды.$(br2)Точные значения смотрите в JEI."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:ore_laser_base"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Приготовленное мясо льва",
+  "icon": "livingthings:cooked_lion",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)можно получить, приготовив сырое мясо льва"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:cooked_lion",
+      "text": "$(br)$(bold)Применение:$()$(li)можно съесть"
+    }
+  ]
+}

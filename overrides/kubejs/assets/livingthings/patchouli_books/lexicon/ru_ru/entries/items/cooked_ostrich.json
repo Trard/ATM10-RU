@@ -1,0 +1,16 @@
+{
+  "name": "Приготовленное мясо страуса",
+  "icon": "livingthings:cooked_ostrich",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)можно получить, приготовив сырое мясо страуса"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:cooked_ostrich",
+      "text": "$(br)$(bold)Применение:$()$(li)можно съесть"
+    }
+  ]
+}

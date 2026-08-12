@@ -1,0 +1,17 @@
+{
+  "name": "Приманка",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_decoy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Отвлеките врагов улучшением «Приманка». Разместите ложную цель, чтобы переключить внимание противников и получить тактическое преимущество.$(br2)Нажмите назначенную клавишу, чтобы создать приманку. Все ближайшие враги будут вынуждены атаковать её, пока она не исчезнет."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание приманки",
+      "recipe": "justdirethings:upgrade_decoy"
+    }
+  ]
+}

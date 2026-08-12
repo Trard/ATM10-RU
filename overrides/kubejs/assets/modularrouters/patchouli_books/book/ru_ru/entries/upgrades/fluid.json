@@ -1,0 +1,15 @@
+{
+  "name": "Улучшение передачи жидкостей",
+  "category": "modularrouters:upgrades",
+  "icon": "modularrouters:fluid_upgrade",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это улучшение действует только на $(l:modules/fluid)жидкостный модуль Мк1/$ и $(l:modules/fluid_2)жидкостный модуль Мк2/$.$(p)Оно повышает общую скорость передачи жидкости $(l:router/modular_router)маршрутизатора/$ в каждом направлении (внутрь и наружу) с базовых 50 mB/такт на 10 mB/такт вплоть до 400 mB/такт. Таким образом, в один маршрутизатор полезно установить не более 35 улучшений."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:fluid_upgrade"
+    }
+  ]
+}

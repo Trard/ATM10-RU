@@ -1,0 +1,22 @@
+{
+    "name": "Доспехи небесного искателя",
+    "icon": "naturesaura:sky_chest",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:sky_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "В $(thing)доспехах небесного искателя$() ботаник может почувствовать себя богом. Они не только чинятся подобно своему $(l:items/infused_iron_armor)инфузионному аналогу$(), но и дают $(thing)бонус комплекта$(). Если надеты все части (нагрудник можно заменить $(item)элитрами$()), у владельца повышается $(thing)скорость передвижения$(). Кроме того, он сможет $(thing)перешагивать$() более высокие блоки и будет реже вынужден прыгать."
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:sky_helmet",
+            "recipe2": "naturesaura:sky_chest"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:sky_pants",
+            "recipe2": "naturesaura:sky_shoes"
+        }
+    ]
+}

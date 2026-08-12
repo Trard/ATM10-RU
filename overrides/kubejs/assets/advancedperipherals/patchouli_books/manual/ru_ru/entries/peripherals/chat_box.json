@@ -1,0 +1,30 @@
+{
+  "name": "Чат-бокс",
+  "icon": "advancedperipherals:chat_box",
+  "category": "advancedperipherals:peripherals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Чат-бокс позволяет взаимодействовать с игровым чатом, отправляя и получая сообщения.$(p)Можно даже отправлять сообщения, видимые только чат-боксу: для этого начните сообщение с символа `$`.$(p)Полную документацию смотрите на $(9)$(l:https://docs.advanced-peripherals.de/peripherals/chat_box/)официальной вики-странице$(/l)$()!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:chat_box"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:chat_box"
+        },
+        "pattern": [
+          [
+            "0P"
+          ]
+        ]
+      },
+      "text": "Подключите чат-бокс к компьютеру, чтобы использовать его!"
+    }
+  ]
+}

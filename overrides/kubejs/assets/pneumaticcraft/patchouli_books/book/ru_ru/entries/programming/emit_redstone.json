@@ -1,0 +1,19 @@
+{
+  "name": "Виджет излучения редстоуна",
+  "icon": "pneumaticcraft:textures/progwidgets/emit_redstone_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот виджет заставляет $(l:tools/drone)дрона/$ излучать $(#f00)сигнал редстоуна/$. Стороны излучения выбираются в окне настройки, которое открывается $(thing)правым кликом/$ по виджету. Уровень сигнала задаётся подключённым виджетом $(l:programming/text)Текст/$ с числом от 0 до 15."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/emit_redstone_piece.png"
+      ],
+      "text": "$(italic)Виджет излучения редстоуна/$"
+    }
+  ]
+}

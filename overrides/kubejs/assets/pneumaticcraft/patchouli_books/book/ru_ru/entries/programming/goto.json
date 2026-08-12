@@ -1,0 +1,19 @@
+{
+  "name": "Виджет перемещения",
+  "icon": "pneumaticcraft:textures/progwidgets/goto_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Перемещение/$ работает просто: $(l:tools/drone)дрон/$ отправляется в ближайшую доступную позицию внутри указанной $(l:programming/area)области/$.$(p)Выполнение виджета завершается, $(ttcolor)$(t:В настройках можно указать, что виджет должен завершаться сразу; щёлкните правой кнопкой, чтобы открыть их)когда дрон достигнет области/$ либо когда она окажется недоступной."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/goto_piece.png"
+      ],
+      "text": "$(italic)Виджет перемещения/$"
+    }
+  ]
+}

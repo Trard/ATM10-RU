@@ -1,0 +1,7 @@
+{
+  "name": "Контроль энергии",
+  "description": "Устройства для контроля энергии",
+  "parent": "rftoolsbase:category_rftoolspower",
+  "icon": "rftoolspower:power_monitor",
+  "sortnum": 30
+}

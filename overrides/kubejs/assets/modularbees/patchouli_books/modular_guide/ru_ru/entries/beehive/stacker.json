@@ -1,0 +1,17 @@
+{
+  "name": "Укладчик улья",
+  "icon": "modularbees:modular_beehive_stacker",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Укладчик улья",
+      "text": "Укладчик увеличивает максимальный размер стопок в выходном инвентаре улья. По умолчанию каждый укладчик утраивает размер стопок.$(br)При одновременном использовании нескольких укладчиков их бонусы к размеру складываются."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_beehive_stacker"
+    }
+  ]
+}

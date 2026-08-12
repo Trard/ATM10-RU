@@ -1,0 +1,23 @@
+{
+  "itemGroup.torchmaster": "Torchmaster",
+  "text.config.torchmaster-config.option.feralFlareLanternTickRate": "Период обновления дикого светоча",
+  "text.config.torchmaster-config.option.feralFlareLanternTickRate.tooltip": "Как часто дикий светоч пытается разместить источники света",
+  "text.config.torchmaster-config.option.feralFlareLanternLightHardcap": "Жёсткий предел источников дикого светоча",
+  "text.config.torchmaster-config.option.feralFlareLanternLightHardcap.tooltip": "Сколько всего источников света может разместить дикий светоч. Не задавайте слишком большое число, иначе мир может повредиться.",
+  "text.config.torchmaster-config.option.feralFlareLanternRadius": "Радиус дикого светоча",
+  "text.config.torchmaster-config.option.feralFlareLanternRadius.tooltip": "Радиус окружности, в которой светоч размещает источники света",
+  "text.config.torchmaster-config.option.feralFlareLanternMinLightLevel": "Минимальный уровень освещения дикого светоча",
+  "text.config.torchmaster-config.option.feralFlareLanternMinLightLevel.tooltip": "Минимальный уровень освещения, при котором размещается источник света",
+  "text.config.torchmaster-config.option.dreadLampRadius": "Радиус лампы ужаса",
+  "text.config.torchmaster-config.option.dreadLampRadius.tooltip": "Радиус лампы ужаса",
+  "text.config.torchmaster-config.option.megaTorchRadius": "Радиус мегафакела",
+  "text.config.torchmaster-config.option.megaTorchRadius.tooltip": "Радиус мегафакела",
+  "text.config.torchmaster-config.option.blockOnlyNaturalSpawns": "Блокировать только естественное появление",
+  "text.config.torchmaster-config.option.blockOnlyNaturalSpawns.tooltip": "Если отключено, мегафакел и лампа ужаса также предотвращают появление мобов из рассадников.",
+  "text.config.torchmaster-config.option.blockVillageSieges": "Блокировать осады деревень",
+  "text.config.torchmaster-config.option.blockVillageSieges.tooltip": "Если включено, мегафакел предотвращает осады деревень зомби",
+  "text.config.torchmaster-config.option.megaTorchEntityBlockListOverrides": "Исключения чёрного списка существ мегафакела",
+  "text.config.torchmaster-config.option.megaTorchEntityBlockListOverrides.tooltip": "Подробности приведены в вики Torchmaster на GitHub",
+  "text.config.torchmaster-config.option.dreadLampEntityBlockListOverrides": "Исключения чёрного списка существ лампы ужаса",
+  "text.config.torchmaster-config.option.dreadLampEntityBlockListOverrides.tooltip": "Подробности приведены в вики Torchmaster на GitHub"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Как построить",
+  "icon": "bigreactors:fluidizersolidinjector",
+  "category": "bigreactors:fluidizer",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Флюидайзер — машина размером не менее 3x3x3, построенная из блоков корпуса и сочетания других частей.$(br)На всех гранях машины вместо корпуса можно использовать стекло, но не на каркасе.$(br2)Ограничения на размещение каждой части указаны на её странице."
+    },
+    {
+      "type": "zcmultiblock",
+      "multiblock_id": "bigreactors:bookfluidizer"
+    }
+  ]
+}

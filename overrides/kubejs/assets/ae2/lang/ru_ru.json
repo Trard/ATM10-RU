@@ -1,0 +1,8 @@
+{
+  "ae2.rei_jei_integration.flowing_fluid_name": "%s (текучая)",
+  "chat.ae2.ChannelModeCurrent": "Текущий режим каналов: %s",
+  "theoneprobe.ae2.channels": "Каналов: %1$d",
+  "dimension.ae2.spatial_storage": "Пространственное хранилище",
+  "gui.ae2.Resume": "Продолжить",
+  "gui.ae2.Suspend": "Приостановить"
+}

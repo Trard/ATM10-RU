@@ -1,0 +1,6 @@
+{
+  "getittogetherdrops.configuration.checkY": "Проверять по Y",
+  "getittogetherdrops.configuration.checkY.tooltip": "Включите, чтобы выпавшие предметы также искали стопки сверху и снизу; отключите, чтобы не искали (стандартное поведение — «false»).",
+  "getittogetherdrops.configuration.radius": "Радиус",
+  "getittogetherdrops.configuration.radius.tooltip": "Радиус в блоках, в котором выпавшие предметы ищут другие стопки для объединения (стандартное значение — «0.5»)."
+}

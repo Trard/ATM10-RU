@@ -1,0 +1,20 @@
+{
+  "name": "Уровни 1–30",
+  "icon": "minecraft:bookshelf",
+  "category": "apotheosis:enchanting/progression",
+  "flag": "apotheosis:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение 30-го уровня",
+      "recipe": "minecraft:bookshelf",
+      "text": "Для достижения 30-го уровня, как обычно, достаточно пятнадцати книжных полок."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Другие характеристики",
+      "item": "minecraft:skeleton_skull",
+      "text": "На этом этапе есть несколько простых способов повысить другие характеристики.$(p)Свечи увеличивают $(arcana), а черепа — $(quanta)."
+    }
+  ]
+}

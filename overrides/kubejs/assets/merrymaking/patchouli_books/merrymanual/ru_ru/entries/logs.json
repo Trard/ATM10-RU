@@ -1,0 +1,17 @@
+{
+  "name": "Каминные поленья",
+  "icon": "minecraft:flint_and_steel",
+  "category": "merrymaking:mantels",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Каминные поленья",
+      "item": "merrymaking:fireplace_logs",
+      "text": "Каминные поленья идеально подходят к праздничным каминным полкам. Они ориентируются по направлению, зажигаются огнивом и тушатся ведром воды.$(br2)При желании поленья можно подключить к редстоуну.$(br2)Рецепт каминных поленьев:"
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:fireplace_logs"
+    }
+  ]
+}

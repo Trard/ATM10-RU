@@ -1,0 +1,17 @@
+{
+  "name": "Компостер отходов",
+  "icon": "industrialforegoing:sewage_composter",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 14,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Получая $(l:agr_hus/sewage)отходы$(), эта машина превращает их в $(l:agr_hus/fertilizer)удобрение$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sewage_composter"
+    }
+  ]
+}

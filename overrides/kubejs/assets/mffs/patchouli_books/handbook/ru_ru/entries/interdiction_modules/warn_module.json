@@ -1,0 +1,18 @@
+{
+  "name": "Модуль предупреждения",
+  "icon": "mffs:warn_module",
+  "category": "mffs:interdiction_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:warn_module",
+      "link_recipe": true,
+      "text": "$(5)Модуль предупреждения$() можно установить в слоты матрицы $(l:mffs:machines/interdiction_matrix)Матрицы запрета$(), чтобы она периодически отправляла предупреждение всем неавторизованным игрокам в области действия."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:warn_module",
+      "text": "Создание $(5)Модуля предупреждения$()."
+    }
+  ]
+}

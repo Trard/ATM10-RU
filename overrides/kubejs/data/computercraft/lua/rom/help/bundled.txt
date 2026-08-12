@@ -1,0 +1,15 @@
+Чтобы задать объединённые выходные сигналы:
+c = colors.combine( colors.red, colors.blue )
+rs.setBundledOutput( "left", c )
+
+c = colors.combine( c, colors.green )
+rs.setBundledOutput( "left", c )
+
+c = colors.subtract( c, colors.blue )
+rs.setBundledOutput( "left", c )
+
+Чтобы получить объединённые входные сигналы:
+c = rs.getBundledInput( "right" )
+red = colors.test( c, colors.red )
+
+Введите "help colors", чтобы посмотреть список цветов проводов.

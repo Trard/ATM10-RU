@@ -1,0 +1,32 @@
+{
+  "name": "Режим сферы",
+  "icon": "mffs:sphere_mode",
+  "category": "mffs:projector_modes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:sphere_mode",
+      "link_recipe": true,
+      "text": "По умолчанию $(2)Режим сферы$() заставляет проектор создавать силовое поле в форме сферы толщиной ровно в один блок. Каждый $(l:mffs:upgrade_modules/scale_module)$(5)Модуль масштаба$() увеличивает размер силового поля на один блок."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:sphere_mode",
+      "text": "Создание $(2)Режима сферы$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Настройка поля",
+      "text": "Добавление $(l:mffs:upgrade_modules/scale_module)$(5)Модулей масштаба$() в слоты со стрелками дополнительно увеличивает радиус силового поля на один блок за каждый модуль."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/sphere_mode.png"
+      ],
+      "border": true,
+      "title": "Проекция",
+      "text": "Проецируется увеличенное поле $(2)Режима сферы$()."
+    }
+  ]
+}

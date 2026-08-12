@@ -1,0 +1,13 @@
+{
+  "name": "Пробивание защиты",
+  "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Пробивание защиты$() позволяет при атаке игнорировать фиксированное количество очков защиты цели.$(p)Избыточное пробивание не делает защиту цели отрицательной."
+    }
+  ]
+}

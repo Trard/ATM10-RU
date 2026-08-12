@@ -1,0 +1,17 @@
+{
+    "name": "Болотный Хоми",
+    "icon": "naturesaura:moss_generator",
+    "category": "naturesaura:creating",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Отличный источник природной $(#419600)ауры$() — $(thing)мох$() на замшелых блоках. Этим свойством пользуется $(item)болотный Хоми$(): он очищает окружающие замшелые блоки, оставляя их обычные варианты. За каждый очищенный блок устройство создаёт немного $(#419600)ауры$() и распространяет её вокруг."
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:moss_generator",
+            "text": "Создание $(item)болотного Хоми$()"
+        }
+    ]
+}

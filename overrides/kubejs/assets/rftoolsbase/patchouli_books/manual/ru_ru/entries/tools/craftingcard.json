@@ -1,0 +1,20 @@
+{
+  "name": "Карта рецепта",
+  "icon": "rftoolsbase:crafting_card",
+  "category": "rftoolsbase:category_tools",
+  "extra_recipe_mappings": {
+    "rftoolsbase:crafting_card": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта рецепта хранит рецепт. Она подходит для обычных рецептов 3×3 и более сложных схем, а использовать её могут разные механизмы.$(br2)Сохранённый рецепт необязательно должен быть действительным: карта также может просто представлять «входы» и «выход»."
+    },
+    {
+      "type": "image",
+      "images": [
+        "rftoolsbase:textures/manual/image_craftingcard.png"
+      ]
+    }
+  ]
+}

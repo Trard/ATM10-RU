@@ -1,0 +1,76 @@
+
+{
+  "name": "Система сборки",
+  "icon": "pneumaticcraft:assembly_controller",
+  "category": "pneumaticcraft:manufacturing",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Для производства материалов высокого уровня потребуется $(thing)система сборки/$ — набор $(thing)сборочных механизмов/$. Они взаимодействуют, когда стоят рядом по горизонтали. В системе может быть только по одному механизму каждого типа, за исключением $(item)сборочного модуля ввода-вывода/$, описанного ниже. Линия работает на $(l:base_concepts/pressure)сжатом воздухе/$, но подавать его нужно только в сборочный контроллер: он питает всю систему."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:assembly_controller",
+      "text": "Мозг $(thing)системы сборки/$. Он принимает $(l:manufacturing/assembly_programs)программы/$, которые указывают $(item)контроллеру/$, как управлять остальными $(thing)сборочными механизмами/$.$(p)Дисплей контроллера показывает диагностические сведения о его состоянии. Откройте интерфейс, чтобы узнать подробности."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:assembly_io_unit_import",
+      "text": "$(item)Модуль ввода-вывода/$ соединяет хранилища со $(item)сборочной платформой/$. Его манипулятор умеет работать по диагонали.$(p)Модуль либо выгружает готовые предметы, либо загружает материалы для производства. Подойдёт любое хранилище: ванильный $(item)сундук/$ или блок из другого мода."
+    },
+    {
+      "type": "text",
+      "title": "Модуль ввода-вывода (продолжение)",
+      "text": "$(thing)Система сборки/$ должна включать $(italic)два/$ $(item)модуля ввода-вывода/$: один для загрузки и один для выгрузки. $(6)Оранжевый/$ цвет обозначает выгрузку, $(9)синий/$ — загрузку. $(item)Модуль ввода-вывода/$ должен доставать и до $(item)сборочной платформы/$, и до хранилища, из которого он забирает либо в которое помещает предметы, в зависимости от режима."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:assembly_platform",
+      "text": "$(item)Сборочная платформа/$ служит рабочим столом для остальных $(thing)сборочных механизмов/$ и удерживает предметы во время сверления или лазерной обработки.$(p)$(item)Сборочную платформу/$ лучше размещать в центре, поскольку все остальные механизмы должны иметь к ней доступ."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:assembly_drill",
+      "text": "$(item)Монтажный бур/$ — один из $(thing)сборочных механизмов/$, непосредственно выполняющих обработку. Его алмазная головка сверлит даже самые прочные материалы.$(p)$(item)Монтажный бур/$ $(italic)не/$ работает по диагонали, поэтому должен стоять вплотную к $(thing)сборочной платформе/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:assembly_laser",
+      "text": "$(item)Монтажный лазер/$ разрезает материалы на части и срезает края.$(p)Как и $(item)монтажный бур/$, этот механизм $(italic)не/$ работает по диагонали."
+    },
+    {
+      "type": "text",
+      "title": "Использование",
+      "text": "Для производства в $(thing)системе сборки/$ поместите $(l:manufacturing/assembly_programs)программу сборки/$ в $(item)сборочный контроллер/$, а необходимые материалы — во входное хранилище.$(p)Все предметы, подходящие под известный контроллеру рецепт и установленную программу, будут обработаны автоматически."
+    },
+    {
+      "type": "link",
+      "flag": "mod:crafttweaker",
+      "title": "CraftTweaker",
+      "text": "$(thing)Система сборки/$ поддерживает $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$: рецепты можно добавлять и удалять. Подробнее — по ссылке ниже.",
+      "url": "https://docs.blamejared.com/1.16/en/mods/PneumaticCraft-Repressurized/AssemblySystem",
+      "link_text": "Документация CraftTweaker"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:assembly_controller",
+      "recipe2": "pneumaticcraft:assembly_platform"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:assembly_io_unit_import",
+      "recipe2": "pneumaticcraft:assembly_io_unit_export"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:assembly_io_unit_import_from_export",
+      "recipe2": "pneumaticcraft:assembly_io_unit_export_from_import"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:assembly_drill",
+      "recipe2": "pneumaticcraft:assembly_laser"
+    }
+  ]
+}

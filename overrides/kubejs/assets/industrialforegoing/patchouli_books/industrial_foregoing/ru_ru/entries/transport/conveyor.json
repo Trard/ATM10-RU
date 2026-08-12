@@ -1,0 +1,27 @@
+{
+  "name": "Конвейеры",
+  "icon": "industrialforegoing:conveyor",
+  "category": "industrialforegoing:transport",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Конвейеры перевозят предметы, существ и жидкости. Взаимодействовать с миром им позволяют $(l:conveyor_upgrades)улучшения$(). Предметы и существа движутся вверх и вниз, а жидкости — только по горизонтали.$(br2)Конвейер можно окрасить щелчком ПКМ с красителем."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:conveyor"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:glowstone_dust",
+      "text": "Светокамень заставляет конвейеры очень быстро перемещать предметы и существ."
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:plastic",
+      "text": "Пластик не позволяет подбирать предметы, находящиеся на конвейере."
+    }
+  ]
+}

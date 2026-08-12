@@ -1,0 +1,17 @@
+{
+    "name": "Око всполоха",
+    "icon": "naturesaura:fortress_finder",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:aura_bottle_nether",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(thing)Крепость$() можно найти с помощью $(item)ока Края$(): брошенное око медленно летит к ближайшей такой структуре, указывая путь. $(item)Око всполоха$() ведёт себя похоже, но вместо крепости Верхнего мира ищет ближайшую $(thing)крепость Незера$()."
+        },
+        {
+            "type": "crafting",
+            "text": "Создание $(item)ока всполоха$()",
+            "recipe": "naturesaura:fortress_finder"
+        }
+    ]
+}

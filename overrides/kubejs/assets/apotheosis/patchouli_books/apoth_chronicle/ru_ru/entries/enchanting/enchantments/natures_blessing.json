@@ -1,0 +1,13 @@
+{
+  "name": "Благословение природы",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Благословение природы$() — чары для мотыги.$(p)Они позволяют использовать её как костную муку ценой прочности.$(p)Более высокий уровень снижает расход прочности."
+    }
+  ]
+}

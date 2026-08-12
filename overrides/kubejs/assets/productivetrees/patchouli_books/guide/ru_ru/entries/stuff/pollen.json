@@ -1,0 +1,19 @@
+{
+  "name": "Пыльца",
+  "icon": "productivetrees:pollen",
+  "category": "productivetrees:stuff",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "flag": "mod:productivebees",
+      "item": "productivetrees:pollen",
+      "text": "Собранную пчёлами пыльцу можно вручную наносить на листву, чтобы опылять её и создавать новые виды деревьев. В JEI указано, какие деревья нужно скрещивать и какую пыльцу применять к конкретной листве."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "flag": "!mod:productivebees",
+      "item": "productivetrees:pollen",
+      "text": "Полученную в просеивателе пыльцу можно вручную наносить на листву, чтобы опылять её и создавать новые виды деревьев. В JEI указано, какие деревья нужно скрещивать и какую пыльцу применять к конкретной листве."
+    }
+  ]
+}

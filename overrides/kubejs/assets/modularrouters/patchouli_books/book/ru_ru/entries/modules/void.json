@@ -1,0 +1,15 @@
+{
+  "name": "Модуль уничтожения",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:void_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот опасный модуль навсегда уничтожает предметы в буфере маршрутизатора! Настоятельно рекомендуется настроить $(l:intro/modules#filter)фильтр с белым списком/$, чтобы случайно не удалить ценности…"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:void_module"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Продвинутый установщик жидкости",
+  "sortnum": 16,
+  "category": "justdirethings:machines",
+  "icon": "justdirethings:fluidplacert2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Продвинутый установщик развивает возможности $(l:justdirethings:mach_fluidplacert1)простого установщика жидкости$(/l).$(br2)Он размещает жидкость в большой области, а ячейки фильтра, как у его напарника — $(l:justdirethings:mach_blockplacert2)продвинутого установщика$(/l), — определяют блоки, на которые разрешено лить жидкость."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Продвинутый установщик жидкости",
+      "recipe": "justdirethings:fluidplacert2"
+    }
+  ]
+}

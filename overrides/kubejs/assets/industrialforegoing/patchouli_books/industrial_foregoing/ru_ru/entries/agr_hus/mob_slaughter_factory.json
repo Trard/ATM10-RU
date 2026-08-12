@@ -1,0 +1,17 @@
+{
+  "name": "Фабрика забоя существ",
+  "icon": "industrialforegoing:mob_slaughter_factory",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 9,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина перерабатывает существ и животных в $(l:agr_hus/meat)жидкое мясо$() и $(l:agr_hus/pink_slime)розовую слизь$(). Убитые ею существа не оставляют добычи и опыта.$(br2)Мирные существа дают больше розовой слизи, чем остальные."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_slaughter_factory"
+    }
+  ]
+}

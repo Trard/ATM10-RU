@@ -1,0 +1,17 @@
+{
+  "name": "Творческий компрессор",
+  "icon": "pneumaticcraft:creative_compressor",
+  "category": "pneumaticcraft:compressors",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Творческий компрессор/$ — недоступный для создания источник $(l:base_concepts/pressure)сжатого воздуха/$.$(p)Просто выберите требуемое давление в интерфейсе компрессора, и он будет поддерживать его во всех подключённых трубах и механизмах."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:creative_compressor",
+      "text": "$(italic)Рецепт? Какой ещё рецепт?/$"
+    }
+  ]
+}

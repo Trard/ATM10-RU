@@ -1,0 +1,17 @@
+{
+    "name": "Багровое зарастание",
+    "icon": "naturesaura:nether_grass",
+    "category": "naturesaura:effects",
+    "advancement": "naturesaura:positive_imbalance",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Как рассказано в главе об $(l:effects/plant_boost)усилении роста$(), избыток $(#419600)ауры$() может перетекать в растения и похожие формы жизни. Сходный эффект наблюдается в $(thing)Незере$(): при достаточно высоком уровне $(#419600)ауры$() на любом $(item)незераке$() в области начинает расти $(item)трава$()."
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "recipe": "naturesaura:nether_grass_powder",
+            "text": "Эффект можно подавить с помощью $(l:effects/effect_powder)порошка пустоши$()."
+        }
+    ]
+}

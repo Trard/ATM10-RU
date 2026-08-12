@@ -1,0 +1,15 @@
+{
+  "name": "Содержимое камеры",
+  "icon": "rftoolsbuilder:space_chamber_controller",
+  "category": "rftoolsbase:category_rftoolsbuilder_builder",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:space_chamber_controller": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "На экране содержимого камеры показано, что находится в выбранной пространственной камере.$(br2)Щёлкните правой кнопкой мыши с Пространственной картой в руке, чтобы просмотреть все блоки и сущности внутри камеры."
+    }
+  ]
+}

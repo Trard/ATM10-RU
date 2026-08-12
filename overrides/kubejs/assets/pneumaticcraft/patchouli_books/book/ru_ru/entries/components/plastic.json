@@ -1,0 +1,69 @@
+{
+  "name": "Пластик",
+  "icon": "pneumaticcraft:plastic_bucket",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:tp_plant",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Пластик/$ — важный компонент для создания предметов в $(pncr).$(p)$(item)Расплавленный пластик/$ получают из $(l:manufacturing/refinery)сжиженного нефтяного газа/$ и $(item)угля/$ либо из $(l:renewables/biodiesel)биодизеля/$ и $(item)древесного угля/$ в $(l:manufacturing/thermopneumatic_processing_plant)термопневматическом обрабатывающем заводе/$."
+    },
+    {
+      "type": "pneumaticcraft:thermo_plant",
+      "recipe": "pneumaticcraft:thermo_plant/plastic_from_lpg"
+    },
+    {
+      "type": "pneumaticcraft:thermo_plant",
+      "recipe": "pneumaticcraft:thermo_plant/plastic_from_biodiesel"
+    },
+    {
+      "type": "spotlight",
+      "title": "Лист пластика",
+      "item": "pneumaticcraft:plastic",
+      "flag": "pneumaticcraft:inWorldPlasticSolidification",
+      "text": "$(item)Расплавленный пластик/$ можно отвердить, просто вылив его в мир: примерно через полсекунды он превратится в $(item)лист пластика/$. Процесс легко автоматизировать с помощью $(l:machines/liquid_hopper)жидкостной воронки/$ с $(l:base_concepts/upgrades#dispenser)улучшением раздатчика/$ и $(l:machines/omnidirectional_hopper)всенаправленной воронки/$."
+    },
+    {
+      "type": "spotlight",
+      "title": "Лист пластика",
+      "item": "pneumaticcraft:plastic",
+      "flag": "!pneumaticcraft:inWorldPlasticSolidification",
+      "text": "Чтобы получить $(item)листы пластика/$, поместите ведро или $(l:machines/tanks)резервуар/$ с $(item)расплавленным пластиком/$ в хранилище с прикреплённым $(l:semiblocks/heat_frame)нагревательным фреймом/$ и охладите фрейм, желательно ниже -80°C: чем холоднее, тем лучше. $(item)Расплавленный пластик/$ будет расходоваться из ведра или резервуара, а за каждые 1000 мБ появится шанс получить второй $(item)лист пластика/$."
+    },
+    {
+      "type": "text",
+      "title": "Повышение выхода",
+      "flag": "pneumaticcraft:inWorldPlasticSolidification",
+      "text": "Другой способ получения $(item)листов пластика/$ — поместить ведро или $(l:machines/tanks)резервуар/$ с $(item)расплавленным пластиком/$ в хранилище с прикреплённым $(l:semiblocks/heat_frame)нагревательным фреймом/$ и охладить фрейм, желательно ниже -80°C: чем холоднее, тем лучше. $(item)Расплавленный пластик/$ будет расходоваться из ведра или резервуара, а за каждые 1000 мБ появится шанс получить второй $(item)лист пластика/$."
+    },
+    {
+      "type": "text",
+      "title": "Примечание о резервуарах",
+      "text": "Хотя резервуары для жидкостей из $(pncr) имеют слоты и допускают установку $(thing)нагревательных фреймов/$, одного фрейма на резервуаре с расплавленным пластиком недостаточно. Сам резервуар должен находиться в виде предмета в хранилище, например сундуке, к которому прикреплён нагревательный фрейм."
+    },
+    {
+      "type": "spotlight",
+      "title": "Пластиковый строительный кирпич™",
+      "item": "pneumaticcraft:plastic_brick_red",
+      "text": "Эти кирпичики создаются из $(item)листов пластика/$ и любого красителя и подходят для строительства.$(p)Не наступайте на них босиком — это необъяснимо больно!$(p)$(italic)Совместимы с другими ведущими марками строительных кирпичиков./$"
+    },
+    {
+      "type": "spotlight",
+      "title": "Гладкий пластиковый строительный кирпич™",
+      "item": "pneumaticcraft:smooth_plastic_brick_red",
+      "text": "Гладкая версия $(item)пластикового строительного кирпича/$ тоже подходит для строительства.$(p)Кроме того, из таких кирпичей получается превосходный пол: он повышает скорость ходьбы!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:plastic_brick_red",
+      "recipe2": "pneumaticcraft:smooth_plastic_brick_red",
+      "text": "Рецепты остальных цветов нетрудно угадать"
+    },
+    {
+      "type": "smelting",
+      "recipe": "pneumaticcraft:plastic_sheet_from_brick",
+      "recipe2": "pneumaticcraft:plastic_sheet_from_smooth_brick",
+      "text": "Кирпичи можно переплавить обратно в листы пластика"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Телепортационная платформа",
+  "icon": "allthemodium:teleport_pad",
+  "category": "allthemodium:dimensions",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "allthemodium:teleport_pad"
+    },
+    {
+      "type": "text",
+      "text": "Телепортационная платформа переносит в $(l:dimensions/miningdim)Шахтёрское измерение$(/c) и $(l:dimensions/otherdim)Иной мир$(/c). Встаньте на неё и щёлкните ПКМ с зажатым Shift, держа обе руки пустыми.$(br2)Примечание: в сборке ATM6: To The Sky $(l:dimensions/miningdim)Шахтёрское измерение$(/c) отключено."
+    }
+  ]
+}

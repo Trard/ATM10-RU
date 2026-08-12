@@ -1,0 +1,23 @@
+{
+  "filter.type.exact_count": "Фильтр точного количества",
+  "filter.type.exact_count.tooltip": "Перемещает, только если количество совпадает с указанным в фильтре",
+  "filter.type.mod": "Фильтр по моду",
+  "filter.type.mod.tooltip": "Перемещает, только если идентификатор мода совпадает с указанным в фильтре",
+  "filter.type.normal": "Обычный фильтр",
+  "filter.type.normal.tooltip": "Перемещает, только если предмет совпадает с указанным в фильтре",
+  "filter.type.regulating": "Регулирующий фильтр",
+  "filter.type.regulating.tooltip": "Перемещает так, чтобы в месте назначения оставалось указанное в фильтре количество",
+  "filter.type.scroll": "*Прокрутите, чтобы изменить тип фильтра*",
+  "filter.type.tag": "Фильтр по тегу",
+  "filter.type.tag.tooltip": "Перемещает, только если тег совпадает с указанным в фильтре",
+  "item.transfer_labels.fluidstack_extract_transfer_label": "Метка извлечения жидкостей",
+  "item.transfer_labels.fluidstack_insert_transfer_label": "Метка помещения жидкостей",
+  "item.transfer_labels.itemstack_extract_transfer_label": "Метка извлечения предметов",
+  "item.transfer_labels.itemstack_insert_transfer_label": "Метка помещения предметов",
+  "item.transfer_labels.label_accessor": "Настройщик меток",
+  "itemGroup.transfer_labels": "Метки перемещения",
+  "tooltip.transfer_labels.blacklist": "Чёрный список",
+  "tooltip.transfer_labels.slot.amount": "Количество",
+  "tooltip.transfer_labels.slot.speed": "Скорость",
+  "tooltip.transfer_labels.whitelist": "Белый список"
+}

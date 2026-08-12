@@ -1,0 +1,17 @@
+{
+  "name": "Ботинки из Ferricore",
+  "sortnum": 4,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:ferricore_boots",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ботинки из Ferricore созданы для путешественников и немного превосходят железные ботинки по защите и прочности. Их можно улучшить, добавив способности вроде увеличенной высоты прыжка."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание ботинок из Ferricore",
+      "recipe": "justdirethings:ferricore_boots"
+    }
+  ]
+}

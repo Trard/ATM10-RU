@@ -1,0 +1,17 @@
+{
+  "name": "Туман разума",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_mindfog",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эта пассивная способность затрудняет ваше обнаружение. Мобы замечают вас хуже, и к ним можно подойти ближе, прежде чем они проявят агрессию.$(br2)Чем выше уровень брони, тем эффективнее способность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Туман разума»",
+      "recipe": "justdirethings:upgrade_mindfog"
+    }
+  ]
+}

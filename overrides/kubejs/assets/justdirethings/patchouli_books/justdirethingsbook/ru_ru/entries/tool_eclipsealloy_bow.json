@@ -1,0 +1,17 @@
+{
+  "name": "Лук из сплава Eclipse",
+  "sortnum": 25,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:bow_eclipsealloy[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Лук из сплава Eclipse — вершина развития дальнобойного оружия; его огромный запас энергии обеспечивает длительную работу.$(br2)В нём есть 4 ячейки для канистр с зельем, наделяющих стрелы различными эффектами. $(l:justdirethings:item_potion_canister)Канистра с зельем$(/l)"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:bow_eclipsealloy",
+      "text": "Создание лука из сплава Eclipse"
+    }
+  ]
+}

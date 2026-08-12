@@ -1,0 +1,19 @@
+{
+  "name": "Умные фильтры",
+  "icon": "modularrouters:bulk_item_filter",
+  "category": "modularrouters:intro",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Умные фильтры/$ устанавливаются в ячейки фильтра $(l:intro/modules)модуля/$ вместо обычных предметов. Они не просто сравнивают сам предмет, а используют особые правила.$(p)Например, $(l:filters/bulk_item)объёмный предметный фильтр/$ эффективно сопоставляет до 54 разных предметов, причём его список можно загрузить из существующего инвентаря."
+    },
+    {
+      "type": "image",
+      "images": [
+        "modularrouters:textures/patchouli/bulk_filter.png"
+      ],
+      "text": "$(italic)Объёмный предметный фильтр в модуле-извлекателе Мк2/$",
+      "border": true
+    }
+  ]
+}

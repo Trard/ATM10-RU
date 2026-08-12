@@ -1,0 +1,122 @@
+{
+    "name": "Трансмутационный катализатор",
+    "icon": "naturesaura:conversion_catalyst",
+    "category": "naturesaura:using",
+    "advancement": "naturesaura:sky_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l:using/altar)Природный алтарь$() полезен для наполнения предметов силой $(#419600)ауры$(), но с его помощью также можно превращать один вид предметов в другой.$(br)Создайте $(item)трансмутационный катализатор$(), установите его на один из четырёх нижних блоков $(item)золотых каменных кирпичей$() вокруг алтаря, а затем как обычно положите ингредиент на алтарь."
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "Создание $(item)трансмутационного катализатора$() с помощью $(l:practices/tree_ritual)ритуала леса$().",
+            "recipe": "naturesaura:conversion_catalyst"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)драконьего дыхания$() из $(#419600)ауры$() Края",
+            "recipe": "naturesaura:breath"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Получение $(item)кожи$() из останков зомби",
+            "recipe": "naturesaura:leather"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)песка душ$() из земных песчинок",
+            "recipe": "naturesaura:soul_sand"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)адского нароста$() из спор Незера",
+            "recipe": "naturesaura:nether_wart"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Получение $(item)осколков призмарина$() из руды Незера",
+            "recipe": "naturesaura:prismarine"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Накопление $(thing)воды$() в пустой $(item)бутылке$()",
+            "recipe": "naturesaura:water"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Превращение $(item)древесного угля$() в $(item)уголь$()",
+            "recipe": "naturesaura:coal"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)спектральных стрел$()",
+            "recipe": "naturesaura:arrow"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)цветка хоруса$()",
+            "recipe": "naturesaura:chorus"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)маринованных паучьих глаз$()",
+            "recipe": "naturesaura:fermented"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)поводка$()",
+            "recipe": "naturesaura:lead"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Очищение $(item)ядовитого картофеля$()",
+            "recipe": "naturesaura:potato"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)кристаллов призмарина$()",
+            "recipe": "naturesaura:prismarine_crystal"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)кроличьей лапки$()",
+            "recipe": "naturesaura:rabbit_foot"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)позолоченного чернита$()",
+            "recipe": "naturesaura:gilded_blackstone"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)багрового гриба$()",
+            "recipe": "naturesaura:crimson_fungus"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)искажённого гриба$()",
+            "recipe": "naturesaura:warped_fungus"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Превращение $(item)яблок$() в $(item)яйца$()",
+            "recipe": "naturesaura:egg"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Превращение $(item)воды$() в $(item)молоко$()$(p)$(italic)Совсем как Иисус$()",
+            "recipe": "naturesaura:milk"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Превращение $(item)осколков аметиста$() в $(item)жемчуг Края$()",
+            "recipe": "naturesaura:ender_pearl"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Превращение $(item)почвы душ$() в $(item)слёзы гаста$()",
+            "recipe": "naturesaura:ghast_tear"
+        }
+    ]
+}

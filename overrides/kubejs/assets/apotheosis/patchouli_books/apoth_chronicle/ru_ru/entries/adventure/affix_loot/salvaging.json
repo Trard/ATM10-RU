@@ -1,0 +1,44 @@
+{
+  "name": "Разборка",
+  "icon": "apotheosis:salvaging_table",
+  "category": "apotheosis:adventure/affix_loot",
+  "flag": "apotheosis:adventure",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "apotheosis:salvaging_table",
+      "text": "$(9)Стол разборки$() разбирает аффиксные предметы на соответствующие $(9)материалы редкости$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:mysterious_scrap_metal",
+      "link_recipe": true,
+      "text": "Кусок металла неопределимого происхождения странной формы.$(p)Получается при разборке обычных предметов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:timeworn_fabric",
+      "link_recipe": true,
+      "text": "Невероятно прочная ткань, истёртая бесчисленными веками, но не имеющая ни единого разрыва.$(p)Получается при разборке необычных предметов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:luminous_crystal_shard",
+      "link_recipe": true,
+      "text": "Осколок ярчайшего кристалла из когда-либо существовавших. Несмотря на размер, он хранит могучую магическую силу.$(p)Получается при разборке редких предметов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:arcane_sands",
+      "link_recipe": true,
+      "text": "Песчинки из волшебного мира, где тайная магия искажает всё живое.$(p)До этой формы распадаются эпические предметы при разборке."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:godforged_pearl",
+      "link_recipe": true,
+      "text": "Жемчужина очищенной божественной энергии. Запечатанная внутри огромная сила делает её крайне нестабильной.$(p)Такое чудо можно получить только при разборке мифических предметов."
+    }
+  ]
+}

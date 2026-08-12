@@ -1,0 +1,17 @@
+{
+  "name": "Принцип работы",
+  "icon": "bigreactors:basic_reactorfuelrod",
+  "category": "bigreactors:reactor",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Как реактор $(l:bigreactors/passive)вырабатывает энергию$(/l) или $(l:bigreactors/active)испаряет теплоноситель$(/l)?$(br2)С помощью тепла.$(br2)Облучённое $(l:bigreactors/reactants)топливо$(/l) нагревается, а $(l:bigreactors/moderators)замедлители$(/l) поглощают часть излучения и отводят тепло от $(l:bigreactors/part-fuelrod)топливных стержней$(/l) к $(l:bigreactors/part-casing)корпусу$(/l).$(br2)Именно тепло корпуса в конечном счёте вырабатывает энергию или испаряет $(l:bigreactors/coolantsystem)теплоноситель$(/l)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Отвод тепла от $(l:bigreactors/part-fuelrod)топливных стержней$(/l) — важнейшая часть конструкции реактора, и $(l:bigreactors/moderators)замедлители$(/l) играют здесь ключевую роль. Важно также помнить, что излучение распространяется во всех направлениях, перпендикулярных оси стопки $(l:bigreactors/part-fuelrod)топливных стержней$(/l).$(br2)$(italic)Учтите: это упрощённое описание процессов внутри реактора, хотя оно достаточно точно, чтобы создавать лучшие возможные конструкции.$()"
+    }
+  ]
+}

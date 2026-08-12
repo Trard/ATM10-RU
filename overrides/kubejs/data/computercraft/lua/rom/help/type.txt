@@ -1,0 +1,1 @@
+type определяет тип файла или каталога. Выводит "file", "directory" или "No such path".

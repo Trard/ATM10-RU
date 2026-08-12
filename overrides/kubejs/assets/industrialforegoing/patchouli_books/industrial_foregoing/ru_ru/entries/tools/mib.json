@@ -1,0 +1,17 @@
+{
+  "name": "Инструмент заточения существ",
+  "icon": "industrialforegoing:mob_imprisonment_tool",
+  "category": "industrialforegoing:tools",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Если $(6)щёлкнуть ПКМ$() по существу с инструментом заточения в руке, оно окажется внутри.$(br2)Чтобы выпустить существо, $(6)щёлкните ПКМ$() инструментом по земле."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

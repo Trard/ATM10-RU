@@ -1,0 +1,11 @@
+{
+  "gui.cookingforblockheads.moved_to_oven": "Перемещено в духовку",
+  "gui.cookingforblockheads.moved_to_cooking_pot": "Перемещено в кастрюлю",
+  "gui.cookingforblockheads.cooking_pot_obstructed": "Кастрюля загорожена",
+  "gui.cookingforblockheads.feedback_stacked": "%s x%d",
+  "tooltip.cookingforblockheads.missing_cooking_pot": "Для приготовления нужна кастрюля",
+  "tooltip.cookingforblockheads.sort_by_eatenness": "Сортировать по съеденному",
+  "tooltip.cookingforblockheads.kitchen_upgrade": "Улучшение кухни",
+  "container.cookingforblockheads.cooking_table": "Кулинарный стол",
+  "config.jade.plugin_cookingforblockheads.preservation_chamber": "Камера хранения"
+}

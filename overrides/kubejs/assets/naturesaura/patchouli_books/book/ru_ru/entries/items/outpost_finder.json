@@ -1,0 +1,17 @@
+{
+    "name": "Око разбойника",
+    "icon": "naturesaura:outpost_finder",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:aura_bottle_overworld",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Многие примечательные места мира легко найти с помощью $(item)карт исследователя$(), но карты существуют не для всех структур. В частности, так нельзя обнаружить $(thing)аванпост разбойников$(). Поэтому магические ботаники создали $(item)око разбойника$(), которое после броска летит к ближайшему $(thing)аванпосту разбойников$()."
+        },
+        {
+            "type": "crafting",
+            "text": "Создание $(item)ока разбойника$()",
+            "recipe": "naturesaura:outpost_finder"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+adventure — текстовая приключенческая игра для CraftOS. Чтобы перемещаться по её миру, вводите простые инструкции для интерпретатора, например: "go north", "punch tree", "craft planks", "mine coal with pickaxe", "hit creeper with sword"

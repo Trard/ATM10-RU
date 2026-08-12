@@ -1,0 +1,7 @@
+{
+  "zerocore:debugTool.block.tooltip2": "По умолчанию запросы выполняются на стороне сервера",
+  "item.zerocore.debugtool": "Инструмент отладки",
+  "zerocore:debugTool.block.tooltip1": "Щёлкните ПКМ по блоку, чтобы показать отладочные сведения",
+  "zerocore:debugTool.block.tooltip3a": "Красться: ",
+  "zerocore:debugTool.block.tooltip3b": "запрос на стороне клиента"
+}

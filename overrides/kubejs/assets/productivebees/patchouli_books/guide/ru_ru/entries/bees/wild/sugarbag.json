@@ -1,0 +1,18 @@
+{
+  "name": "Нежалящая пчела",
+  "icon": "minecraft:cocoa_beans",
+  "read_by_default": true,
+  "category": "productivebees:bees_wild",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Нежалящая пчела",
+      "text": "Эту маленькую любительницу тепла и влаги можно встретить в тропических областях. Она производит особый вид невероятно вкусных сот.$(br)Она способна поселиться в какао-бобах, даже если те выращены за пределами привычного для них климата.",
+      "anchor": "sugarbag"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "productivebees:configurable_bee{type:'productivebees:sugarbag'}"
+    }
+  ]
+}

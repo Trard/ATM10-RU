@@ -1,0 +1,17 @@
+Функции API 3D-векторной математики:
+vector.new( x,y,z )
+
+Векторы, возвращаемые vector.new(), имеют следующие поля и методы:
+vector.x
+vector.y
+vector.z
+vector:add( vector )
+vector:sub( vector )
+vector:mul( number )
+vector:dot( vector )
+vector:cross( vector )
+vector:length()
+vector:normalize()
+vector:round()
+vector:tostring()
+С векторами также можно использовать операторы +, - и *.

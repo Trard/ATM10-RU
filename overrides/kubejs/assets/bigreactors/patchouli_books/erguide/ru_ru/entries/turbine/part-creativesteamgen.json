@@ -1,0 +1,20 @@
+{
+  "name": "Творческий генератор пара",
+  "icon": "bigreactors:reinforced_turbinecreativesteamgenerator",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinecreativesteamgenerator",
+      "link_recipe": true,
+      "title": "Генератор пара",
+      "text": "Генератор пара — доступная только в творческом режиме часть, служащая постоянным источником пара для турбины.$(br2)Когда турбина включена, эта часть автоматически заполняет бак пара вплоть до максимального объёма, допустимого её вариантом.\n\n"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)Обязательно:$() нет$(br)$(l)Допустимое положение:$() на любой грани (не на каркасе)$(br)$(l)Варианты:$() все$(br)$(l)Интерфейс:$() нет$(br)$(l)Творческий режим:$() часть доступна только в творческом режиме и не имеет рецепта создания"
+    }
+  ]
+}

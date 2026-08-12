@@ -1,0 +1,17 @@
+{
+  "name": "Нагрудник из сплава Eclipse",
+  "sortnum": 21,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:eclipsealloy_chestplate[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот нагрудник высшего уровня использует 500 000 FE энергии Forge и обеспечивает непревзойдённую защиту. Для максимальной эффективности регулярно заряжайте его с помощью $(l:justdirethings:item_pocket_generator)карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание нагрудника из сплава Eclipse",
+      "recipe": "justdirethings:eclipsealloy_chestplate"
+    }
+  ]
+}

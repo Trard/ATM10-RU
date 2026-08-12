@@ -1,0 +1,6 @@
+{
+  "keybind.ironjetpacks.hud": "Переключить интерфейс",
+  "keybind.ironjetpacks.ascend": "Подняться",
+  "tooltip.ironjetpacks.hud": "Интерфейс",
+  "tooltip.ironjetpacks.toggle_hud": "Интерфейс переключён: %s"
+}

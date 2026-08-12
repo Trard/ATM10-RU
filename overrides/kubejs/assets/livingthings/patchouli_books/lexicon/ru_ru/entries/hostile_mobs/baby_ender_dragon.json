@@ -1,0 +1,20 @@
+{
+  "name": "Детёныш Дракона Энда",
+  "icon": "livingthings:baby_ender_dragon_spawn_egg",
+  "category": "livingthings:hostile_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Не слишком опасное существо, обожающее плоды хоруса!$(br)Приручённый детёныш Дракона Энда будет следовать за вами.$(br2)$(bold)Здоровье: $()5 сердец$(br2)$(bold)Предмет для приручения: $()$(li)плод хоруса"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:baby_ender_dragon",
+      "rotate": false,
+      "scale": 0.6,
+      "default_rotation": 45,
+      "offset": 0.2,
+      "text": "Можно вывести, поместив яйцо дракона на пурпуровый пилон."
+    }
+  ]
+}

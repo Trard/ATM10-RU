@@ -1,0 +1,17 @@
+{
+  "name": "Молот",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_hammer",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Расширьте возможности добычи улучшением «Молот». Оно позволяет разрушать сразу несколько блоков, ускоряя и упрощая горные работы.$(br2)Кирка из Blazegold добывает область 3×3, Celestigem позволяет выбрать 5×5, а кирка из сплава Eclipse — 7×7. Для переключения режима нажмите кнопку улучшения в интерфейсе."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Молот»",
+      "recipe": "justdirethings:upgrade_hammer"
+    }
+  ]
+}

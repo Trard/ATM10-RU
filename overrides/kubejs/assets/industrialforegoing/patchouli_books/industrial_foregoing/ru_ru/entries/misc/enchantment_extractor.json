@@ -1,0 +1,17 @@
+{
+  "name": "Извлекатель чар",
+  "icon": "industrialforegoing:enchantment_extractor",
+  "category": "industrialforegoing:misc",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Получив книгу, эта машина извлекает чары из предметов.$(br2)Она работает двумя способами: переносит чары в книгу либо преобразует их в $(l:agr_husb/essence)эссенцию$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_extractor"
+    }
+  ]
+}

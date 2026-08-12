@@ -1,0 +1,30 @@
+{
+  "name": "Менеджер инвентаря",
+  "icon": "advancedperipherals:inventory_manager",
+  "category": "advancedperipherals:peripherals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Менеджер инвентаря взаимодействует с инвентарём игрока. Щёлкните ПКМ картой памяти, а затем вставьте её в менеджер.$(p)Полную документацию смотрите на $(9)$(l:https://docs.advanced-peripherals.de/peripherals/inventory_manager/)официальной вики-странице$(/l)$()!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:inventory_manager"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:inventory_manager"
+        },
+        "pattern": [
+          [
+            "0P"
+          ]
+        ]
+      },
+      "text": "Подключите менеджер инвентаря к компьютеру, чтобы использовать его!"
+    }
+  ]
+}

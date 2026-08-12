@@ -1,0 +1,21 @@
+{
+  "capacitor_addon_extender.mdx": "Расширитель дополнений энергохранилища",
+  "machine_extender.mdx": "Расширитель дополнений механизма",
+  "machine_capacitor_addon.mdx": "Конденсаторное дополнение",
+  "machine_acceptor_addon.mdx": "Приёмное дополнение",
+  "machine_speed_addon.mdx": "Дополнение скорости",
+  "machine_efficiency_addon.mdx": "Дополнение эффективности",
+  "machine_ultimate_addon.mdx": "Дополнение «Матрица синергии»",
+  "machine_burst_addon.mdx": "Импульсное дополнение",
+  "machine_processing_addon.mdx": "Дополнение «Вспомогательная камера обработки»",
+  "machine_fluid_addon.mdx": "Жидкостное дополнение",
+  "machine_inventory_proxy_addon.mdx": "Дополнение удалённого доступа к инвентарю",
+  "machine_redstone_addon.mdx": "Дополнение блока управления",
+  "steam_boiler_addon.mdx": "Дополнение парового котла",
+  "machine_hunter_addon.mdx": "Охотничье дополнение",
+  "quarry_addon.mdx": "Карьерное дополнение",
+  "crop_filter_addon.mdx": "Дополнение фильтра культур",
+  "machine_yield_addon.mdx": "Дополнение добычи",
+  "machine_silk_touch_addon.mdx": "Дополнение «Шёлковое касание»",
+  "machine_combi_addon.mdx": "Сердце механизма"
+}

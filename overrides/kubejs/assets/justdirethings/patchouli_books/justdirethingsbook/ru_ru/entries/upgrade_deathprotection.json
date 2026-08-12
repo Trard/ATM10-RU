@@ -1,0 +1,17 @@
+{
+  "name": "Защита от смерти",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_deathprotection",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Защита от смерти» спасает от смертельного урона, отматывая время к моменту перед гибелью, когда у вас было немного больше здоровья!$(br2)Способность требует очень много энергии Forge и имеет очень долгое время восстановления."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание защиты от смерти",
+      "recipe": "justdirethings:upgrade_deathprotection"
+    }
+  ]
+}

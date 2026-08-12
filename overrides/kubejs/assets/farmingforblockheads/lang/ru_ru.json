@@ -1,0 +1,12 @@
+{
+  "tooltip.farmingforblockheads.payment_item": "%dx %s",
+  "gui.farmingforblockheads.market.cost": "%s",
+  "farmingforblockheads.configuration.enabledOptionalPresets": "Включённые дополнительные наборы",
+  "farmingforblockheads.configuration.enabledOptionalPresets.tooltip": "Список включаемых дополнительных наборов.",
+  "farmingforblockheads.configuration.disabledDefaultPresets": "Отключённые стандартные наборы",
+  "farmingforblockheads.configuration.disabledDefaultPresets.tooltip": "Список отключаемых стандартных наборов.",
+  "farmingforblockheads.configuration.excludedGroups": "Исключённые группы",
+  "farmingforblockheads.configuration.excludedGroups.tooltip": "Список отключаемых групп. Имеет приоритет над includedGroups. Например, «selling.seeds» уберёт с рынка все семена.",
+  "farmingforblockheads.configuration.includedGroups": "Включённые группы",
+  "farmingforblockheads.configuration.includedGroups.tooltip": "Список включаемых групп. «default» — псевдоним встроенных наборов (selling.seeds, selling.saplings и selling.fertilizers.minecraft)."
+}

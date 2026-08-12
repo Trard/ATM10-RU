@@ -1,0 +1,21 @@
+{
+  "gui.ae2ct.CraftingTreeTitle": "Дерево создания",
+  "gui.ae2ct.ShowTree": "Показать дерево создания",
+  "gui.ae2ct.OutputAmount": "создаётся: %s",
+  "gui.ae2ct.InputAmount": "требуется: %s",
+  "gui.ae2ct.MiddenAmount": "используется: %s",
+  "gui.ae2ct.Info": "Информация:",
+  "gui.ae2ct.CraftingAmount": "создаётся: %s",
+  "gui.ae2ct.MissingAmount": "отсутствует: %s",
+  "gui.ae2ct.StoredAmount": "хранится: %s",
+  "gui.ae2ct.Screenshot": "Снимок экрана",
+  "gui.ae2ct.CraftingTreeSettingTitle": "Настройки",
+  "gui.ae2ct.Setting": "Настройки",
+  "gui.ae2ct.UseCompactTreeCheckbox": "использовать компактное дерево создания (бета)",
+  "gui.ae2ct.ScreenShotShowCountCheckbox": "показывать количество на снимке",
+  "ae2ct.screenshot.noready": "Снимок ещё не готов, повторите попытку позже",
+  "ae2ct.screenshot.exception": "Не удалось сделать снимок экрана, причина: %s",
+  "ae2ct.openscreen.plannull": "Ожидание завершения расчёта подтверждения создания",
+  "gui.ae2ct.ShowMissingOnly": "Показать только отсутствующее",
+  "gui.ae2ct.ShowMissingOnlyByDefault": "по умолчанию показывать только отсутствующее"
+}

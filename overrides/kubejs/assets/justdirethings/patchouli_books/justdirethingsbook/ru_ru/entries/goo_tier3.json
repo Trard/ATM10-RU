@@ -1,0 +1,17 @@
+{
+  "name": "Слизь VoidShimmer",
+  "sortnum": 3,
+  "category": "justdirethings:goo",
+  "icon": "justdirethings:gooblock_tier3",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Слизь VoidShimmer, наполненная таинственной энергией Энда, позволяет превращать алмазы в Celestigem. Этот уровень слизи открывает материалы с необычайными свойствами, включая увеличенное хранилище энергии и телепортацию."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание слизи VoidShimmer",
+      "recipe": "justdirethings:gooblock_tier3"
+    }
+  ]
+}

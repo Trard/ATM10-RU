@@ -1,0 +1,17 @@
+{
+  "name": "Слизь Primogel",
+  "sortnum": 1,
+  "category": "justdirethings:goo",
+  "icon": "justdirethings:gooblock_tier1",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Primogel — начальный уровень слизи, преобразующий базовые ресурсы, например железо, в Ferricore. Он отлично подходит для первых опытов с превращением материалов и делает обычные ресурсы полезнее и эффективнее.$(br2)Слизь Primogel создаётся из простых материалов Верхнего мира и служит первым шагом к изучению алхимических возможностей слизи."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание слизи Primogel",
+      "recipe": "justdirethings:gooblock_tier1"
+    }
+  ]
+}

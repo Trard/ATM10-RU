@@ -1,0 +1,20 @@
+{
+  "name": "Устройство набора",
+  "icon": "rftoolsutility:dialing_device",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:dialing_device": 0,
+    "rftoolsutility:simple_dialer": 0,
+    "rftoolsutility:destination_analyzer": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Устройство набора связывает $(l:rftoolsbase:machines/matter_transmitter)Передатчик материи$(/l) с $(l:rftoolsbase:machines/matter_receiver)Приёмником материи$(/l). Передатчик должен находиться поблизости, а Приёмник может быть очень далеко, даже в другом измерении$(br2)$(5)Насыщение$() механизма снижает расход энергии"
+    },
+    {
+      "type": "text",
+      "text": "Для набора сначала выберите Передатчик материи. Если поблизости только один, он выберется автоматически. Затем выберите Приёмник материи в нижнем списке и нажмите «Набрать» либо «Набрать один раз». Во втором режиме соединение разрывается сразу после чьей-либо телепортации"
+    }
+  ]
+}

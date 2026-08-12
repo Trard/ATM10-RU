@@ -1,0 +1,12 @@
+{
+  "name": "Канал редстоуна",
+  "sortnum": 11,
+  "category": "laserio:mechanics",
+  "icon": "laserio:textures/gui/buttons/redstoneignore.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "У карт есть отдельный «канал редстоуна», не связанный с основным каналом.$(br2)Сигнал редстоуна в этом канале влияет на работу карты. Подробнее см. в разделах «$(l:laserio:redstonemode)Режим редстоуна$(/l)» и «$(l:laserio:card_redstone)Редстоуновая карта$(/l)»."
+    }
+  ]
+}

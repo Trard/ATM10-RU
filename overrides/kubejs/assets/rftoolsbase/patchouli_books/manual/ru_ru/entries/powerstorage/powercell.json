@@ -1,0 +1,51 @@
+{
+  "name": "Энергоячейка",
+  "icon": "rftoolspower:cell1",
+  "category": "rftoolsbase:category_rftoolspower_powerstorage",
+  "extra_recipe_mappings": {
+    "rftoolspower:cell1": 0,
+    "rftoolspower:cell2": 0,
+    "rftoolspower:cell3": 0,
+    "rftoolspower:power_core1": 0,
+    "rftoolspower:power_core2": 0,
+    "rftoolspower:power_core3": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Энергоячейки$() хранят огромные объёмы энергии. Их можно устанавливать отдельно или рядом друг с другом, формируя многоблочную конструкцию. Энергоячейки автоматически распределяют RF между собой и соседями и объединяются независимо от уровня."
+    },
+    {
+      "type": "text",
+      "text": "У Энергоячеек нет интерфейса, но любую сторону можно настроить на ввод, вывод или игнорирование энергии, ударив по ней $(l:rftoolsbase:tools/smartwrench)умным гаечным ключом$() в $(thing)режиме ключа$(). Синий означает вход, жёлтый — выход, а пустая сторона отключена."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:power_core1",
+      "recipe2": "rftoolspower:cell1"
+    },
+    {
+      "type": "text",
+      "text": "По умолчанию каждая $(item)Энергоячейка (низкая)$() вмещает 500 000 RF."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:power_core2",
+      "recipe2": "rftoolspower:cell2"
+    },
+    {
+      "type": "text",
+      "text": "По умолчанию каждая $(item)Энергоячейка (средняя)$() вмещает 4 000 000 RF."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:power_core3",
+      "recipe2": "rftoolspower:cell3"
+    },
+    {
+      "type": "text",
+      "text": "По умолчанию каждая $(item)Энергоячейка (высокая)$() вмещает 20 000 000 RF. Это очень много RF!"
+    }
+  ]
+}

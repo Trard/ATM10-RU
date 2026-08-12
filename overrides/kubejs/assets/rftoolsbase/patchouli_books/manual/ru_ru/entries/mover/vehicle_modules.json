@@ -1,0 +1,41 @@
+{
+  "name": "Модули конструкций",
+  "icon": "rftoolsbuilder:vehicle_control_module",
+  "category": "rftoolsbase:category_rftoolsbuilder_mover",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:vehicle_control_module": 1,
+    "rftoolsbuilder:vehicle_status_module": 2,
+    "rftoolsbuilder:mover_control": 3,
+    "rftoolsbuilder:mover_control2": 3,
+    "rftoolsbuilder:mover_control3": 3,
+    "rftoolsbuilder:mover_control4": 3,
+    "rftoolsbuilder:mover_status": 4
+  },
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Модули конструкций — экранные модули для взаимодействия с Контроллером перемещателей. Примените модуль к Контроллеру, чтобы привязать его."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:vehicle_control_module"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:vehicle_status_module"
+    },
+    {
+      "type": "text",
+      "text": "Модуль управления отправляет конструкцию к выбранному Перемещателю. Модуль состояния выводит сведения о конструкции на экран RFTools."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:mover_control"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:mover_status"
+    }
+  ]
+}

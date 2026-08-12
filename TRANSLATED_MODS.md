@@ -1,0 +1,345 @@
+# Переведённые моды
+
+Список 340 установленных модов и компонентов, для которых создан или дополнен внешний русский перевод.
+Applied Flux, Ars Énergistique и Productive Metalworks представлены переводами руководств; их обычные языковые файлы уже были встроены в моды.
+
+- Actually Additions
+- Additional Entity Attributes
+- Advanced AE
+- Advanced Peripherals
+- AE2 Import Export Card
+- AE2:Crafting Tree
+- AE2AddonLib
+- AE2NetworkAnalyzer
+- AE2WTLib
+- AE2WTLib API
+- AEInfinityBooster
+- Akashic Tome
+- All The Arcanist Gear
+- AllTheCompressed
+- Allthemodium
+- AllTheOres
+- AllTheTweaks
+- Amendments
+- Apotheosis
+- Apothic Attributes
+- Apothic Enchanting
+- Apothic Spawners
+- AppleSkin
+- Applied Energistics 2
+- Applied Flux
+- Aquaculture 2
+- Ars Additions
+- Ars Controle
+- Ars Creo
+- Ars Elemancy
+- Ars Elemental
+- Ars Nouveau
+- Ars Ocultas
+- Ars Technica
+- Ars Unification
+- Ars Énergistique
+- Artifacts
+- Auroras
+- Bad Wither No Cookie Reloaded
+- Balm
+- Baubley Heart Canisters
+- Better Advanced Tooltips
+- Better Advancements
+- Bibliobiomes Legacy
+- Bibliocraft Legacy
+- Bibliowoods Legacy
+- Bookshelf
+- BotanyPots
+- Brandon's Core
+- Bridging Mod
+- Building Gadgets 2
+- Cable Tiers
+- Caelus API
+- Camol
+- CC: Tweaked
+- Charging Gadgets
+- Chipped
+- Chisel Reborn
+- Chroma Carvings
+- Cloud Glass
+- Cobblegen Galore
+- CodeChicken Lib
+- Colorwheel
+- CommonCapabilities
+- Compact Machines
+- Connected Glass
+- ConnectedTexturesMod
+- Construction Sticks
+- Controlling
+- Cooking for Blockheads
+- Corail Tombstone
+- Crafting On A Stick
+- Crafting Tweaks
+- Crash Utilities
+- Create
+- Create Aquatic Ambitions
+- Create Crafts & Additions
+- Create Hypertube
+- Create: Dragons Plus
+- Create: Enchantment Industry
+- Creeper Overhaul
+- Cristel Lib
+- Crystalix
+- Cucumber Library
+- Cumulus
+- Curios API
+- Cyclops Core
+- Dark Mode Everywhere
+- Deeper and Darker
+- DimStorage
+- Dis-Enchanting Table
+- Domum Ornamentum
+- Draconic Evolution
+- Drippy Loading Screen
+- Dyenamics
+- Dyenamics and Friends
+- Dyson Cube Project
+- Easy Villagers
+- ElevatorMod
+- EnchantmentDescriptions
+- Ender IO
+- EnderDrives
+- Enderman Overhaul
+- Energy Meter
+- Entangled
+- Everything is Copper
+- EvilCraft
+- EvilCraft-Compat
+- Expanded AE
+- ExtendedAE
+- Extra Disks
+- ExtraStorage
+- Extreme Reactors
+- Extreme Sound Muffler
+- Factory Blocks
+- FancyMenu
+- Farming for Blockheads
+- Fast Workbench
+- Fireproof Boats
+- Flux Networks
+- Flywheel
+- Forbidden Arcanus
+- Formations
+- FramedBlocks
+- FTB Chunks
+- FTB Library
+- FTB Quests
+- FTB Quests Lang Splitter
+- FTB Teams
+- FTB Ultimine
+- Functional Storage
+- Fusion
+- Fzzy Config
+- Gateways To Eternity
+- Generator Galore
+- Get It Together, Drops!
+- Glassential-renewed
+- Gravitational Modulating Additional Unit
+- GuideME
+- Handcrafted
+- Hardened Armadillos
+- Hostile Neural Networks
+- I'm Fast
+- Ice And Fire Community Edition
+- Immersive Energistics
+- Immersive Engineering
+- Industrial Foregoing
+- Industrialization Overdrive
+- IntegratedDynamics
+- IntegratedDynamics-Compat
+- IntegratedScripting
+- IntegratedTerminals-Compat
+- IntegratedTunnels
+- Invasive Optimizations
+- Iris
+- Iron Furnaces
+- Iron Jetpacks
+- Iron's Gems 'n Jewelry
+- Iron's Lib
+- Iron's Spells 'n Spellbooks
+- Item Collectors
+- Jade
+- Jonn's Trophies
+- Journeymap
+- Jupiter
+- Just Dire Things
+- Just Enough Archaeology
+- Just Enough Breeding
+- Just Enough Items
+- Just Enough Mekanism Multiblocks
+- Just Enough Professions (JEP)
+- Just Zoom
+- KeyBind Bundles
+- KeybindsPurger
+- KubeJS
+- KubeJS Tweaks
+- Laser Bridges & Doors
+- LaserIO
+- lionfishapi
+- Living Things
+- Luminax
+- L_Ender's Cataclysm 1.21.1
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Holidays
+- Macaw's Lights and Lamps
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Stairs and Balconies
+- Macaw's Trapdoors
+- Macaw's Windows
+- Mahou Tsukai
+- Mama's Herbs and Harvest
+- Mama's MerryMaking
+- McJtyLib
+- ME Requester
+- Measurements
+- MEGA Cells
+- Mekanism
+- Mekanism Covers
+- Mekanism: Generators
+- Mekanism: MoreMachine
+- Mekanism: Tools
+- Mekanistic Routers
+- memorysettings mod
+- MineColonies
+- Mining Gadgets
+- Mo' Structures
+- Mob Grinding Utils
+- Modern Dynamics
+- Modern Industrialization
+- ModernFix
+- Modonomicon
+- Modular Force Field System
+- Modular Routers
+- ModularBees
+- MoogsEndStructures
+- MoogsNetherStructures
+- MoogsSoaringStructures
+- MoogsVoyagerStructures
+- Moonlight Lib
+- More Industrial Foregoing Addons
+- More Overlays Updated
+- More Red
+- MrCrayfish's Furniture Mod: Refurbished
+- Multi-Piston
+- Mystical Agriculture
+- NaturesAura
+- NeoAuth
+- Nitrogen
+- No Chat Reports
+- Not Enough Glyphs
+- NotEnoughAnimations
+- Nuggets
+- Observable
+- Occultism
+- Olympus
+- Oracle Index
+- Oritech
+- oωo
+- Pam's HarvestCraft - Crops
+- Pam's HarvestCraft - Food Core
+- Pam's HarvestCraft - Food Extended
+- Pam's HarvestCraft - Trees
+- Patchouli
+- PneumaticCraft: Repressurized
+- Pocket Storage
+- PolyLib
+- Ponder
+- PotionsMaster
+- Powah
+- Productive Bees
+- Productive Lib
+- Productive Metalworks
+- Productive Trees
+- Pylons
+- Railcraft Reborn
+- Rainbows
+- Rechiseled
+- Rechiseled: Create
+- Redstone Pen
+- Refined Storage
+- Refined Storage - Curios Integration
+- Refined Types
+- Regions Unexplored
+- Reliquary Reincarnations
+- Repeatable Trial Vaults
+- Resourcefulconfig
+- Restrictions
+- RFToolsBase
+- RFToolsBuilder
+- RFToolsPower
+- RFToolsStorage
+- RFToolsUtility
+- Roots Classic
+- Sauce Library
+- SecurityCraft
+- Shiny!
+- Shrink
+- Silent Gear
+- Silent Gear Metalworks
+- Silent Lib
+- Silent's Gems
+- Simple Backups
+- Simple Magnets
+- Simple Weather
+- Simply Light
+- SmithingTemplateViewer
+- Sodium
+- Sodium Extra
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Sophisticated Storage In Motion
+- Soulplied Energistics
+- SpectreLib
+- Spice of Life: Carrot Edition
+- Starbunclemania
+- StevesCarts2
+- Storage Delight
+- Structurize
+- Super Factory Manager (SFM)
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Sushi Go Crafting
+- Tempad
+- Tesseract API
+- The Aether
+- The Bumblezone
+- The Twilight Forest
+- The Undergarden
+- Theurgy
+- Time In A Bottle
+- Titanium
+- Torchmaster
+- Transfer Labels
+- Trash Cans
+- TrashSlot
+- Tree Tap
+- TRender
+- UI Library Mod
+- Universal Grid
+- Universal Sawmill
+- Utilitarian
+- Utility Vest
+- Waystones
+- When Dungeons Arise
+- Wireless Chargers
+- XNet
+- XTones Reworked
+- XyCraft Core
+- XyCraft Machines
+- XyCraft Override
+- XyCraft World
+- YUNG's Better Dungeons
+- YUNG's Better End Island
+- YUNG's Better Strongholds
+- Zero CORE 2

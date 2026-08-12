@@ -1,0 +1,22 @@
+{
+  "key.categories.craftingtweaks": "Настройки крафта",
+  "key.craftingtweaks.transfer_stack": "Перенести в сетку крафта",
+  "craftingtweaks.configuration.common": "Общие",
+  "craftingtweaks.configuration.common.compressRequiresCraftingGrid": "Сжатие только в сетке крафта",
+  "craftingtweaks.configuration.common.compressRequiresCraftingGrid.tooltip": "Выключите, чтобы сжатие и разжатие работали вне интерфейсов крафта (в инвентаре игрока работает только при установке мода на сервере)",
+  "craftingtweaks.configuration.common.compressDenylist": "Чёрный список сжатия",
+  "craftingtweaks.configuration.common.compressDenylist.tooltip": "Список записей вида modid:name, которые нельзя создавать клавишей сжатия.",
+  "craftingtweaks.configuration.client": "Клиентские",
+  "craftingtweaks.configuration.client.rightClickCraftsStack": "Крафт стака правой кнопкой",
+  "craftingtweaks.configuration.client.rightClickCraftsStack.tooltip": "Если включено, щелчок ПКМ по ячейке результата в верстаке создаёт полный стак.",
+  "craftingtweaks.configuration.client.hideVanillaCraftingGuide": "Скрыть ванильную книгу рецептов",
+  "craftingtweaks.configuration.client.hideVanillaCraftingGuide.tooltip": "Мы оба знаем, что JEI гораздо удобнее. Эта настройка скрывает кнопку ванильной книги рецептов, а не перемещает её.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX": "Смещение книги рецептов по X",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip": "Смещение от правого края при перемещении кнопки ванильной книги рецептов.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY": "Смещение книги рецептов по Y",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY.tooltip": "Смещение от верхнего края при перемещении кнопки ванильной книги рецептов.",
+  "craftingtweaks.configuration.client.mode": "Режим",
+  "craftingtweaks.configuration.client.mode.tooltip": "'DEFAULT' включает кнопки и горячие клавиши. 'BUTTONS' включает только кнопки. 'HOTKEYS' включает только горячие клавиши. 'DISABLED' полностью отключает мод.",
+  "craftingtweaks.configuration.client.disabledAddons": "Отключённые дополнения",
+  "craftingtweaks.configuration.client.disabledAddons.tooltip": "Укажите идентификаторы модов, для которых нужно отключить поддержку Crafting Tweaks."
+}

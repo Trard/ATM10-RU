@@ -1,0 +1,7 @@
+{
+  "chat.ae2wtlib.NetworkNotPowered": "Сеть не запитана",
+  "chat.ae2wtlib.SingularityNotPresent": "Сингулярность отсутствует",
+  "chat.ae2wtlib.NoQuantumBridgeCard": "Карта квантового моста отсутствует",
+  "chat.ae2wtlib.NoQuantumBridge": "Квантовый сетевой мост не найден. Он находится в загруженных чанках?",
+  "chat.ae2wtlib.NetworkMismatch": "Квантовый мост и беспроводная точка доступа подключены к разным сетям"
+}

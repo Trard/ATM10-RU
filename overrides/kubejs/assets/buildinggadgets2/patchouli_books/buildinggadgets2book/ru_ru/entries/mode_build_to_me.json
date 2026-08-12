@@ -1,0 +1,21 @@
+{
+  "name": "Строить ко мне",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/build_to_me.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режим «Строить ко мне» создаёт ряд блоков от выбранной грани до игрока. В зависимости от грани ряд может быть горизонтальным или вертикальным.$(br2)Параметр дальности в этом режиме не учитывается.$(br2)При включённом параметре «Размещать сверху» ряд строится к голове игрока, а не к ногам."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Строить ко мне",
+      "images": [
+        "buildinggadgets2:textures/book/images/ghost_render.png"
+      ],
+      "border": true,
+      "text": "Строительство в сторону игрока."
+    }
+  ]
+}

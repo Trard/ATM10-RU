@@ -1,0 +1,17 @@
+{
+  "name": "Рецепт создания книги",
+  "icon": "merrymaking:merrymanual",
+  "category": "merrymaking:book",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:merrymanual",
+      "text": "Если вы потеряли эту книгу или хотите создать ещё одну, понадобятся всего лишь книга, зелёный краситель и леденцовая трость."
+    },
+    {
+      "type": "crafting",
+      "title": "Праздничное руководство",
+      "recipe": "merrymaking:merrymanual_recipe"
+    }
+  ]
+}

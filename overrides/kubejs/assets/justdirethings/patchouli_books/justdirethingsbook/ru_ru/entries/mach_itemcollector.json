@@ -1,0 +1,17 @@
+{
+  "name": "Сборщик предметов",
+  "sortnum": 1,
+  "category": "justdirethings:machines",
+  "icon": "justdirethings:itemcollector",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Хотя сборщик предметов создаётся из ресурсов 1-го уровня, он работает как $(l:justdirethings:mach_advanced_controls)продвинутый механизм$(/l). Он втягивает все сущности-предметы из области действия и помещает их в присоединённый инвентарь.$(br2)В интерфейсе можно отфильтровать подбираемые предметы и при желании увеличить скорость сбора."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Простой разрушитель блоков",
+      "recipe": "justdirethings:itemcollector"
+    }
+  ]
+}

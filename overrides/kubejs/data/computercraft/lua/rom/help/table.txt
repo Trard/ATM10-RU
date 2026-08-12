@@ -1,0 +1,2 @@
+table — стандартный API Lua5.1.
+Подробности см. на странице http://www.lua.org/manual/5.1/

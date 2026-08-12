@@ -1,0 +1,13 @@
+{
+  "name": "Урон от текущего здоровья",
+  "icon": "minecraft:dragon_head",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Урон от текущего здоровья$() срабатывает при попадании. Каждый удар наносит дополнительный физический урон в размере доли текущего здоровья цели.$(p)Этот атрибут встречается только на тяжёлом оружии."
+    }
+  ]
+}

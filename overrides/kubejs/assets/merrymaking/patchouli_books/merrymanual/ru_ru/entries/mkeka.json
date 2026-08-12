@@ -1,0 +1,22 @@
+{
+  "name": "Мкека",
+  "icon": "merrymaking:mkeka",
+  "category": "merrymaking:kwanzaa",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Мкека",
+      "item": "merrymaking:mkeka",
+      "text": "Мкека ориентируется по направлению и взаимодействует с кинарой, кубком и кукурузой.$(br2)На одной мкеке помещается одна кинара либо:$(li)один кубок$(li)до 3 початков кукурузы$(li)кубок вместе с 3 початками кукурузы."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Чтобы убрать предметы с мкеки, щёлкните по ней пустой рукой."
+    },
+    {
+      "type": "crafting",
+      "title": "Мкека",
+      "recipe": "merrymaking:mkeka"
+    }
+  ]
+}

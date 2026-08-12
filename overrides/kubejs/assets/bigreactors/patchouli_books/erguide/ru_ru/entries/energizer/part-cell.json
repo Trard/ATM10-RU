@@ -1,0 +1,22 @@
+{
+  "name": "Энергетическая ячейка",
+  "icon": "bigreactors:energizercell",
+  "category": "bigreactors:energizer-parts",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:energizercell",
+      "link_recipe": true,
+      "title": "Энергетическая ячейка",
+      "text": "Энергетические ячейки хранят энергию энергизатора и должны полностью заполнять весь внутренний объём машины."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Энергетическая ячейка",
+      "crafting.recipe1": "bigreactors:energizer/energizercell",
+      "usage.text": "$(l)Обязательно:$() да$(br)$(l)Допустимое положение:$() внутри энергизатора$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

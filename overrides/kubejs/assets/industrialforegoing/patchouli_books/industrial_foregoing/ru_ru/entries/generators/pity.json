@@ -1,0 +1,17 @@
+{
+  "name": "Жалкий генератор",
+  "icon": "industrialforegoing:pitiful_generator",
+  "category": "industrialforegoing:generators",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Крайне неэффективный генератор, сжигающий топливо вроде угля.$(br2)Он настолько неэффективен, что продолжает расходовать топливо даже при полном энергетическом буфере."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:pitiful_generator"
+    }
+  ]
+}

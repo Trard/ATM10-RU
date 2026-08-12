@@ -1,0 +1,71 @@
+{
+  "name": "Блоки расширения",
+  "icon": "productivebees:expansion_box_oak",
+  "category": "productivebees:hives",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Блоки расширения можно прикреплять к продвинутым ульям, чтобы увеличить вместимость улья с 3 до 5 пчёл. Блок расширения размещается сверху или сбоку от улья. К каждому улью можно присоединить только один блок расширения."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "productivebees:expansion_boxes/expansion_box_oak"
+    },
+    {
+      "type": "multiblock",
+      "name": "Расширение вверх",
+      "multiblock": {
+        "mapping": {
+          "H": "productivebees:advanced_oak_beehive[expanded=up]",
+          "E": "productivebees:expansion_box_oak[expanded=up]"
+        },
+        "pattern": [
+          [
+            "E"
+          ],
+          [
+            "H"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "symmetrical": true,
+        "offset": [
+          0,
+          1,
+          0
+        ]
+      },
+      "enable_visualize": false
+    },
+    {
+      "type": "multiblock",
+      "name": "Расширение вбок",
+      "multiblock": {
+        "mapping": {
+          "H": "productivebees:advanced_oak_beehive[expanded=left]",
+          "E": "productivebees:expansion_box_oak[expanded=left]"
+        },
+        "pattern": [
+          [
+            "H",
+            "E"
+          ],
+          [
+            "0",
+            " "
+          ]
+        ],
+        "symmetrical": true,
+        "offset": [
+          0,
+          1,
+          0
+        ]
+      },
+      "enable_visualize": false
+    }
+  ]
+}

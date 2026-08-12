@@ -1,0 +1,2 @@
+math — стандартный API Lua 5.1.
+Дополнительные сведения: http://www.lua.org/manual/5.1/

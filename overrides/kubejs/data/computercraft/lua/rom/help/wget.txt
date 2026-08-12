@@ -1,0 +1,8 @@
+wget — программа для загрузки файлов из интернета. Она полезна для загрузки программ, созданных другими игроками.
+Если имя файла не указано, wget попытается определить его по URL: удалит якоря, параметры и конечные косые черты, а затем возьмёт всё, что осталось после последней косой черты.
+Для использования этой программы в ComputerCraft.cfg должен быть включён HTTP API.
+Примеры:
+"wget http://pastebin.com/raw/CxaWmPrX test" загружает файл по URL http://pastebin.com/raw/CxaWmPrX и сохраняет его как "test".
+"wget http://example.org/test.lua/?foo=bar#qzu" загружает файл по URL http://example.org/test.lua/?foo=bar#qzu и сохраняет его как "test.lua"
+"wget http://example.org/" загружает файл по URL http://example.org и сохраняет его как "example.org"
+"wget run http://pastebin.com/raw/CxaWmPrX" загружает файл по URL http://pastebin.com/raw/CxaWmPrX и немедленно запускает его.

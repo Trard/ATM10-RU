@@ -1,0 +1,17 @@
+{
+  "name": "Слизь Blazebloom",
+  "sortnum": 2,
+  "category": "justdirethings:goo",
+  "icon": "justdirethings:gooblock_tier2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Слизь Blazebloom заключает в себе огненную сущность Нижнего мира. Она превращает золото в Blazegold — материал, насыщенный солнечной энергией и полезный как в ремесле, так и в магии.$(br2)Blazebloom подходит алхимикам среднего уровня и открывает более совершенные способы преобразования и очистки ресурсов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание слизи Blazebloom",
+      "recipe": "justdirethings:gooblock_tier2"
+    }
+  ]
+}

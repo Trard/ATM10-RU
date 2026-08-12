@@ -1,0 +1,13 @@
+{
+  "name": "Разрушение защиты",
+  "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Разрушение защиты$() позволяет при атаке игнорировать долю очков защиты цели.$(p)$(9)Разрушение защиты$() применяется до $(9)пробивания защиты$()."
+    }
+  ]
+}

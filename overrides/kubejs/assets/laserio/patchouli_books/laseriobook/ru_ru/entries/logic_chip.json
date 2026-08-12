@@ -1,0 +1,22 @@
+{
+  "name": "Логические микросхемы",
+  "icon": "laserio:logic_chip",
+  "sortnum": 0,
+  "category": "laserio:items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Логические микросхемы — основной компонент для крафта в LaserIO. $(br2)Только они создаются из материалов ванильного Minecraft, а во всех следующих рецептах так или иначе используется микросхема."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Необработанная логическая микросхема",
+      "recipe": "laserio:logic_chip_raw"
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Логическая микросхема",
+      "recipe": "laserio:logic_chip"
+    }
+  ]
+}

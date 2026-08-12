@@ -1,0 +1,27 @@
+{
+  "name": "Стекло",
+  "icon": "bigreactors:reinforced_reactorglass",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorglass",
+      "link_recipe": true,
+      "title": "Стекло",
+      "text": "Стекло — декоративный элемент, которым можно заменить корпус и открыть вид на внутреннее устройство реактора."
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "Базовый",
+      "recipe1": "bigreactors:reactor/basic/glass",
+      "title2": "Усиленный",
+      "recipe2": "bigreactors:reactor/reinforced/glass"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)Обязательно:$() нет$(br)$(l)Допустимое положение:$() на любой грани (не на каркасе)$(br)$(l)Варианты:$() все$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

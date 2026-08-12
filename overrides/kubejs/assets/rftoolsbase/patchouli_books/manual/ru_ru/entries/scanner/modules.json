@@ -1,0 +1,29 @@
+{
+  "name": "Модули сканера",
+  "icon": "rftoolsstorage:storage_control_module",
+  "category": "rftoolsbase:category_rftoolsstorage_scanner",
+  "extra_recipe_mappings": {
+    "rftoolsstorage:storage_control_module": 0,
+    "rftoolsstorage:dump_module": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Модули управления хранилищем и выгрузки — экранные модули, работающие через привязанный Сканер хранилищ. Чтобы задать цель, щёлкните модулем по сканеру правой кнопкой мыши, удерживая Shift."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_control_module",
+      "recipe2": "rftoolsstorage:dump_module"
+    },
+    {
+      "type": "text",
+      "text": "Модуль управления хранилищем отслеживает до девяти фильтров предметов и может подсчитывать содержимое всех хранилищ либо только отмеченных звёздочкой или доступных для маршрутизации."
+    },
+    {
+      "type": "text",
+      "text": "Модуль выгрузки отправляет подходящие предметы из инвентаря игрока в сеть привязанного сканера. Для более широкого сопоставления он умеет использовать общие теги предметов."
+    }
+  ]
+}

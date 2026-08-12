@@ -1,0 +1,27 @@
+{
+  "name": "Лопасть ротора",
+  "icon": "bigreactors:reinforced_turbinerotorblade",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinerotorblade",
+      "link_recipe": true,
+      "title": "Лопасть ротора",
+      "text": "Лопасть ротора — последний компонент $(l:bigreactors:turbine/rotor)ротора$(/l), но именно она заставляет его вращаться.$(br2)Лопасть можно разместить только перпендикулярно блоку $(l:bigreactors:turbine/part-rotorshaft)вала ротора$(/l) либо рядом с уже установленной лопастью, продолжая ряд от вала."
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "Базовый",
+      "recipe1": "bigreactors:turbine/basic/blade",
+      "title2": "Усиленный",
+      "recipe2": "bigreactors:turbine/reinforced/blade"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)Обязательно:$() да$(br)$(l)Допустимое положение:$() внутри турбины, рядом с другой лопастью или блоком вала ротора$(br)$(l)Варианты:$() все$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

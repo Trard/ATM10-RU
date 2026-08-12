@@ -1,0 +1,281 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "Мод «Травы и урожай» добавляет в игру 32 новые культуры.\n\nВыберите тему ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.crops.info",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.crops.tall",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.crops.grapes",
+          "target_page": 3
+        },
+        {
+          "title": "herbsandharvest.guide_book.crops.list",
+          "target_page": 4
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/intro/crops.png",
+          "caption": "herbsandharvest.guide_book.chapters.intro.crops_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.crops.info",
+      "summary": "Культуры из мода «Травы и урожай» ведут себя так же, как обычные культуры Minecraft.\n\nВсе они высаживаются на грядки; чтобы получить урожай и семена, растения нужно сломать.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n\nКультуры можно найти на деревенских фермах, а семена — в сундуках по всему Обычному миру.\n\nСемена также можно создать из урожая: один плод даёт одно семя на верстаке.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.crops.tall",
+      "summary": "Доступно несколько высоких культур:\n\nКукуруза, баклажаны, горох и помидоры.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n\nЕсли сломать верхнюю или нижнюю часть зрелого высокого растения, оно сломается целиком и из него выпадут плоды и семена.\n\nДля посадки высокой культуры достаточно одного семени; после сбора её нужно сажать заново.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.crops.grapes",
+      "summary": "Виноградные лозы растут подобно пещерным лианам и дают собираемые плоды.\n\nИх сажают под блоком; со временем они растут вниз и плодоносят.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/grapes/grapes.png",
+          "caption": "herbsandharvest.guide_book.chapters.grapes.grapes_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Как и пещерные лианы, их рост можно ускорить костной мукой.\n\nВиноград встречается на шпалерах в деревнях и в сундуках Обычного мира.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.crops.list",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.crops.list.lista",
+          "target_page": 5
+        },
+        {
+          "title": "herbsandharvest.guide_book.crops.list.listb",
+          "target_page": 6
+        },
+        {
+          "title": "herbsandharvest.guide_book.crops.list.listc",
+          "target_page": 7
+        }
+      ],
+      "summary": "Ниже приведён полный алфавитный список культур из мода «Травы и урожай».\nВыберите ссылку ниже, чтобы открыть нужный раздел:",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/intro/crops.png",
+          "caption": "herbsandharvest.guide_book.chapters.intro.crops_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.crops.list.lista",
+      "summary": "",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:asparagus",
+              "text": "guide.herbsandharvest.asparagus_desc"
+            },
+            {
+              "item": "herbsandharvest:barley",
+              "text": "guide.herbsandharvest.barley_desc"
+            },
+            {
+              "item": "herbsandharvest:eggplant",
+              "text": "guide.herbsandharvest.eggplant_desc"
+            },
+            {
+              "item": "herbsandharvest:blackberry",
+              "text": "guide.herbsandharvest.blackberry_desc"
+            },
+            {
+              "item": "herbsandharvest:blueberry",
+              "text": "guide.herbsandharvest.blueberry_desc"
+            },
+            {
+              "item": "herbsandharvest:broccoli",
+              "text": "guide.herbsandharvest.broccoli_desc"
+            },
+            {
+              "item": "herbsandharvest:cabbage",
+              "text": "guide.herbsandharvest.cabbage_desc"
+            },
+            {
+              "item": "herbsandharvest:cauliflower",
+              "text": "guide.herbsandharvest.cauliflower_desc"
+            },
+            {
+              "item": "herbsandharvest:celery",
+              "text": "guide.herbsandharvest.celery_desc"
+            },
+            {
+              "item": "herbsandharvest:corn",
+              "text": "guide.herbsandharvest.corn_desc"
+            },
+            {
+              "item": "herbsandharvest:cucumber",
+              "text": "guide.herbsandharvest.cucumber_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.crops.list.listb",
+      "summary": "",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:garlic_bulb",
+              "text": "guide.herbsandharvest.garlic_bulb_desc"
+            },
+            {
+              "item": "herbsandharvest:green_bean",
+              "text": "guide.herbsandharvest.green_bean_desc"
+            },
+            {
+              "item": "herbsandharvest:green_pepper",
+              "text": "guide.herbsandharvest.green_pepper_desc"
+            },
+            {
+              "item": "herbsandharvest:lettuce",
+              "text": "guide.herbsandharvest.lettuce_desc"
+            },
+            {
+              "item": "herbsandharvest:oats_item",
+              "text": "guide.herbsandharvest.oats_item_desc"
+            },
+            {
+              "item": "herbsandharvest:onion",
+              "text": "guide.herbsandharvest.onion_desc"
+            },
+            {
+              "item": "herbsandharvest:peanut",
+              "text": "guide.herbsandharvest.peanut_desc"
+            },
+            {
+              "item": "herbsandharvest:peas",
+              "text": "guide.herbsandharvest.peas_desc"
+            },
+            {
+              "item": "herbsandharvest:pineapple",
+              "text": "guide.herbsandharvest.pineapple_desc"
+            },
+            {
+              "item": "herbsandharvest:radish",
+              "text": "guide.herbsandharvest.radish_desc"
+            },
+            {
+              "item": "herbsandharvest:rice_item",
+              "text": "guide.herbsandharvest.rice_item_desc"
+            },
+            {
+              "item": "herbsandharvest:raspberry",
+              "text": "guide.herbsandharvest.raspberry_desc"
+            },
+            {
+              "item": "herbsandharvest:rye",
+              "text": "guide.herbsandharvest.rye_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.crops.list.listc",
+      "summary": "",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:squash",
+              "text": "guide.herbsandharvest.squash_desc"
+            },
+            {
+              "item": "herbsandharvest:strawberry",
+              "text": "guide.herbsandharvest.strawberry_desc"
+            },
+            {
+              "item": "herbsandharvest:sweet_potato",
+              "text": "guide.herbsandharvest.sweet_potato_desc"
+            },
+            {
+              "item": "herbsandharvest:tomato",
+              "text": "guide.herbsandharvest.tomato_desc"
+            },
+            {
+              "item": "herbsandharvest:turnip",
+              "text": "guide.herbsandharvest.turnip_desc"
+            },
+            {
+              "item": "herbsandharvest:zucchini",
+              "text": "guide.herbsandharvest.zucchini_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nВыращивание вьющихся культур:\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:grapes",
+              "text": "guide.herbsandharvest.grapes_desc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

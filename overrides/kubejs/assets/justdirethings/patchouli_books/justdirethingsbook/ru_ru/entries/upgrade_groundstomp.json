@@ -1,0 +1,17 @@
+{
+  "name": "Удар по земле",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_groundstomp",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Высвободите сейсмическую силу улучшением «Удар по земле». При активации оно создаёт ударную волну, отбрасывающую ближайших существ.$(br2)Это активная способность, поэтому для применения назначьте ей клавишу."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Удар по земле»",
+      "recipe": "justdirethings:upgrade_groundstomp"
+    }
+  ]
+}

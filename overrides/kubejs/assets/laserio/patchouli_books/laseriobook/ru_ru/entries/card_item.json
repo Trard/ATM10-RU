@@ -1,0 +1,21 @@
+{
+  "name": "Предметные карты",
+  "sortnum": 1,
+  "category": "laserio:cards",
+  "icon": "laserio:card_item",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Предметные карты перемещают предметы между хранилищами, например сундуками и печами.$(br2)Параметры ускорителей приведены на следующей странице."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Максимальное число предметов за операцию для ускорителей:$(br2)$(li)0 ускорителей: 8 Items/20t$(li)1 ускоритель:  16 Items/15t$(li)2 ускорителя: 32 Items/10t$(li)3 ускорителя: 48 Items/5t$(li)4 ускорителя: 64 Items/1t"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Предметная карта",
+      "recipe": "laserio:card_item"
+    }
+  ]
+}

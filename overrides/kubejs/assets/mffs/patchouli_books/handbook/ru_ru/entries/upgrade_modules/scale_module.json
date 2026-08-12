@@ -1,0 +1,18 @@
+{
+  "name": "Модуль масштаба",
+  "icon": "mffs:scale_module",
+  "category": "mffs:upgrade_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:scale_module",
+      "link_recipe": true,
+      "text": "$(5)Модуль масштаба$() можно установить в слоты улучшений различных машин MFFS, чтобы увеличить дальность их действия. Точный эффект зависит от машины, но чаще всего модуль: $(li)увеличивает размер силового поля$(li)увеличивает область действия Матрицы запрета$(li)усиливает топливо в $(l:mffs:machines/coercion_deriver)Извлекателе энергии$()"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:scale_module",
+      "text": "Создание $(5)Модуля масштаба$()."
+    }
+  ]
+}

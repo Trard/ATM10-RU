@@ -1,0 +1,19 @@
+{
+  "name": "Цифра",
+  "icon": "rftoolsutility:digit",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:digit": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот блок отображает соответствующее силе входного сигнала число от 0 до F в шестнадцатеричной системе."
+    },
+    {
+      "type": "crafting",
+      "heading": "Цифра",
+      "recipe": "rftoolsutility:digit"
+    }
+  ]
+}

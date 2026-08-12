@@ -1,0 +1,13 @@
+{
+  "name": "Скорость добывания",
+  "icon": "minecraft:netherite_pickaxe",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Повышение $(9)скорости добывания$() ускоряет разрушение блоков. При базовом значении 1,0 блоки разрушаются с обычной скоростью.$(p)Встречается на кирках и лопатах."
+    }
+  ]
+}

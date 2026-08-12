@@ -1,0 +1,20 @@
+{
+  "name": "Монитор энергии",
+  "icon": "rftoolspower:power_monitor",
+  "category": "rftoolsbase:category_rftoolspower_monitor",
+  "extra_recipe_mappings": {
+    "rftoolspower:power_monitor": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот логический блок можно установить входной стороной к $(thing)энергетическому блоку$(). В его интерфейсе задаётся диапазон энергии, при котором он выдаёт $(thing)сигнал редстоуна$(). $(br2)Сигнал подаётся, когда уровень энергии выше минимального и ниже максимального процентного значения. "
+    },
+    {
+      "type": "crafting",
+      "heading": "Монитор энергии",
+      "recipe": "rftoolspower:power_monitor"
+    }
+  ]
+}

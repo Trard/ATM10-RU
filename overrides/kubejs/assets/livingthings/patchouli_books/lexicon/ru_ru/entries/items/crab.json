@@ -1,0 +1,16 @@
+{
+  "name": "Сырое мясо краба",
+  "icon": "livingthings:crab",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)может выпасть из крабов"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:crab",
+      "text": "$(br)$(bold)Применение:$()$(li)можно съесть$(li)можно приготовить мясо краба"
+    }
+  ]
+}

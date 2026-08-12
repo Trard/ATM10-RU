@@ -1,0 +1,19 @@
+{
+  "name": "Поглощение",
+  "icon": "minecraft:textures/mob_effect/absorption.png",
+  "category": "apotheosis:potion/recipes",
+  "flag": "apotheosis:potion",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Поглощение$() — любопытный эффект.$(p)Каждый его уровень даёт два дополнительных временных сердца.$(p)Однако в течение действия эффекта эти сердца не восстанавливаются, поэтому предпочтительнее использовать $(l:apotheosis:potion/charms/charm)амулет зелья$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Рецепт зельеварения",
+      "item": "minecraft:golden_apple",
+      "text": "Это зелье создаётся из неловкого зелья и золотого яблока.$(p)Обычными ингредиентами его можно продлить, усилить или превратить во взрывное зелье."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "accelerator_controller.mdx": "Контроллер ускорителя",
+  "accelerator_motor.mdx": "Двигатель ускорителя",
+  "accelerator_ring.mdx": "Направляющее кольцо ускорителя",
+  "accelerator_sensor.mdx": "Датчик скорости ускорителя",
+  "particle_collector_block.mdx": "Сборщик тахионов"
+}

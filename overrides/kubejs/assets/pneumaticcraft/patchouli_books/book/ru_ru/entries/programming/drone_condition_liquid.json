@@ -1,0 +1,19 @@
+{
+  "name": "Условие дрона: жидкость",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_drone_liquid_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)условия/$.$(p)Виджет $(thing)Условие дрона: жидкость/$ позволяет проверить наличие определённого количества жидкости в резервуаре этого $(l:tools/drone)дрона/$. Учитывается только жидкость, разрешённая подключённым $(l:programming/liquid_filter)Фильтром жидкостей/$ (без фильтра учитывается любая жидкость)."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_drone_liquid_piece.png"
+      ],
+      "text": "$(italic)Виджет «Условие дрона: жидкость»/$"
+    }
+  ]
+}

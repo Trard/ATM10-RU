@@ -1,0 +1,20 @@
+{
+  "name": "Дубликатор существ",
+  "icon": "industrialforegoing:mob_duplicator",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина для создания существ. Получая энергию, $(l:agr_hus/essence)эссенцию$() и существо в $(l:tools/mib)инструменте заточения$(), она создаёт его поблизости.$(br2)Машина подсчитывает ближайших существ и останавливается, если их слишком много."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_duplicator"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

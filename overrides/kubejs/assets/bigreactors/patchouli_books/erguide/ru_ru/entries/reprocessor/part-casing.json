@@ -1,0 +1,22 @@
+{
+  "name": "Корпус",
+  "icon": "bigreactors:reprocessorcasing",
+  "category": "bigreactors:reprocessor-parts",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reprocessorcasing",
+      "link_recipe": true,
+      "title": "Корпус",
+      "text": "Блоки корпуса — основа репроцессора.$(br2)Они необходимы для каркаса и создания остальных частей. Корпусом также можно заполнить грани репроцессора, если вы предпочитаете обойтись без стекла."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Корпус",
+      "crafting.recipe1": "bigreactors:reprocessor/casing",
+      "usage.text": "$(l)Обязательно:$() необходимы для каркаса$(br)$(l)Допустимое положение:$() любое$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Избыточное исцеление",
+  "icon": "minecraft:experience_bottle",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Избыточное исцеление$() превращает часть нанесённого физического урона в щит поглощения. В отличие от кражи жизни, оно работает и при полном здоровье.$(p)Этот атрибут встречается только на тяжёлом оружии."
+    }
+  ]
+}

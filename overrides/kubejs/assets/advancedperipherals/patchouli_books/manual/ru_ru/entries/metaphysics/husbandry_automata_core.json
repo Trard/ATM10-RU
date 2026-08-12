@@ -1,0 +1,20 @@
+{
+  "name": "Животноводческое ядро автомата",
+  "icon": "advancedperipherals:husbandry_automata_core",
+  "category": "advancedperipherals:metaphysics",
+  "advancement": "advancedperipherals:weak_automata_core",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Животноводческое ядро автомата",
+      "item": "advancedperipherals:husbandry_automata_core",
+      "text": "Поглотив 3 куриц, 3 коров и 3 овец, слабое ядро автомата превратится в животноводческое ядро!$(p)Это не только более мощный вариант слабого ядра: похоже, такая душа также позволяет взаимодействовать с животными!"
+    },
+    {
+      "type": "link",
+      "text": "Помимо возможностей слабого ядра автомата, это ядро позволяет взаимодействовать с животными и даже помещать их внутрь!$(p)Но учтите: после разрушения черепашки любое хранящееся в ней животное будет потеряно.",
+      "url": "https://docs.advanced-peripherals.de/metaphysics/husbandry_automata/",
+      "link_text": "Документация API"
+    }
+  ]
+}

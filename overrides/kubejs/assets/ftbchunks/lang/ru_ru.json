@@ -1,0 +1,16 @@
+{
+  "ftbchunks.config.client": "Клиентские настройки",
+  "ftbchunks.config.server": "Серверные настройки",
+  "ftbchunks.config.client.appearance.claim_mode": "Режим привата чанков",
+  "ftbchunks.config.client.minimap.reticle": "Линии прицела",
+  "ftbchunks.config.client.minimap.text_above_minimap": "Показывать текст над мини-картой",
+  "ftbchunks.gui.edit_waypoint": "Изменить путевую точку",
+  "ftbchunks.gui.edit": "Изменить",
+  "ftbchunks.config.server.flowing_fluid_protection": "Защита от растекания жидкостей",
+  "ftbchunks.config.server.flowing_fluid_protection.tooltip": "Если включено, жидкости не смогут перетекать по горизонтали между приватами разных команд (если в целевом привате не разрешено публичное изменение блоков).\nПо умолчанию выключено; включение может снизить производительность сервера, поскольку растекание жидкостей проверяется очень часто, особенно в больших потоках.\nЕсли параметр 'disable_protection' включён, эта настройка игнорируется.",
+  "ftbchunks.config.server.fire_spread_protection": "Защита от распространения огня",
+  "ftbchunks.config.server.fire_spread_protection.tooltip": "Если включено, огонь не сможет распространяться между приватами разных команд (если в целевом привате не разрешено публичное изменение блоков).\nПо умолчанию выключено; включение может снизить производительность сервера, особенно при большом количестве горящих блоков.\nЕсли параметр 'disable_protection' включён, эта настройка игнорируется.",
+  "ftbchunks.claim_mode.freehand": "Свободный приват",
+  "ftbchunks.claim_mode.rectangle": "Прямоугольный приват",
+  "ftbchunks.claim_mode.circle": "Круговой приват"
+}

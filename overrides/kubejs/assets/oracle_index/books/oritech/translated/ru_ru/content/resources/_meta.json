@@ -1,0 +1,16 @@
+{
+  "world": "Генерация мира",
+  "biomass.mdx": "Биомасса",
+  "silicon.mdx": "Кремний",
+  "plastic_sheet.mdx": "Пластик",
+  "steel_ingot.mdx": "Сталь",
+  "nickel_ingot.mdx": "Никель",
+  "electrum_ingot.mdx": "Электрум",
+  "platinum_ingot.mdx": "Платина",
+  "duratium_ingot.mdx": "Дюратиум",
+  "adamant_ingot.mdx": "Адамант",
+  "biosteel_ingot.mdx": "Биосталь",
+  "energite_ingot.mdx": "Энергит",
+  "fluxite.mdx": "Флюксит",
+  "prometheum_ingot.mdx": "Прометиум"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Лук из Blazegold",
+  "sortnum": 12,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:bow_blazegold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мощнее $(l:justdirethings:tool_ferricore_bow)лука из Ferricore$(/l) и обладает «Лавовым ремонтом».$(br2)Кроме того, в нём есть 2 ячейки для $(l:justdirethings:item_potion_canister)канистр с зельем$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:bow_blazegold",
+      "text": "Создание лука из Blazegold"
+    }
+  ]
+}

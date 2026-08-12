@@ -1,0 +1,23 @@
+{
+  "name": "Карты конструкций",
+  "icon": "rftoolsbuilder:vehicle_card",
+  "category": "rftoolsbase:category_rftoolsbuilder_mover",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:vehicle_card": 1
+  },
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта конструкции хранит блоки, из которых состоит движущаяся конструкция. Строитель конструкций заполняет карту из правильно сформированной пространственной камеры."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:vehicle_card"
+    },
+    {
+      "type": "text",
+      "text": "Вставьте карту в Перемещатель, чтобы разместить конструкцию в этом узле. После этого Контроллер сможет перемещать её между соединёнными Перемещателями."
+    }
+  ]
+}

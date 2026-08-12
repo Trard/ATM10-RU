@@ -1,0 +1,17 @@
+{
+  "name": "Небесный чистильщик",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_skysweeper",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Небесный чистильщик» — пассивная способность для лопат уровня Ferricore и выше. Когда вы ломаете подверженный гравитации блок, например гравий или песок, все совпадающие блоки над ним также автоматически разрушаются. Больше никакого падающего гравия в шахте!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Небесный чистильщик»",
+      "recipe": "justdirethings:upgrade_skysweeper"
+    }
+  ]
+}

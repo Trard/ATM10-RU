@@ -1,0 +1,13 @@
+{
+  "name": "Скорость плавания",
+  "icon": "minecraft:kelp",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Скорость плавания$() изменяет фактическую скорость плавания. При значении 200% вы плывёте вдвое быстрее.$(p)Встречается только на обуви."
+    }
+  ]
+}

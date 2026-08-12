@@ -1,0 +1,17 @@
+{
+  "name": "Станция ферментации",
+  "icon": "industrialforegoing:fermentation_station",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 20,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Эта машина принимает сырое рудное мясо, герметизируется при достижении заданного уровня заполнения и ферментирует мясо выбранным способом."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fermentation_station"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Связь с экраном",
+  "icon": "rftoolsutility:screen_link",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:screen_link": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Связь с экраном хранит положение $(l:rftoolsbase:machines/screen)Экрана$(/l), чтобы $(l:rftoolsbase:tools/tablet)Планшет$(/l) мог открыть его удалённо."
+    },
+    {
+      "type": "crafting",
+      "heading": "Связь с экраном",
+      "recipe": "rftoolsutility:screen_link"
+    },
+    {
+      "type": "text",
+      "title": "Привязка",
+      "text": "Щёлкните Связью с экраном по Экрану правой кнопкой мыши, чтобы сохранить его. Щелчок по другому блоку очищает сохранённую цель."
+    },
+    {
+      "type": "text",
+      "title": "Планшет",
+      "text": "Поместите Связь в Планшет. Использование Планшета откроет удалённый Экран, если его чанк загружен. Использование с зажатым Shift открывает интерфейс Планшета."
+    }
+  ]
+}

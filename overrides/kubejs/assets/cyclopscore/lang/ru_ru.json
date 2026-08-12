@@ -1,0 +1,16 @@
+{
+  "_comment": "Дополнения к ванильной игре",
+  "itemGroup.cyclopscore": "Cyclops Core",
+  "general.cyclopscore.dev_world": "Мир разработчика",
+  "gui.cyclopscore.scrollbar": "Прокрутка",
+  "gui.cyclopscore.search": "Поиск",
+  "gui.cyclopscore.left": "Слева",
+  "gui.cyclopscore.right": "Справа",
+  "gui.cyclopscore.up": "Вверх",
+  "gui.cyclopscore.down": "Вниз",
+  "gui.cyclopscore.infobook": "Информационная книга",
+  "infobook.cyclopscore.keybindings": "Назначения клавиш",
+  "infobook.cyclopscore.keybinding": "Назначение клавиши",
+  "infobook.cyclopscore.external": "Веб-версия",
+  "gui.cyclopscore.rewards": "Награды"
+}

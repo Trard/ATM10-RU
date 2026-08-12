@@ -1,0 +1,6 @@
+{
+  "name": "Трубы и модули",
+  "description": "По трубам давления в $(pncr) перемещается сжатый воздух.",
+  "icon": "pneumaticcraft:pressure_tube",
+  "sortnum": 2
+}

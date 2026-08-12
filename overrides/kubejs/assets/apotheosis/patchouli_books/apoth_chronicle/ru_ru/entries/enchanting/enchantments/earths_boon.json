@@ -1,0 +1,13 @@
+{
+  "name": "Дар земли",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(2)Дар земли$() — шедевральные чары для кирок.$(p)При добывании обычного камня есть шанс получить блок руды."
+    }
+  ]
+}

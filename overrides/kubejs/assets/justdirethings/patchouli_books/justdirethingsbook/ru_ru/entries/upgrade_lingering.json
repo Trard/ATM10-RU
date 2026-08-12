@@ -1,0 +1,17 @@
+{
+  "name": "Туманное облако",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lingering",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Туманное облако» расширяет область воздействия: зелья, выпущенные из лука, оставляют стойкое облако, дольше воздействующее на окружение и врагов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание туманного облака",
+      "recipe": "justdirethings:upgrade_lingering"
+    }
+  ]
+}

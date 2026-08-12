@@ -1,0 +1,27 @@
+{
+  "conditions": [],
+  "description": {
+    "text": "«Улучшенная водная адаптация» даёт подводное дыхание без полного комплекта брони"
+  },
+  "effects": [
+    {
+      "type": "silentgear:wielder_effect",
+      "potion_effects": {
+        "silentgear:armor": [
+          {
+            "type": "piece_count",
+            "duration": 38,
+            "effect": "minecraft:water_breathing",
+            "levels": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "max_level": 5,
+  "name": {
+    "text": "Улучшенная водная адаптация"
+  }
+}

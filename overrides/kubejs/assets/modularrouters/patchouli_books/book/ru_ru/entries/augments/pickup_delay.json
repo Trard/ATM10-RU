@@ -1,0 +1,15 @@
+{
+  "name": "Дополнение задержки подбора",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:pickup_delay_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это дополнение устанавливается только в модули $(l:modules/dropper)выбрасывателя/$ и $(l:modules/flinger)метателя/$.$(p)Оно складывается в стопку: каждое дополнение увеличивает задержку подбора выброшенных предметов на 10 тактов (0,5 секунды). Это полезно, например, чтобы игроки случайно не подбирали предметы поблизости."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:pickup_delay_augment"
+    }
+  ]
+}

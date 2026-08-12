@@ -1,0 +1,78 @@
+{
+  "name": "Броня с безвкусными свитерами",
+  "icon": "merrymaking:red_santa_hat_leather",
+  "category": "merrymaking:armor",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/ugly_armor.png"
+      ],
+      "text": "Комплект безвкусной рождественской брони."
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:red_ugly_christmas_sweater",
+      "title": "Броня с безвкусными свитерами",
+      "text": "Эта восхитительно безвкусная праздничная броня доступна в двух цветах, а её части можно сочетать.$(br2)Шапки и свитеры — шлемы и нагрудники — могут выпасть из существ, которые их носят."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "У брони несколько уровней; улучшайте её на кузнечном столе.$(br2)$(li)Уровень 1 (кожаный): создаётся или выпадает$(li)Уровень 2 (железный): улучшается на кузнечном столе$(li)Уровень 3 (алмазный): улучшается на кузнечном столе$(li)Уровень 4 (незеритовый): улучшается на кузнечном столе"
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:iron_upgrade_smithing_template",
+      "title": "Кузнечные шаблоны",
+      "text": "Для улучшения брони до уровня 2 и выше нужен особый кузнечный шаблон. Такие шаблоны встречаются в сундуках обычного мира и копируются по следующим рецептам:"
+    },
+    {
+      "type": "crafting",
+      "title": "Копирование шаблонов",
+      "recipe": "merrymaking:iron_upgrade_template_dupe",
+      "recipe2": "merrymaking:diamond_upgrade_template_dupe"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "«Красный» комплект безвкусной рождественской брони создаётся из кожи и красной шерсти.$(br2)«Зелёный» комплект — из кожи и зелёной шерсти.$(br2)Рецепты частей первого уровня:"
+    },
+    {
+      "type": "crafting",
+      "title": "Шлемы",
+      "recipe": "merrymaking:red_santa_hat_leather",
+      "recipe2": "merrymaking:reindeer_antlers_leather"
+    },
+    {
+      "type": "crafting",
+      "title": "Нагрудники",
+      "recipe": "merrymaking:red_ugly_sweater_leather",
+      "recipe2": "merrymaking:green_ugly_sweater_leather"
+    },
+    {
+      "type": "crafting",
+      "title": "Поножи",
+      "recipe": "merrymaking:plaid_pants_leather",
+      "recipe2": "merrymaking:striped_pants_leather"
+    },
+    {
+      "type": "crafting",
+      "title": "Ботинки",
+      "recipe": "merrymaking:reindeer_slippers_leather",
+      "recipe2": "merrymaking:santa_slippers_leather"
+    },
+    {
+      "type": "patchouli:smithing",
+      "title": "Примеры улучшения до уровня 2",
+      "recipe": "minecraft:iron_santa_hat_smithing",
+      "recipe2": "minecraft:iron_green_sweater_smithing",
+      "text": "В кузнечных рецептах второго уровня используется железный шаблон улучшения."
+    },
+    {
+      "type": "patchouli:smithing",
+      "title": "Примеры улучшения до уровня 3",
+      "recipe": "minecraft:iron_plaid_leggings_smithing",
+      "recipe2": "minecraft:diamond_reindeer_slippers_smithing",
+      "text": "В кузнечных рецептах третьего уровня используется алмазный шаблон улучшения."
+    }
+  ]
+}

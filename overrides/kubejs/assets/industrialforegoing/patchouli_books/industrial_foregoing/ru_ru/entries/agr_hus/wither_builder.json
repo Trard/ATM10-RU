@@ -1,0 +1,16 @@
+{
+  "name": "Строитель визеров",
+  "icon": "industrialforegoing:wither_builder",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина для создания визеров. Получив энергию, $(6)3 черепа визера$() и $(6)4 блока песка душ$(), она полностью строит конструкцию призыва визера в рабочей области."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:wither_builder"
+    }
+  ]
+}

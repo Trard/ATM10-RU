@@ -1,0 +1,17 @@
+{
+  "name": "Ярость берсерка",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(4)Ярость берсерка$() — искажённые чары для нагрудников.$(p)Получив урон с этими чарами, вы получите дополнительный урон, а также Сопротивление, Скорость и Силу."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Получаемый урон и сила эффектов зависят от уровня чар."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Руды",
+  "icon": "bigreactors:yellorite_ore",
+  "category": "bigreactors:intro",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "bigreactors:spotlight-smelting",
+      "spotlightItem": "bigreactors:yellorite_ore",
+      "spotlightText": "Обычный источник топлива для ваших реакторов — йеллорит.$(br2)Йеллорит встречается почти во всех биомах; его можно переплавить в слитки йеллория.",
+      "recipe": "bigreactors:smelting/yellorium_from_ore"
+    },
+    {
+      "type": "bigreactors:spotlight-item",
+      "spotlightItem": "bigreactors:benitoite_ore",
+      "spotlightText": "Кристаллы бенитоита встречаются только в самых дальних глубинах Незера и обладают необычными свойствами, которым вы пока не нашли применения.",
+      "smallItem": "bigreactors:benitoite_crystal"
+    },
+    {
+      "type": "bigreactors:spotlight-item",
+      "spotlightItem": "bigreactors:anglesite_ore",
+      "spotlightText": "Чтобы найти эти неуловимые кристаллы, придётся дойти до самого Края, хотя вы пока не знаете, как обратить их свойства себе на пользу.",
+      "smallItem": "bigreactors:anglesite_crystal"
+    }
+  ]
+}

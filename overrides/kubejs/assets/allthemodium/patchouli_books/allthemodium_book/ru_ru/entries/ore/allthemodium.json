@@ -1,0 +1,15 @@
+{
+  "name": "Аллмодиумовая руда",
+  "icon": "allthemodium:allthemodium_ore",
+  "category": "allthemodium:ore",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "allthemodium:allthemodium_ore",
+      "title": "Аллмодиумовая руда",
+      "link_recipe": false,
+      "text": "Аллмодиумовая руда встречается в стенах и потолках пещер биома Тёмные глубины, а также высоко в горах — выше Y = 170. В Шахтёрском измерении её можно найти повсюду между Y = −59 и Y = 20, а в Ином мире — в пещерах слоя глубинного сланца."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Угольный генератор",
+  "icon": "rftoolspower:coalgenerator",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:coalgenerator": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Угольный генератор — простой генератор FE для начала игры. Положите в него уголь или угольные блоки, и он превратит их в энергию для соседних механизмов либо подключённых кабелей."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:coalgenerator"
+    },
+    {
+      "type": "text",
+      "text": "У него есть внутренний буфер, поэтому топливо продолжает гореть, даже если вывод временно заблокирован. Угольные блоки удобны для длительной работы без присмотра."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Лопата из Ferricore",
+  "sortnum": 3,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:ferricore_shovel",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Прочная лопата из Ferricore идеально подходит для копания земли, песка и гравия. Она эффективнее железной лопаты и поддерживает различные способности-улучшения."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:ferricore_shovel",
+      "text": "Создание лопаты из Ferricore"
+    }
+  ]
+}

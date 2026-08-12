@@ -1,0 +1,15 @@
+{
+  "name": "Дополнение имитации",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:mimic_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это дополнение устанавливается только в $(l:modules/extruder_2)модуль-экструдер Мк2/$.$(p)С ним создаваемые модулем поддельные блоки приобретают свойства имитируемого блока: например, $(item)обсидиан/$ трудно сломать, $(item)светокамень/$ излучает свет, а $(item)блоки красного камня/$ дают сигнал."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:mimic_augment"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Огненный генератор",
+  "icon": "rftoolspower:blazing_generator",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:blazing_generator": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Огненный генератор сжигает активированные огненные стержни, вырабатывая FE. Сначала обычные стержни нужно обработать в $(l:rftoolsbase:powergeneration/blazingagitator)Огненном активаторе$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:blazing_generator"
+    },
+    {
+      "type": "text",
+      "text": "У активированного стержня есть два важных параметра: мощность и длительность. Более качественные стержни вырабатывают больше FE/t, а стержни с большей длительностью дольше поддерживают работу генератора."
+    },
+    {
+      "type": "text",
+      "text": "Генератор использует до четырёх стержней и наиболее эффективен при непрерывной работе. Ему требуется время на разогрев, прежде чем вставленные стержни раскроют весь свой потенциал."
+    }
+  ]
+}

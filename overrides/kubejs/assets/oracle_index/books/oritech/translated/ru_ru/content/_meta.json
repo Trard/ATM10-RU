@@ -1,0 +1,14 @@
+{
+  "arcane": "Аркана",
+  "building": "Строительные блоки",
+  "components": "Компоненты",
+  "equipment": "Снаряжение",
+  "generate_meta.sh": "Создать метаданные",
+  "machines": "Механизмы",
+  "nuclear": "Ядерные технологии",
+  "particle": "Ускоритель частиц",
+  "logistics": "Логистика",
+  "resources": "Ресурсы",
+  "collect_ids.sh": "Собрать идентификаторы",
+  "create_dirs.sh": "Создать каталоги"
+}

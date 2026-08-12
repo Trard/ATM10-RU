@@ -1,0 +1,19 @@
+{
+  "name": "Спешка",
+  "icon": "minecraft:textures/mob_effect/haste.png",
+  "category": "apotheosis:potion/recipes",
+  "flag": "apotheosis:potion",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Спешка$() — ещё один полезный эффект, который нельзя сварить в обычной игре.$(p)Каждый уровень даёт +20% к скорости добычи."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Рецепт зельеварения",
+      "item": "minecraft:mushroom_stew",
+      "text": "Это зелье создаётся из неловкого зелья и тушёных грибов.$(p)Обычными ингредиентами его можно продлить, усилить или превратить во взрывное зелье."
+    }
+  ]
+}

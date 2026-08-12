@@ -1,0 +1,17 @@
+{
+  "name": "Жестокие рассадники",
+  "icon": "minecraft:zombie_head",
+  "category": "apotheosis:adventure/rogue_spawners",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Жестокий рассадник — разновидность дикого рассадника, создающая существ сильнее обычных.$(p)У них больше здоровья, брони и урона, а также есть сопротивление огню."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Единственное преимущество — значительная задержка перед призывом подкреплений."
+    }
+  ]
+}

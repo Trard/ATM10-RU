@@ -1,0 +1,12 @@
+{
+  "assembler_block.mdx": "Сборщик",
+  "atomic_forge_block.mdx": "Атомная кузня",
+  "centrifuge_block.mdx": "Центрифуга",
+  "cooler_block.mdx": "Промышленный охладитель",
+  "foundry_block.mdx": "Литейный цех",
+  "fragment_forge_block.mdx": "Кузня фрагментов",
+  "powered_furnace_block.mdx": "Электропечь",
+  "pulverizer_block.mdx": "Измельчитель",
+  "refinery_block.mdx": "Нефтеперерабатывающий завод",
+  "refinery_module_block.mdx": "Модуль камеры НПЗ"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Блюда Кванзы",
+  "icon": "merrymaking:sweet_potato_pie",
+  "category": "merrymaking:kwanzaa",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Блюда Кванзы",
+      "item": "merrymaking:sweet_potato_pie"
+    },
+    {
+      "type": "crafting",
+      "title": "Пирог из батата",
+      "recipe": "merrymaking:sweet_potato_pie"
+    }
+  ]
+}

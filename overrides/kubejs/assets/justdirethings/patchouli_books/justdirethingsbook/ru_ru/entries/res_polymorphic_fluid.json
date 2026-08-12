@@ -1,0 +1,12 @@
+{
+  "name": "Полиморфная жидкость",
+  "sortnum": 26,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:polymorphic_fluid_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Полиморфная жидкость — универсальная основа, необходимая для создания других жидкостей. Бросьте $(l:justdirethings:res_polymorphic_catalyst)полиморфный катализатор$(/l) в воду. Реагируя с различными ресурсами, она образует особое топливо и становится важной частью его производства."
+    }
+  ]
+}

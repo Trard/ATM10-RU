@@ -1,0 +1,17 @@
+{
+  "name": "Блок сырого сплава Eclipse",
+  "sortnum": 6,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_eclipsealloy_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Когда слизь Shadowpulse преобразует незеритовый блок, он становится блоком сырого сплава Eclipse. Разрушьте его, чтобы получить сырой сплав Eclipse, который переплавляется в $(l:justdirethings:res_eclipsealloy)слитки сплава Eclipse$(/l)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "justdirethings:raw_eclipsealloy",
+      "text": "Сырой сплав Eclipse выпадает при разрушении блока сырого сплава Eclipse"
+    }
+  ]
+}

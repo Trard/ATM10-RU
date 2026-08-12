@@ -1,0 +1,17 @@
+{
+  "name": "Свечение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_glowing",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Это улучшение накладывает эффект свечения на всех ближайших живых существ — как враждебных мобов, так и мирных животных!$(br2)Это активная способность, заменяющая сканер мобов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание свечения",
+      "recipe": "justdirethings:upgrade_glowing"
+    }
+  ]
+}

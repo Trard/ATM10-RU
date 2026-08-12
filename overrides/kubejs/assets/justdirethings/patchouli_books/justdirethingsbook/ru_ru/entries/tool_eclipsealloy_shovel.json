@@ -1,0 +1,17 @@
+{
+  "name": "Лопата из сплава Eclipse",
+  "sortnum": 22,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_shovel[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Лопате из сплава Eclipse нет равных в эффективном перемещении больших объёмов материала благодаря увеличенному запасу энергии.$(br2)Она идеально справляется с самыми сложными земляными работами."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:eclipsealloy_shovel",
+      "text": "Создание лопаты из сплава Eclipse"
+    }
+  ]
+}

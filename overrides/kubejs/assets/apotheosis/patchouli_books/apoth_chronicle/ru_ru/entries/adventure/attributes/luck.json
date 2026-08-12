@@ -1,0 +1,17 @@
+{
+  "name": "Удача",
+  "icon": "minecraft:rabbit_foot",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Удача$() делает вас удачливее! Точнее, она повышает вероятность получить более ценную добычу.$(p)Удачу может дать что угодно."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Удача может быть отрицательной — тогда ценную добычу получить ещё сложнее."
+    }
+  ]
+}

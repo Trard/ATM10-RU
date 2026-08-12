@@ -1,0 +1,22 @@
+{
+  "name": "Инжектор отходов",
+  "icon": "bigreactors:reprocessorwasteinjector",
+  "category": "bigreactors:reprocessor-parts",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reprocessorwasteinjector",
+      "link_recipe": true,
+      "title": "Инжектор отходов",
+      "text": "Инжектор отходов вводит в репроцессор отходы из реактора.$(br2)Материалы можно ввести вручную через интерфейс или автоматически через подключённую к инжектору трубу."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Инжектор отходов",
+      "crafting.recipe1": "bigreactors:reprocessor/wasteinjector",
+      "usage.text": "$(l)Обязательно:$() нужен ровно один$(br)$(l)Допустимое положение:$() на верхней грани (не на каркасе)$(br)$(l)Интерфейс:$() да"
+    }
+  ]
+}

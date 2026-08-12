@@ -1,0 +1,27 @@
+{
+  "name": "Огненный активатор",
+  "icon": "rftoolspower:blazing_agitator",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:blazing_agitator": 0
+  },
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Огненный активатор подготавливает огненные стержни для $(l:rftoolsbase:powergeneration/blazinggenerator)Огненного генератора$(/l). Он расходует немного FE, превращая обычные огненные стержни в активированные."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:blazing_agitator"
+    },
+    {
+      "type": "text",
+      "text": "Соседние стержни во входной сетке улучшают друг друга. Более качественные стержни обрабатываются быстрее и получают лучшие энергетические свойства, поэтому полезно оставлять в сетке несколько мощных стержней."
+    },
+    {
+      "type": "text",
+      "text": "Девять кнопок блокировки не позволяют готовым стержням перейти в выходную ячейку. Так можно оставить качественные стержни на месте в качестве усилителей для следующих."
+    }
+  ]
+}

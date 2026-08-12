@@ -1,0 +1,17 @@
+{
+  "name": "Сканер руды",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_orescanner",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Сканер руды» — активная способность для кирок начиная с Ferricore. После её запуска ближайшие руды отмечаются частицами, которые видны сквозь блоки, однако разные виды руды никак не различаются."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Сканер руды»",
+      "recipe": "justdirethings:upgrade_orescanner"
+    }
+  ]
+}

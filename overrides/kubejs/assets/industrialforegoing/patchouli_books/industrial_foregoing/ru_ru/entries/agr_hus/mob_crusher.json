@@ -1,0 +1,17 @@
+{
+  "name": "Дробитель существ",
+  "icon": "industrialforegoing:mob_crusher",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина $(6)убивает$() существ так, словно это сделал игрок, создавая добычу и эссенцию. Добыча выбирается непосредственно из таблицы добычи существа.$(br2)В альтернативном режиме вместо эссенции машина создаёт добычу со случайным уровнем $(6)«Удачи»$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_crusher"
+    }
+  ]
+}

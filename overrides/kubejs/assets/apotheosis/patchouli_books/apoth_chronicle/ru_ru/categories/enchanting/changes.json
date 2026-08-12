@@ -1,0 +1,7 @@
+{
+  "name": "Изменения обычной игры",
+  "description": "Здесь описаны новые зачаровываемые предметы и изменения механик.$(p)Здесь же будут отмечаться небольшие изменения содержимого.",
+  "icon": "minecraft:trident",
+  "flag": "apotheosis:enchanting",
+  "parent": "apotheosis:enchanting/enchanting"
+}

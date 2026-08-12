@@ -1,0 +1,26 @@
+{
+  "name": "Контроллер",
+  "icon": "bigreactors:energizercontroller",
+  "category": "bigreactors:energizer-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:energizercontroller",
+      "link_recipe": true,
+      "title": "Контроллер",
+      "text": "Контроллер — основной интерфейс энергизатора.$(br2)Нажмите по нему ПКМ, чтобы открыть интерфейс, где можно включить или выключить энергизатор, проверить запас энергии и увидеть направление её потока."
+    },
+    {
+      "type": "crafting-text",
+      "text": "При наведении на элемент управления появится подсказка с дополнительной информацией или пояснением его назначения.$(br2)",
+      "title": "Контроллер",
+      "recipe": "bigreactors:energizer/controller"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Обязательно:$() нужен хотя бы один$(br)$(l)Допустимое положение:$() на любой вертикальной грани (не на каркасе)$(br)$(l)Интерфейс:$() да"
+    }
+  ]
+}

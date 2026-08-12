@@ -1,0 +1,49 @@
+{
+  "name": "Пространственная ячейка",
+  "icon": "rftoolspower:dimensionalcell",
+  "category": "rftoolsbase:category_rftoolspower_powerstorage",
+  "extra_recipe_mappings": {
+    "rftoolspower:dimensionalcell_simple": 0,
+    "rftoolspower:dimensionalcell": 0,
+    "rftoolspower:dimensionalcell_advanced": 0,
+    "rftoolspower:dimensionalcell_creative": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пространственная ячейка — многомерное хранилище энергии. Подобно $(l:rftoolsbase:powerstorage/powercell)Энергоячейке$(/l), она хранит и передаёт FE, но связанные ячейки могут обмениваться энергией, не соприкасаясь."
+    },
+    {
+      "type": "text",
+      "text": "Пространственные ячейки связываются с помощью $(l:rftoolsbase:powerstorage/powercell_card)Карты энергоячеек$(/l). Вставьте непривязанную карту, чтобы создать связь, либо скопируйте существующую связь ячейки на другую карту."
+    },
+    {
+      "type": "text",
+      "text": "В интерфейсе есть ячейки карт для связывания и копирования, зарядная ячейка для предметов FE, шкала запаса сети, кнопки режимов сторон и кнопка статистики введённой и выведенной FE."
+    },
+    {
+      "type": "text",
+      "text": "Режимы «Нет», «Вход» и «Выход» отключают все стороны либо назначают их для приёма или передачи FE. Отдельные стороны также переключаются $(l:rftoolsbase:tools/smartwrench)Умным гаечным ключом$(/l): синий — вход, жёлтый — выход, пустой — отключено."
+    },
+    {
+      "type": "text",
+      "text": "Однако у Пространственных ячеек есть недостаток: в $(thing)режиме выхода$() получение RF из удалённых ячеек несёт небольшие потери. Обычно это лишь несколько процентов, но со временем они накапливаются. К счастью, Пространственные ячейки можно $(l:rftoolsbase:machines/infusing)насытить$(), чтобы уменьшить потери."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:dimensionalcell_simple",
+      "text": "Пространственная ячейка нижнего уровня вмещает 250 000 RF и может принимать либо выдавать до 1 250 RF/такт. Скорость повышается с помощью $(l:rftoolsbase:machines/infusing)насыщения$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:dimensionalcell",
+      "text": "Пространственная ячейка среднего уровня вмещает 1 000 000 RF и может принимать либо выдавать до 5 000 RF/такт. Скорость повышается с помощью $(l:rftoolsbase:machines/infusing)насыщения$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:dimensionalcell_advanced",
+      "text": "Пространственная ячейка высшего уровня вмещает 4 000 000 RF и может принимать либо выдавать до 20 000 RF/такт. Скорость повышается с помощью $(l:rftoolsbase:machines/infusing)насыщения$()."
+    }
+  ]
+}

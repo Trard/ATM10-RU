@@ -1,0 +1,31 @@
+{
+  "name": "Управляющий стержень",
+  "icon": "bigreactors:reinforced_reactorcontrolrod",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorcontrolrod",
+      "link_recipe": true,
+      "title": "Управляющий стержень",
+      "text": "Управляющие стержни погружаются в соответствующие стопки $(l:bigreactors/part-fuelrod)топливных стержней$(/l). Их материал поглощает нейтронное излучение, которое иначе попадало бы в реагенты внутри $(l:bigreactors/part-fuelrod)топливных стержней$(/l), тем самым замедляя или останавливая расход топлива и образование тепла и отходов."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Нажмите ПКМ по управляющему стержню, чтобы открыть его интерфейс.$(br2)Здесь стержню можно назначить имя, по которому к нему позднее сможет обращаться $(l:bigreactors/part-computerport)компьютерный порт$(/l) при управлении реактором.$(br2)Процент погружения показывает, насколько глубоко управляющий стержень введён в стопку $(l:bigreactors/part-fuelrod)топливных стержней$(/l). Значение можно изменить только для этого стержня или сразу для всех."
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "Базовый",
+      "recipe1": "bigreactors:reactor/basic/controlrod",
+      "title2": "Усиленный",
+      "recipe2": "bigreactors:reactor/reinforced/controlrod"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)Обязательно:$() да$(br)$(l)Допустимое положение:$() все на одной грани вслед за топливными стержнями$(br)$(l)Варианты:$() все$(br)$(l)Интерфейс:$() да"
+    }
+  ]
+}

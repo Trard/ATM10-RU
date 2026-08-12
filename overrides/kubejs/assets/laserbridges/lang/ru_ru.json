@@ -1,0 +1,9 @@
+{
+  "laserbridges.deimosconfig.title": "Настройки лазерных мостов и дверей",
+  "laserbridges.deimosconfig.max_length": "Длина моста при максимальной силе редстоуна",
+  "laserbridges.deimosconfig.blocks_cut_through_by_lasers": "Блоки, которые могут быть заменены лазерами",
+  "block.laserbridges.laser_source_block": "Источник лазера",
+  "block.laserbridges.laser_fence_source_block": "Источник лазерного ограждения",
+  "block.laserbridges.laser_block_powered": "Лазерный блок",
+  "block.laserbridges.laser_fence_powered": "Лазерный блок"
+}

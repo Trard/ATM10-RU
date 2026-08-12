@@ -1,0 +1,7 @@
+{
+  "name": "Апофеозные существа",
+  "description": "Apotheosis добавляет несколько разновидностей существ, появляющихся в мире.$(p)Здесь описано, какими они бывают и где их можно встретить.",
+  "icon": "apotheosis:boss_summoner",
+  "flag": "apotheosis:adventure",
+  "parent": "apotheosis:adventure/adventure"
+}

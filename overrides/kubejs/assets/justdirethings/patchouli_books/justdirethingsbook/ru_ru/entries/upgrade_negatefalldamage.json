@@ -1,0 +1,17 @@
+{
+  "name": "Поглощение урона от падения",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_negatefalldamage",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защититесь от случайного падения улучшением «Поглощение урона от падения». Оно полностью принимает урон на себя и обеспечивает безопасное приземление.$(br2)Примечание: смягчение падения расходует энергию. Чем больше заблокированный урон, тем выше расход. А у ботинок из Celestigem запас энергии не так уж велик…"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание поглощения урона от падения",
+      "recipe": "justdirethings:upgrade_negatefalldamage"
+    }
+  ]
+}

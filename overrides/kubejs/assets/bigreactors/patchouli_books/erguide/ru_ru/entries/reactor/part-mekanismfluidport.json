@@ -1,0 +1,22 @@
+{
+  "name": "Жидкостный порт Mekanism",
+  "icon": "bigreactors:reinforced_reactorfluidport_mekanism_passive",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorfluidport_mekanism_passive",
+      "link_recipe": true,
+      "title": "Жидкостный порт Mekanism",
+      "text": "Жидкостный порт Mekanism извлекает пар из реактора с $(l:bigreactors:reactor/active)активным охлаждением$(/l) в виде газа Mekanism.$(br2)Порт автоматически преобразует пар в газ, если для жидкости в реакторе существует рецепт ротационного конденсатора Mekanism. Указанное в рецепте соотношение преобразования соблюдается."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Усиленный (пассивный)",
+      "crafting.recipe1": "bigreactors:reactor/reinforced/passivefluidport_mekanism",
+      "usage.text": "$(l)Обязательно:$() нет$(br)$(l)Допустимое положение:$() на любой грани (не на каркасе)$(br)$(l)Варианты:$() усиленный$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

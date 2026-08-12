@@ -1,0 +1,17 @@
+{
+  "text.nea.tab.lantern": "Фонари",
+  "text.nea.line.rotationAngle": "Угол поворота",
+  "text.nea.holdUpItemsMode.CONFIG_INVERTED": "Кроме настроенных предметов",
+  "text.nea.enable.clampCrossbowAnimations": "Ограничивать анимации арбалета",
+  "text.nea.enable.clampCrossbowAnimations.tooltip": "Ограничивает размах анимаций",
+  "text.nea.enable.customBowRotationLock": "Фиксация поворота для особой анимации лука",
+  "text.nea.enable.customBowRotationLock.tooltip": "Наклоняет тело при использовании особой анимации лука",
+  "text.nea.animateLanterns": "Анимировать фонари",
+  "text.nea.animateLanterns.tooltip": "Добавляет покачивание фонарям, которые держит игрок",
+  "text.nea.enable.applyRotationLockToEveryone": "Фиксировать поворот у всех",
+  "text.nea.enable.applyRotationLockToEveryone.tooltip": "Применять фиксацию поворота ко всем игрокам, а не только к вам",
+  "text.nea.maxNormalAngle": "Обычный угол",
+  "text.nea.maxNormalAngle.tooltip": "Задаёт обычный угол фиксации поворота. Работает только в режиме «Отключено».",
+  "text.nea.maxBlockingAngle": "Угол при блокировании",
+  "text.nea.maxBlockingAngle.tooltip": "Задаёт угол фиксации поворота при блокировании. Работает только в режиме «Отключено»."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Стекло",
+  "icon": "bigreactors:fluidizerglass",
+  "category": "bigreactors:fluidizer-parts",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:fluidizerglass",
+      "link_recipe": true,
+      "title": "Стекло",
+      "text": "Стекло — декоративный блок, которым можно заменить корпус и открыть вид на внутреннее устройство флюидайзера."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Стекло",
+      "crafting.recipe1": "bigreactors:fluidizer/glass",
+      "usage.text": "$(l)Обязательно:$() нет$(br)$(l)Допустимое положение:$() на любой грани (не на каркасе)$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

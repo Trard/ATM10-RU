@@ -1,0 +1,17 @@
+{
+  "name": "Плавильщик",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_smelter",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Плавильщик» мгновенно переплавляет добычу. Установленный на инструмент, он позволяет сразу получать переплавленный продукт из добываемой руды.$(br2)Расходует часть прочности."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Плавильщик»",
+      "recipe": "justdirethings:upgrade_smelter"
+    }
+  ]
+}

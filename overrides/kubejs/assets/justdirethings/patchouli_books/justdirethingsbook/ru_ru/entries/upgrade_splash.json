@@ -1,0 +1,17 @@
+{
+  "name": "Взрывной эффект",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_splash",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Взрывной эффект» усиливает дальние атаки: попадание стрелы превращается во взрывной эффект и воздействует на более широкую область."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание взрывного эффекта",
+      "recipe": "justdirethings:upgrade_splash"
+    }
+  ]
+}

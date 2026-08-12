@@ -1,0 +1,17 @@
+{
+  "name": "Портальная пушка",
+  "sortnum": 10,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:portalgun[justdirethings:forge_energy=100000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Портальная пушка — революционное устройство для создания порталов. Левая кнопка выпускает снаряд, создающий синий портал, а правая — оранжевый. Войдите в один портал, чтобы выйти из другого; через них проходят и игроки, и предметы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание портальной пушки",
+      "recipe": "justdirethings:portalgun"
+    }
+  ]
+}

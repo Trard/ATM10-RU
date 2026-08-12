@@ -1,0 +1,16 @@
+{
+  "item.ae2netanalyser.tick_analyser": "МЭ профилировщик тиков",
+  "gui.ae2netanalyser.tick_analyser.set_duration": "Длительность профилирования (секунды)",
+  "gui.ae2netanalyser.tick_analyser.begin": "Запустить",
+  "gui.ae2netanalyser.tick_analyser.cancel": "Прервать",
+  "gui.ae2netanalyser.tick_analyser.range1": "<5 мкс/тик",
+  "gui.ae2netanalyser.tick_analyser.range2": "5–100 мкс/тик",
+  "gui.ae2netanalyser.tick_analyser.range3": "100–500 мкс/тик",
+  "gui.ae2netanalyser.tick_analyser.range4": ">500 мкс/тик",
+  "chat.ae2netanalyser.tick_analyser.begin": "Профилирование запущено на %s секунд.",
+  "chat.ae2netanalyser.tick_analyser.finish": "Профилирование завершено.",
+  "chat.ae2netanalyser.tick_analyser.waiting": "Запрос на профилирование отправлен. Дождитесь завершения.",
+  "chat.ae2netanalyser.tick_analyser.cannel": "Профилирование отменено.",
+  "chat.ae2netanalyser.tick_analyser.no_cannel": "Нет выполняющихся заданий профилирования.",
+  "chat.ae2netanalyser.tick_analyser.user_control": "У вас нет разрешения на профилирование на этом сервере."
+}

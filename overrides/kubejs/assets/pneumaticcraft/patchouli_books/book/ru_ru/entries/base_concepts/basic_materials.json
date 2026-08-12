@@ -1,0 +1,38 @@
+{
+    "name": "Основные материалы",
+    "icon": "pneumaticcraft:ingot_iron_compressed",
+    "category": "pneumaticcraft:base_concepts",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(pncr) не добавляет в мир новые руды. Для начала нужны лишь $(item)железные слитки/$, которые превращаются в $(item)слитки сжатого железа$(), используемые во многих рецептах мода.$(p)Бросьте $(item)железные слитки/$ на землю и устройте рядом взрыв. Подойдёт $(item)динамит/$ или любой другой источник взрыва."
+        },
+        {
+            "type": "image",
+            "images": [
+                "pneumaticcraft:textures/patchouli/compressed_iron.png"
+            ],
+            "text": "$(italic)      Отойдите подальше/$"
+        },
+        {
+            "type": "spotlight",
+            "anchor": "compressed_iron_ingot",
+            "item": "pneumaticcraft:ingot_iron_compressed",
+            "text": "Внимание: при взрыве пропадёт около 20% слитков. Избежать потерь можно, создавая $(item)слитки сжатого железа/$ в $(l:manufacturing/pressure_chamber)барокамере/$. Однако для постройки самой $(thing)барокамеры/$ уже требуется несколько $(item)слитков сжатого железа/$, поэтому небольшие начальные потери неизбежны."
+        },
+        {
+            "type": "pneumaticcraft:pressure_chamber",
+            "recipe": "pneumaticcraft:pressure_chamber/compressed_iron_ingot"
+        },
+        {
+            "type": "crafting",
+            "anchor": "compressed_iron_block",
+            "recipe": "pneumaticcraft:compressed_iron_block_from_ingot",
+            "text": "$(item)Блок сжатого железа/$ — превосходный $(l:base_concepts/heat)проводник тепла/$. С его помощью можно увеличить число граней для установки $(l:machines/heat_sink)радиаторов/$ на выделяющие тепло механизмы. Обратите внимание и на $(l:machines/heat_pipe)тепловые трубы/$."
+        },
+        {
+            "type": "pneumaticcraft:pressure_chamber",
+            "recipe": "pneumaticcraft:pressure_chamber/compressed_iron_block"
+        }
+    ]
+}

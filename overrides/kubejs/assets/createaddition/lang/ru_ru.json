@@ -1,0 +1,6 @@
+{
+  "createaddition.tooltip.energy.consumption": "Потребление энергии:",
+  "item.createaddition.electrum_amulet.tooltip.summary": "Этот _амулет_ оказывает _ШОКИРУЮЩИЙ⚡_ эффект на перезаряжаемые предметы! Держите его в одной руке, и он будет время от времени заряжать предметы в другой.",
+  "itemGroup.createaddition.main": "Create: Ремёсла и дополнения",
+  "tag.fluid.c.ignites": "Воспламеняющиеся жидкости"
+}

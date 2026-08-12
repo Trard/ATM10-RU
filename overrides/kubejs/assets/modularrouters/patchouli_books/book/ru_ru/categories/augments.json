@@ -1,0 +1,6 @@
+{
+  "name": "Дополнения",
+  "description": "Дополнения устанавливаются в модули и расширяют или усиливают их возможности.",
+  "icon": "modularrouters:xp_vacuum_augment",
+  "sortnum": 4
+}

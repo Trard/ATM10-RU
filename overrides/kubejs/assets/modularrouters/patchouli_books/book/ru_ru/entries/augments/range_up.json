@@ -1,0 +1,16 @@
+{
+  "name": "Дополнение увеличения радиуса",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:range_up_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это дополнение подходит любому модулю с дальностью: отправителю $(l:modules/sender_1)Мк1/$ / $(l:modules/sender_2)Мк2/$, извлекателю $(l:modules/puller_1)Мк1/$ / $(l:modules/puller_2)Мк2/$, экструдеру $(l:modules/extruder_1)Мк1/$ / $(l:modules/extruder_2)Мк2/$, $(l:modules/fluid_2)жидкостному Мк2/$ и $(l:modules/vacuum)вакуумному/$ модулю.$(p)Дополнения складываются: каждое увеличивает дальность на один блок."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:range_up_augment",
+      "recipe2": "modularrouters:range_up_from_down"
+    }
+  ]
+}

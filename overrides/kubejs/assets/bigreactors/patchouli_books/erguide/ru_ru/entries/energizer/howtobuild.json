@@ -1,0 +1,17 @@
+{
+  "name": "Как построить",
+  "icon": "bigreactors:energizercell",
+  "category": "bigreactors:energizer",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Энергизатор — машина размером не менее 3x3x3, построенная из блоков корпуса и других частей и полностью заполненная энергетическими ячейками.$(br2)Ограничения на размещение каждой части указаны на её странице."
+    },
+    {
+      "type": "zcmultiblock",
+      "multiblock_id": "bigreactors:bookenergizer"
+    }
+  ]
+}

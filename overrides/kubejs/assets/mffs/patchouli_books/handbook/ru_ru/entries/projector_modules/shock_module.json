@@ -1,0 +1,18 @@
+{
+  "name": "Модуль удара",
+  "icon": "mffs:shock_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:shock_module",
+      "link_recipe": true,
+      "text": "$(5)Модуль удара$() в $(l:mffs:machines/projector)Проекторе силового поля$() электризует силовое поле. Коснувшийся такого поля игрок или существо получает удар током и урон. Каждый добавленный в проектор $(5)Модуль удара$() увеличивает урон на половину сердца."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:shock_module",
+      "text": "Создание $(5)Модуля удара$()."
+    }
+  ]
+}

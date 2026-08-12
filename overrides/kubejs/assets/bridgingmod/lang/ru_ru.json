@@ -1,0 +1,9 @@
+{
+  "config.bridgingmod.value.percentage": "%1$.2f ％",
+  "config.bridgingmod.option.minBridgeDistance": "Минимальная дистанция строительства мостов",
+  "config.bridgingmod.option.minBridgeDistance.description.0": "Насколько далеко от вас должен находиться блок, чтобы к нему можно было построить мост.",
+  "config.bridgingmod.option.minBridgeDistanceHorizontal": "Минимальная горизонтальная дистанция",
+  "config.bridgingmod.option.minBridgeDistanceHorizontal.description.0": "Насколько далеко по горизонтали от вас должен находиться блок, чтобы к нему можно было построить мост.",
+  "config.bridgingmod.option.minBridgeDistanceVertical": "Минимальная вертикальная дистанция",
+  "config.bridgingmod.option.minBridgeDistanceVertical.description.0": "Насколько далеко по вертикали от вас должен находиться блок, чтобы к нему можно было построить мост."
+}

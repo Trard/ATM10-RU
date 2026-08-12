@@ -1,0 +1,17 @@
+{
+  "name": "Сеятель растений",
+  "icon": "industrialforegoing:plant_sower",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина $(6)сажает$() культуры и саженцы.$(br2)Девять ячеек внутреннего инвентаря имеют $(6)цветовую$() маркировку, соответствующую цветам на верхней стороне машины. Рабочая область над сеятелем делится на 9 участков; в каждом высаживаются только семена из соответствующей ячейки."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:plant_sower"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "getting_started": {
+    "name": "\uD83D\uDCD5 Начало работы",
+    "icon": null
+  },
+  "multiblocks.mdx": "Мультиблоки",
+  "addons.mdx": "Дополнения",
+  "particle_accelerator.mdx": "Ускоритель частиц",
+  "reactor": {
+    "name": "☢ Ядерные реакторы",
+    "icon": null
+  }
+}

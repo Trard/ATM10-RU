@@ -1,0 +1,17 @@
+{
+  "name": "Устойчивая опора",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Устойчивая опора$() — чары для обуви.$(p)Они обращают вспять штраф скорости добывания в полёте.$(p)Это относится ко всем штрафам за отсутствие опоры под ногами."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "В сочетании с $(9)Родством с водой$() можно разрушать блоки под водой с полной скоростью."
+    }
+  ]
+}

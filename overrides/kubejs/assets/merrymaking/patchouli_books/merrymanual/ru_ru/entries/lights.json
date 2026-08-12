@@ -1,0 +1,141 @@
+{
+  "name": "Праздничные огни",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:lights",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Осветите мир яркими праздничными огнями. Они доступны в четырёх стилях:$(li)классические (крупные лампы)$(li)мини (малые лампы)$(li)сосульки$(li)мерцающие сосульки"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Все огни бывают белыми или разноцветными. Для классического и мини-стиля доступны 8 форм:$(li)горизонтальная$(li)диагональная (левая)$(li)диагональная (правая)$(li)вертикальная (левая)$(li)вертикальная (правая)$(li)вертикальная угловая (левая)$(li)вертикальная угловая (правая)$(li)коньковая (пик крыши)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Для огней-сосулек и мерцающих сосулек доступны 4 формы:$(li)горизонтальная$(li)диагональная (левая)$(li)диагональная (правая)$(li)коньковая (пик крыши)"
+    },
+    {
+      "type": "spotlight",
+      "title": "Горизонтальные огни",
+      "item": "merrymaking:classic_lights_horizontal",
+      "text": "Горизонтальные огни соединяются на углах и вокруг них. Размещаются подобно лианам."
+    },
+    {
+      "type": "spotlight",
+      "title": "Диагональные огни",
+      "item": "merrymaking:icicle_multi_diagonal_left",
+      "text": "Диагональные огни-сосульки и мерцающие сосульки размещаются необычно и заходят под блок установки, чтобы лучше соединяться друг с другом."
+    },
+    {
+      "type": "spotlight",
+      "title": "Вертикальные огни",
+      "item": "merrymaking:classic_lights_vertical_right",
+      "text": "Вертикальные огни выравниваются по левой или правой стороне блока."
+    },
+    {
+      "type": "spotlight",
+      "title": "Вертикальные угловые огни",
+      "item": "merrymaking:mini_corner_lights_vertical_left",
+      "text": "Вертикальные угловые огни создают две части под углом 90 градусов, выровненные по левой или правой стороне блока."
+    },
+    {
+      "type": "spotlight",
+      "title": "Коньковые огни",
+      "item": "merrymaking:icicle_lights_cap",
+      "text": "Коньковые огни заполняют промежуток на пике крыши с нечётным числом блоков.$(br2)Далее приведены рецепты..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Создание огней начинается с провода. Зелёный провод используется для классических и мини-огней, белый — для сосулек и мерцающих сосулек.$(br2)Рецепты двух видов провода показаны здесь:"
+    },
+    {
+      "type": "crafting",
+      "title": "Провода",
+      "recipe": "merrymaking:green_wires",
+      "recipe2": "merrymaking:white_wires"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Затем создайте лампы по этим рецептам:"
+    },
+    {
+      "type": "crafting",
+      "title": "Лампы",
+      "recipe": "merrymaking:white_bulbs",
+      "recipe2": "merrymaking:multi_bulbs"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Теперь создайте базовые типы огней, из которых получаются описанные ранее формы.$(br2)У каждого стиля свой базовый тип: классический, мини, сосульки и мерцающие сосульки.$(br2)Примечание: базовые мини-огни также используются для рождественских ёлок и названы соответственно."
+    },
+    {
+      "type": "crafting",
+      "title": "Классические огни",
+      "recipe": "merrymaking:classic_lights_white",
+      "recipe2": "merrymaking:classic_lights_multi"
+    },
+    {
+      "type": "crafting",
+      "title": "Мини-огни для ёлки",
+      "recipe": "merrymaking:tree_lights_white",
+      "recipe2": "merrymaking:tree_lights_multi"
+    },
+    {
+      "type": "crafting",
+      "title": "Огни-сосульки",
+      "recipe": "merrymaking:icicle_lights_white",
+      "recipe2": "merrymaking:icicle_lights_multi"
+    },
+    {
+      "type": "crafting",
+      "title": "Мерцающие огни-сосульки",
+      "recipe": "merrymaking:twinkling_icicle_lights_white",
+      "recipe2": "merrymaking:twinkling_icicle_lights_multi"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Когда базовые огни готовы, можно создавать световые блоки.$(br2)Горизонтальная и коньковая формы имеют обычные рецепты. Для форм с пометкой «левая» или «правая» понадобится шаблон.$(br2)Поместите на верстак 3 базовых огня и подходящий шаблон."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Здесь показано по одному примеру каждого типа, но форма рецепта одинакова для всех огней.$(br2)Исключение — сосульки и мерцающие сосульки: у них нет вертикальных и угловых вариантов."
+    },
+    {
+      "type": "crafting",
+      "title": "Горизонтальные огни",
+      "recipe": "merrymaking:classic_lights",
+      "recipe2": "merrymaking:mini_multi_lights"
+    },
+    {
+      "type": "crafting",
+      "title": "Диагональные огни",
+      "recipe": "merrymaking:icicle_lights_diag_left",
+      "recipe2": "merrymaking:twinkling_icicle_lights_diag_right"
+    },
+    {
+      "type": "crafting",
+      "title": "Вертикальные огни (справа)",
+      "recipe": "merrymaking:classic_lights_vert_right",
+      "recipe2": "merrymaking:mini_multi_vert_right"
+    },
+    {
+      "type": "crafting",
+      "title": "Вертикальный угол (слева)",
+      "recipe": "merrymaking:classic_lights_vert_corner_left",
+      "recipe2": "merrymaking:mini_lights_vert_corner_left"
+    },
+    {
+      "type": "crafting",
+      "title": "Вертикальный угол (справа)",
+      "recipe": "merrymaking:classic_multi_vert_corner_right",
+      "recipe2": "merrymaking:mini_lights_vert_corner_right"
+    },
+    {
+      "type": "crafting",
+      "title": "Коньковые огни",
+      "recipe": "merrymaking:icicle_multi_cap",
+      "recipe2": "merrymaking:mini_lights_cap"
+    }
+  ]
+}

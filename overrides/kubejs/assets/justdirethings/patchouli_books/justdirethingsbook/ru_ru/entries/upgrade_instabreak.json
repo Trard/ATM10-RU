@@ -1,0 +1,17 @@
+{
+  "name": "Мгновенное разрушение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_instabreak",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ускорьте добычу улучшением «Мгновенное разрушение». Благодаря добавлению $(l:justdirethings:res_time_crystal)кристаллов времени$(/l) инструмент способен моментально ломать блоки, резко сокращая время сбора материалов.$(br2)Примечание: расход энергии существенно зависит от прочности блока. Для мгновенного разрушения обсидиана требуется гораздо больше энергии, чем для камня."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание мгновенного разрушения",
+      "recipe": "justdirethings:upgrade_instabreak"
+    }
+  ]
+}

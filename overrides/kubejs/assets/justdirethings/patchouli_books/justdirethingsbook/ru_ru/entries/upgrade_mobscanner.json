@@ -1,0 +1,17 @@
+{
+  "name": "Сканер мобов",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_mobscanner",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Сканер мобов» — активная способность, доступная мечам начиная с Ferricore. После её запуска ближайшие враги отмечаются частицами, которые видны даже сквозь блоки."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Сканер мобов»",
+      "recipe": "justdirethings:upgrade_mobscanner"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "button.keybindspurger.purge": "Очистить все назначения клавиш в этой категории",
+  "button.keybindspurger.purge_all": "Очистить все назначения клавиш",
+  "button.keybindspurger.purge_non_vanilla": "Очистить все нестандартные назначения клавиш",
+  "button.keybindspurger.reset": "Сбросить все назначения клавиш в этой категории"
+}

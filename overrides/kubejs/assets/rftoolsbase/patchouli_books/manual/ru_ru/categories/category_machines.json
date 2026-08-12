@@ -1,0 +1,7 @@
+{
+  "name": "Механизмы",
+  "description": "Все механизмы",
+  "parent": "rftoolsbase:category_rftoolsbase",
+  "icon": "rftoolsbase:machine_infuser",
+  "sortnum": 30
+}

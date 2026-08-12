@@ -1,0 +1,13 @@
+{
+  "name": "Базовый",
+  "icon": "bigreactors:basic_reactorcasing",
+  "category": "bigreactors:reactor-variants",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Базовый вариант — ваш первый реактор.$(br2)Его максимальный внешний размер составляет 5x5x5 блоков, а для создания в основном нужны лишь железные слитки, поэтому это идеальное и недорогое решение для начального энергоснабжения."
+    }
+  ]
+}

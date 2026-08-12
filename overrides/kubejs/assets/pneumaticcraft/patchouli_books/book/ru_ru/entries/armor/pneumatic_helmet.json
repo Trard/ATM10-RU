@@ -1,0 +1,74 @@
+{
+  "name": "Пневматический шлем",
+  "icon": "pneumaticcraft:pneumatic_helmet",
+  "category": "pneumaticcraft:armor",
+  "advancement": "pneumaticcraft:printed_circuit_board",
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "$(item)Пневматический шлем/$ — одна из четырёх частей $(thing)пневматической брони/$.$(p)Долгое время он был единственной доступной частью."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:pneumatic_helmet",
+      "text": "Создание пневматического шлема"
+    },
+    {
+      "type": "spotlight",
+      "anchor": "entity_tracker",
+      "item": "pneumaticcraft:entity_tracker_upgrade",
+      "text": "С $(l:base_concepts/upgrades#entity_tracker)улучшением отслеживания сущностей/$ живые существа в радиусе 16 блоков автоматически отмечаются даже сквозь стены. Если агрессивный моб выберет вас целью, появится предупреждение — можно подготовиться к бою или убежать. Отслеживаемые сущности задаются в интерфейсе через $(l:base_concepts/entity_filter)фильтр сущностей/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:block_tracker_upgrade",
+      "text": "С $(l:base_concepts/upgrades#block_tracker)улучшением отслеживания блоков/$ особые блоки в радиусе 30 блоков отмечаются даже сквозь стены. Отслеживаются:$(li)любые хранилища с отображением содержимого;$(li)спаунеры мобов с отображением времени появления;$(li)заражённые блоки;$(li)рамки портала Края;$(li)динамит;$(li)крюки растяжек."
+    },
+    {
+      "type": "text",
+      "title": "Отслеживание блоков (продолжение)",
+      "text": "Некоторые из этих блоков встречаются часто, например хранилища в доме или заражённые блоки в крепости. Когда блоков одного типа становится слишком много, интерфейс автоматически перестаёт показывать их подписи. Сведения всё ещё можно увидеть, наведя прицел на отслеживаемый блок. В интерфейсе настройки также можно отключить ненужные типы."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:coordinate_tracker_upgrade",
+      "text": "$(l:base_concepts/upgrades#coordinate_tracker)Улучшение отслеживания координат/$ рассчитывает кратчайший путь к выбранной точке с помощью системы поиска пути Minecraft.$(p)Это особенно полезно, если вы заблудились в пещере. Откройте меню параметров клавишей $(thing)$(k:pneumaticcraft.armor.options)/$ и выберите $(bold)«Путь на поверхность»/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:search_upgrade",
+      "text": "Знакома проблема поиска нужного предмета на базе с бесчисленными сундуками? Тогда вам пригодится $(l:base_concepts/upgrades#item_searcher)улучшение поиска/$. Выберите предмет в интерфейсе с помощью прокрутки или введите его название в строку поиска, а затем поместите найденный вариант в слот цели."
+    },
+    {
+      "type": "text",
+      "title": "Поиск предметов (продолжение)",
+      "text": "Теперь все выбранные предметы на земле или в хранилищах в радиусе 16 блоков получают $(thing)зелёное свечение/$. Размер свечения зависит от доли предметов в этой точке среди всех найденных.$(p)Для предметов на земле в шлеме также требуется $(l:base_concepts/upgrades#entity_tracker)отслеживание сущностей/$, а для предметов в хранилищах — $(l:base_concepts/upgrades#block_tracker)отслеживание блоков/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:dispenser_upgrade",
+      "text": "$(l:base_concepts/upgrades#dispenser)Улучшение раздатчика/$ вместе с $(l:base_concepts/upgrades#entity_tracker)улучшением отслеживания сущностей/$ позволяет наблюдать и отлаживать $(l:tools/drone)дронов/$. Нажмите $(thing)$(k:pneumaticcraft.helmet.debugging.drone)/$, смотря на $(item)дрона/$, — у анимации отслеживания появится красная рамка. Затем откройте параметры шлема клавишей $(thing)$(k:pneumaticcraft.armor.options)/$ и перейдите на панель $(bold)«Отладка дрона»/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:range_upgrade",
+      "text": "Каждое $(l:base_concepts/upgrades#range)улучшение дальности/$ увеличивает радиус $(l:base_concepts/upgrades#entity_tracker)отслеживания сущностей/$ на 16 блоков, а $(l:base_concepts/upgrades#block_tracker)отслеживания блоков/$ — на 5. Можно установить до 5 улучшений.$(p)Учтите, что они повышают расход воздуха шлемом."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:night_vision_upgrade",
+      "text": "$(l:base_concepts/upgrades#night_vision)Улучшение ночного зрения/$ делает именно то, что обещает: позволяет видеть в темноте при очень небольшом $(l:base_concepts/pressure)расходе воздуха/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:scuba_upgrade",
+      "text": "$(l:base_concepts/upgrades#scuba)Улучшение акваланга/$ позволяет дышать под водой, расходуя запас воздуха шлема. В качестве бонуса маска значительно улучшает видимость под водой; вместе с $(l:base_concepts/upgrades#night_vision)улучшением ночного зрения/$ пейзажи могут быть поразительными."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:ender_visor_upgrade",
+      "text": "$(l:base_concepts/upgrades#ender_visor)Улучшение эндер-визора/$ основано на передовых исследованиях $(thing)тыкв/$ и позволяет по желанию избегать агрессии $(thing)эндерменов/$, не страдая от неудобного обзора настоящей тыквы на голове."
+    }
+  ]
+}

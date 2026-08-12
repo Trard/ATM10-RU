@@ -1,0 +1,17 @@
+{
+  "name": "Фабрика чар",
+  "icon": "industrialforegoing:enchantment_factory",
+  "category": "industrialforegoing:misc",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Получив большое количество $(l:agr_hus/essence)эссенции$() и предмет, эта машина зачаровывает его на $(6)30-м$() уровне."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_factory"
+    }
+  ]
+}

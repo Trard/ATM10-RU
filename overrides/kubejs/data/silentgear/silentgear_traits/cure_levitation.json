@@ -1,0 +1,18 @@
+{
+  "conditions": [],
+  "description": {
+    "text": "Снимает эффект левитации, когда предмет экипирован"
+  },
+  "effects": [
+    {
+      "type": "silentgear:cancel_effects",
+      "cleared_effects": [
+        "minecraft:levitation"
+      ]
+    }
+  ],
+  "max_level": 1,
+  "name": {
+    "text": "Исцеление от левитации"
+  }
+}

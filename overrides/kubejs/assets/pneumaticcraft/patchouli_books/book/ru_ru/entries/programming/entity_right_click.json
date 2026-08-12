@@ -1,0 +1,19 @@
+{
+  "name": "Виджет правого клика по сущности",
+  "icon": "pneumaticcraft:textures/progwidgets/entity_right_click_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)Дрон/$ один раз применит предмет из первого слота своего инвентаря $(thing)правым кликом/$ к каждой сущности в указанной $(l:programming/area)области/$. Так можно стричь овец, доить коров, размножать животных и многое другое!$(p)Учтите: все подключённые к этому виджету виджеты $(l:programming/area)области/$ должны иметь тип $(thing)Параллелепипед/$ — это единственная поддерживаемая форма. Тем не менее другие формы можно составлять с помощью белых и чёрных списков областей."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/entity_right_click_piece.png"
+      ],
+      "text": "$(italic)Тык/$"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+---
+id: oritech:adamant_ingot
+title: Адамант
+type: item
+related_items: ["oritech:adamant_dust", "oritech:adamant_block"]
+---
+
+Адамант — базовый сплав для создания [сборщика](@oritech:assembler_block), [парового двигателя](@oritech:steam_engine_block),
+ядер машин, различных компонентов и инструментов.
+
+Он очень твёрдый, но хрупкий и частично прозрачный,
+поэтому подходит для оптических устройств и подобных деталей.
+
+Адамант можно создать в сетке крафта:
+
+<CraftingRecipe
+    slots={[
+        'oritech:nickel_ingot',
+        'oritech:nickel_ingot',
+        '',
+        'diamond',
+        'diamond',
+        '',
+        '',
+        '',
+        ''
+    ]}
+    result="oritech:adamant_ingot"
+    count={1}
+/>
+
+[Литейная](@oritech:foundry_block) производит больше адаманта из меньшего количества алмазов и никеля.

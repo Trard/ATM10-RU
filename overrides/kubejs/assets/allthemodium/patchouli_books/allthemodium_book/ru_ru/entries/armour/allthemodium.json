@@ -1,0 +1,28 @@
+{
+  "name": "Аллмодиумовая броня",
+  "icon": "allthemodium:allthemodium_chestplate",
+  "category": "allthemodium:armour",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Помимо защиты, прочности брони и сопротивления отбрасыванию, аллмодиумовая броня даёт следующие преимущества:$(li)подводное дыхание;$(li)нет урона от столкновений при полёте на элитрах;$(li)невосприимчивость к огню;$(li)нет урона от падения;$(li)при улучшении незеритовой брони сохраняются чары."
+    },
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_helmet_smithing"
+    },
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_chestplate_smithing"
+    },
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_leggings_smithing"
+    },
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_boots_smithing"
+    }
+  ]
+}

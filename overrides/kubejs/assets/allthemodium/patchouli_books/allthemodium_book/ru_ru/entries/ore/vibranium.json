@@ -1,0 +1,15 @@
+{
+  "name": "Вибраниумовая руда",
+  "icon": "allthemodium:vibranium_ore",
+  "category": "allthemodium:ore",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "allthemodium:vibranium_ore",
+      "title": "Вибраниумовая руда",
+      "link_recipe": false,
+      "text": "Вибраниумовую руду можно найти в Незере выше Y = 64. Она также встречается глубоко в пещерах Иного мира."
+    }
+  ]
+}

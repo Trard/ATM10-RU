@@ -1,0 +1,17 @@
+{
+  "name": "Морской рыболов",
+  "icon": "industrialforegoing:marine_fisher",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Лучший друг кошки <3$(br2)Если установить его над $(6)водоёмом$() размером не менее $(6)3×3$() и глубиной от $(6)1$() блока, он начнёт $(6)ловить рыбу$() и помещать улов — а возможно, и кое-что ещё — во внутренний инвентарь. Одна операция расходует $(6)5000$() RF."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:marine_fisher"
+    }
+  ]
+}

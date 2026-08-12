@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "Корзина для урожая вмещает до 8 стопок любых сельскохозяйственных продуктов, например фруктов или овощей.\n\nКаждый показанный предмет обозначает одну стопку.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/basket/basket.png",
+          "caption": "herbsandharvest.guide_book.chapters.basket.basket_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "\nЧтобы извлечь предмет, щёлкните ПКМ пустой рукой. Предметы будут возвращаться в инвентарь игрока, начиная с добавленного последним.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

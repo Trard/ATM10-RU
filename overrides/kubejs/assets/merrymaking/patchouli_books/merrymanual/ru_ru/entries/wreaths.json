@@ -1,0 +1,28 @@
+{
+  "name": "Венки",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:wreaths",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:christmas_wreath",
+      "text": "Венки очень универсальны: их можно размещать отдельно, вешать на фонарный столб или соединять с дверями и калитками штакетника.$(br2)Есть три стиля:$(li)обычный$(li)с белыми огнями$(li)с разноцветными огнями"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Для венка нужны 8 блоков еловой листвы и бант."
+    },
+    {
+      "type": "crafting",
+      "title": "Венок",
+      "recipe": "merrymaking:wreath",
+      "text": "Готовый венок можно сделать ещё ярче с помощью огней.$(br2)Чтобы получить светящийся венок, соедините его с выбранными ёлочными огнями на верстаке:"
+    },
+    {
+      "type": "crafting",
+      "title": "Светящийся венок",
+      "recipe": "merrymaking:wreath_white_lights",
+      "recipe2": "merrymaking:wreath_multi_lights"
+    }
+  ]
+}

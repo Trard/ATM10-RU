@@ -1,0 +1,17 @@
+{
+  "name": "Ядерный заряд бесконечности",
+  "icon": "industrialforegoing:infinity_nuke",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ядерный заряд бесконечности — оружие массового разрушения. Радиус взрыва зависит от уровня и количества биотоплива внутри. Заряд не разрушает защищённые чанки.$(br2)Для подрыва поставьте его на землю, щёлкните ПКМ, чтобы взвести, а затем щёлкните по нему огнивом."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_nuke"
+    }
+  ]
+}

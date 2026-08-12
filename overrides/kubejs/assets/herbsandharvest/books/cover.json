@@ -1,0 +1,23 @@
+{
+  "pages": [
+    {
+      "type": "cover",
+      "title": "herbsandharvest.book.cover.title",
+      "summary": "Ваш путеводитель по домашнему очагу, урожаю и уюту\n\nВ этой книге есть всё необходимое о выращивании пищи, создании полезных предметов и приготовлении сытных блюд из урожая.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/pantry.png",
+          "caption": "herbsandharvest.guide_book.chapters.pantry_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Для перехода между главами используйте оглавление. В некоторых главах есть подразделы; нажатие на название главы вернёт вас на её главную страницу.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

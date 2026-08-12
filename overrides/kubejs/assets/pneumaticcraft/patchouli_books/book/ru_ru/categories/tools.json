@@ -1,0 +1,6 @@
+{
+  "name": "Инструменты",
+  "description": "Различные полезные переносные предметы: инструменты и оружие.",
+  "icon": "pneumaticcraft:pneumatic_wrench[pneumaticcraft:air=30000]",
+  "sortnum": 6
+}

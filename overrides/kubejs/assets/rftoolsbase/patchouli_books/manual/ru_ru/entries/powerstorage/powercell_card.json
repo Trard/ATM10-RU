@@ -1,0 +1,23 @@
+{
+  "name": "Карта энергоячеек",
+  "icon": "rftoolspower:powercell_card",
+  "category": "rftoolsbase:category_rftoolspower_powerstorage",
+  "extra_recipe_mappings": {
+    "rftoolspower:powercell_card": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Эта карта связывает $(l:rftoolsbase:powerstorage/dimensionalcell)Пространственные ячейки$(/l). Новая карта изначально не привязана. Вставьте её в Пространственную ячейку, чтобы создать или скопировать связь."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:powercell_card"
+    },
+    {
+      "type": "text",
+      "text": "Примените привязанную карту к другим Пространственным ячейкам, чтобы подключить их к той же сети удалённого хранения."
+    }
+  ]
+}

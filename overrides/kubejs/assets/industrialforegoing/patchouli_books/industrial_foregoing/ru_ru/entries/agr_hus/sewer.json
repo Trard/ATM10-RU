@@ -1,0 +1,17 @@
+{
+  "name": "Сборщик отходов",
+  "icon": "industrialforegoing:sewer",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 12,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина собирает с животных $(l:agr_hus/sewage)отходы$(), а опыт превращает в эссенцию."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sewer"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Приготовленное мясо краба",
+  "icon": "livingthings:cooked_crab",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)можно получить, приготовив сырое мясо краба"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:cooked_crab",
+      "text": "$(br)$(bold)Применение:$()$(li)можно съесть"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Наведение на жидкости",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/raytrace_fluid.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Наведение на жидкости позволяет гаджетам взаимодействовать с жидкостями. Когда оно включено, гаджет замены может заменять жидкости, а строительный — строить поверх них.$(br2)Когда оно выключено, гаджеты игнорируют жидкости и работают с блоками за ними.$(br2)Подробнее рассказано в главе $(l:buildinggadgets2:mech_fluid_handling)«Работа с жидкостями»$(/l)."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Наведение на жидкости",
+      "images": [
+        "buildinggadgets2:textures/book/images/raytracefluids.png"
+      ],
+      "border": true,
+      "text": "Взаимодействие с жидкостями!"
+    }
+  ]
+}

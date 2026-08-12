@@ -1,0 +1,67 @@
+{
+  "name": "Хвойные гирлянды",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:garlands",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Хвойные гирлянды похожи на световые. Они имеют те же формы, что классические и мини-огни, кроме коньковой: на коньке используется горизонтальная. Есть три стиля:$(li)обычный$(li)с белыми огнями$(li)с разноцветными огнями"
+    },
+    {
+      "type": "spotlight",
+      "title": "Горизонтальные хвойные гирлянды",
+      "item": "merrymaking:garland_horizontal",
+      "text": "Горизонтальные хвойные гирлянды соединяются на углах и вокруг них, как огни."
+    },
+    {
+      "type": "spotlight",
+      "title": "Диагональные хвойные гирлянды",
+      "item": "merrymaking:garland_lights_diagonal_left",
+      "text": "Диагональные хвойные гирлянды немного заходят под блок установки, как огни-сосульки, чтобы лучше соединяться друг с другом."
+    },
+    {
+      "type": "spotlight",
+      "title": "Вертикальные хвойные гирлянды",
+      "item": "merrymaking:garland_vertical_right",
+      "text": "Вертикальная хвойная гирлянда выравнивается по левой или правой стороне блока."
+    },
+    {
+      "type": "spotlight",
+      "title": "Вертикальные угловые хвойные гирлянды",
+      "item": "merrymaking:garland_vertical_corner_multi_right",
+      "text": "Вертикальная угловая хвойная гирлянда создаёт две части под углом 90 градусов, выровненные по левой или правой стороне блока."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Начните с создания горизонтальной хвойной гирлянды.$(br2)Для неё нужны три блока еловой листвы и два банта.$(br2)Для остальных форм, как и в случае с огнями, понадобятся шаблоны. Далее приведены рецепты..."
+    },
+    {
+      "type": "crafting",
+      "title": "Хвойная гирлянда и банты",
+      "recipe": "merrymaking:garland_horizontal",
+      "recipe2": "merrymaking:garland_horizontal_lights_multi"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Чтобы создать светящуюся версию, соедините горизонтальную хвойную гирлянду с выбранными огнями для ёлки на верстаке.$(br2)Для других форм соедините на верстаке 3 гирлянды с шаблоном, как показано здесь:"
+    },
+    {
+      "type": "crafting",
+      "title": "Диагональные хвойные гирлянды",
+      "recipe": "merrymaking:garland_diag_left",
+      "recipe2": "merrymaking:garland_lights_diag_right"
+    },
+    {
+      "type": "crafting",
+      "title": "Вертикальные хвойные гирлянды",
+      "recipe": "merrymaking:garland_vert_left",
+      "recipe2": "merrymaking:garland_multi_vert_right"
+    },
+    {
+      "type": "crafting",
+      "title": "Вертикальные угловые хвойные гирлянды",
+      "recipe": "merrymaking:garland_lights_vert_corner_right",
+      "recipe2": "merrymaking:garland_vert_corner_left"
+    }
+  ]
+}

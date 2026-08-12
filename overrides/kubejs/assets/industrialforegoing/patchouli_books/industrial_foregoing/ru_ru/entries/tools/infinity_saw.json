@@ -1,0 +1,17 @@
+{
+  "name": "Пила бесконечности",
+  "icon": "industrialforegoing:infinity_saw",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пила бесконечности эффективно рубит деревья: чем выше уровень, тем больше блоков ломается одновременно. Продолжайте ломать один и тот же блок, чтобы срубить крупное дерево."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_saw"
+    }
+  ]
+}

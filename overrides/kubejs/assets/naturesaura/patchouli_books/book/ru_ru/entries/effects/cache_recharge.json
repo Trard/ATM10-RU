@@ -1,0 +1,17 @@
+{
+    "name": "Природное хранилище",
+    "icon": "naturesaura:aura_cache",
+    "category": "naturesaura:effects",
+    "advancement": "naturesaura:positive_imbalance",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Если в среде настолько много $(#419600)ауры$(), что шкала $(l:items/eye)экологического ока$() превышает обычный уровень примерно на половину своей длины, возникает $(item)природное хранилище$(). У игроков в насыщенной области, которые носят $(l:items/aura_cache)хранилище ауры$(), оно начинает медленно $(thing)наполняться$(), забирая избыточную $(#419600)ауру$()."
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "recipe": "naturesaura:cache_powder",
+            "text": "Эффект можно подавить с помощью $(l:effects/effect_powder)порошка без хранения$()."
+        }
+    ]
+}

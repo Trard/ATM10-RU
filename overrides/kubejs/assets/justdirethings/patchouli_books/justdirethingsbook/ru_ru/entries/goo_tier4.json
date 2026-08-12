@@ -1,0 +1,17 @@
+{
+  "name": "Слизь Shadowpulse",
+  "sortnum": 4,
+  "category": "justdirethings:goo",
+  "icon": "justdirethings:gooblock_tier4",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вершина исследований слизи — Shadowpulse, способная превращать незерит в сплав Eclipse. Слизь высшего уровня позволяет создавать чрезвычайно могущественные предметы.$(br2)Shadowpulse создаётся из самых редких и мощных материалов и не имеет равных в преобразовании вещества."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание слизи Shadowpulse",
+      "recipe": "justdirethings:gooblock_tier4"
+    }
+  ]
+}

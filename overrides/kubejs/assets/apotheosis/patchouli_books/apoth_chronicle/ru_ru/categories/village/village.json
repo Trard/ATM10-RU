@@ -1,0 +1,6 @@
+{
+  "name": "Модуль деревень",
+  "description": "Модуль деревень добавляет различное содержимое, связанное с деревнями и крестьянами.",
+  "icon": "minecraft:textures/mob_effect/hero_of_the_village.png",
+  "flag": "apotheosis:village"
+}

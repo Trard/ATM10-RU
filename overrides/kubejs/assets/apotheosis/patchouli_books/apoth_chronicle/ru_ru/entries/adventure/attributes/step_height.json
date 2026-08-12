@@ -1,0 +1,13 @@
+{
+  "name": "Высота шага",
+  "icon": "minecraft:iron_boots",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Высота шага$() определяет, на блоки какой высоты вы можете автоматически подниматься.$(p)Встречается только на обуви."
+    }
+  ]
+}

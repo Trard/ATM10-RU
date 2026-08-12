@@ -1,0 +1,29 @@
+{
+  "name": "Термопневматический завод",
+  "icon": "pneumaticcraft:thermopneumatic_processing_plant",
+  "category": "pneumaticcraft:manufacturing",
+  "advancement": "pneumaticcraft:refinery",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Термопневматический обрабатывающий завод/$ использует для переработки материалов $(l:base_concepts/pressure)давление/$ и/или $(l:base_concepts/heat)тепло/$. У него несколько применений:$(li)из 100 мБ $(thing)сжиженного нефтяного газа/$ и 1 куска $(item)угля/$ получается 1000 мБ $(l:components/plastic)пластика/$. Требуется тепло, но не давление;$(li)из 1000 мБ $(thing)дизеля/$ и 1 единицы $(item)редстоуновой пыли/$ получается 1000 мБ $(l:components/lubricant)смазки/$. Здесь тоже требуется тепло, но не давление."
+    },
+    {
+      "type": "text",
+      "text": "$(li)В $(item)термопневматическом обрабатывающем заводе/$ тяжёлое топливо из $(l:manufacturing/refinery)нефтеперерабатывающего завода/$ расщепляется в более лёгкое с выходом 80%:$(li)дизель → керосин;$(li)керосин → бензин;$(li)бензин → сжиженный нефтяной газ.$(p)Для этого требуются и тепло, и давление."
+    },
+    {
+      "type": "link",
+      "flag": "mod:crafttweaker",
+      "title": "CraftTweaker",
+      "text": "$(thing)Термопневматический обрабатывающий завод/$ поддерживает $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$: рецепты можно добавлять и удалять. Подробнее — по ссылке ниже.",
+      "url": "https://docs.blamejared.com/1.16/en/mods/PneumaticCraft-Repressurized/ThermoPlant",
+      "link_text": "Документация CraftTweaker"
+    },
+    {
+      "type": "crafting",
+      "text": "Создание термопневматического обрабатывающего завода",
+      "recipe": "pneumaticcraft:thermopneumatic_processing_plant"
+    }
+  ]
+}

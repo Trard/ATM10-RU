@@ -1,0 +1,19 @@
+{
+  "name": "Компоненты для крафта",
+  "icon": "mffs:focus_matrix",
+  "category": "mffs:getting_started",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:focus_matrix",
+      "link_recipe": true,
+      "text": "Прочная стальная пластина, используемая для создания $(l:mffs:projector_modes)режимов проектора$(), $(l:mffs:projector_modules)модулей проектора$() и $(l:mffs:machines)машин$(). Всегда полезно иметь несколько штук под рукой."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:focus_matrix",
+      "text": "Создание Матрицы фокусировки."
+    }
+  ]
+}

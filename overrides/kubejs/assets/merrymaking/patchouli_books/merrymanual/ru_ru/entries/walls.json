@@ -1,0 +1,23 @@
+{
+  "name": "Стены",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:fences",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:brick_garland_wall",
+      "text": "Любую обычную стену можно украсить хвойной гирляндой.$(br2)Просто соедините стену с выбранной гирляндой на верстаке."
+    },
+    {
+      "type": "crafting",
+      "title": "Стены с хвойной гирляндой",
+      "recipe": "merrymaking:andesite_wall_garland",
+      "recipe2": "merrymaking:stone_brick_wall_garland_white"
+    },
+    {
+      "type": "crafting",
+      "title": "Стены с хвойной гирляндой",
+      "recipe": "merrymaking:sandstone_wall_garland_multi"
+    }
+  ]
+}

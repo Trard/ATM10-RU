@@ -1,0 +1,10 @@
+{
+  "text.observable.maxBlockDist": "Максимальное расстояние до метки блока (в блоках):",
+  "text.observable.maxEntityDist": "Максимальное расстояние до метки сущности (в блоках):",
+  "text.observable.normalize": "Нормализовать результаты:",
+  "text.observable.maxEntityCount": "Максимальное количество сущностей:",
+  "text.observable.after_save": "Откройте этот файл по адресу %s",
+  "text.observable.announce": "Эта сборка содержит Observable для поиска источников задержек. Инструкции по использованию доступны на %s.",
+  "text.observable.minRate": "Минимальное отображаемое время (мкс/т):",
+  "text.observable.cmd": "Observable — серверный профилировщик сущностей, который поможет выяснить причину задержек на сервере. Подробности доступны на %s."
+}

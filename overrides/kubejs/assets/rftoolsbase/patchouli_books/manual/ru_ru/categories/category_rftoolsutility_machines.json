@@ -1,0 +1,7 @@
+{
+  "name": "Механизмы",
+  "description": "Все механизмы этого мода",
+  "parent": "rftoolsbase:category_rftoolsutility",
+  "icon": "rftoolsutility:crafter3",
+  "sortnum": 30
+}

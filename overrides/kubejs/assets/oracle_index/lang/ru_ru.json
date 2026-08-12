@@ -1,0 +1,11 @@
+{
+  "tooltip.oracle_index.back": "Вернуться на предыдущую страницу.",
+  "tooltip.oracle_index.close_screen": "Закрыть вики.",
+  "oracle_index.button.docs": "Документация",
+  "oracle_index.button.content": "Содержание",
+  "oracle_index.tooltip.docs": "Удерживайте [ALT] для документации",
+  "oracle_index.callout.default": "Примечание",
+  "oracle_index.callout.info": "Информация",
+  "oracle_index.callout.warning": "Предупреждение",
+  "oracle_index.callout.danger": "Опасность"
+}

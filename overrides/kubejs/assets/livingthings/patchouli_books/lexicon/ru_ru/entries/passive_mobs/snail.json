@@ -1,0 +1,19 @@
+{
+  "name": "Улитка",
+  "icon": "livingthings:snail_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br2)$(bold)Здоровье: $()2 сердца$(br2)$(bold)Предметы для размножения: $()$(li)морковь$(li)яблоки$(br2)можно перекрасить, щёлкнув по улитке ПКМ с любым красителем, крадучись$(br2)$(bold)Добыча:$()$(li)1–2 сгустка слизи"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:snail",
+      "rotate": false,
+      "scale": 1.0,
+      "default_rotation": 45,
+      "text": "Встречается почти повсюду, например в $(bold)лесах$(), $(bold)болотах$() и на $(bold)равнинах$()."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Молот бесконечности",
+  "icon": "industrialforegoing:infinity_hammer",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Молот бесконечности наносит урон врагам в области. Более высокий уровень открывает новые уровни $(6)обезглавливания$(), упрощая получение голов существ."
+    },
+    {
+      "type": "text",
+      "text": "Щелчок ПКМ по земле создаёт перед владельцем конусообразный эффект $(6)раскалывания$()."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_hammer"
+    }
+  ]
+}

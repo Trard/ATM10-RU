@@ -1,0 +1,17 @@
+{
+  "name": "Лопата из Blazegold",
+  "sortnum": 9,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_shovel",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Копает быстрее $(l:justdirethings:tool_ferricore_shovel)лопаты из Ferricore$(/l). Благодаря «Лавовому ремонту» сама чинится, если бросить её в лаву."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_shovel",
+      "text": "Создание лопаты из Blazegold"
+    }
+  ]
+}

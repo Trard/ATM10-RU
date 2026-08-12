@@ -1,0 +1,17 @@
+{
+  "name": "Полёт",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_flight",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Полёт» дарует неограниченную свободу в воздухе и позволяет летать в режиме выживания почти как в творческом режиме.$(br2)Для удержания в воздухе расходуется энергия Forge — следите, чтобы она не закончилась!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание полёта",
+      "recipe": "justdirethings:upgrade_flight"
+    }
+  ]
+}

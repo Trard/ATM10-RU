@@ -1,0 +1,13 @@
+{
+  "name": "Подводная охота",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Подводная охота$() — чары для трезубца.$(p)При убийстве брошенным трезубцем с вероятностью 3,5% за уровень выпадает несколько случайных рыб."
+    }
+  ]
+}

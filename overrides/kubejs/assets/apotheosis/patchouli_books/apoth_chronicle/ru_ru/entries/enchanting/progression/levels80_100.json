@@ -1,0 +1,32 @@
+{
+  "name": "Уровни 80–100",
+  "icon": "apothic_enchanting:endshelf",
+  "category": "apotheosis:enchanting/progression",
+  "flag": "apotheosis:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Достижение 90-го уровня",
+      "item": "apothic_enchanting:infused_breath",
+      "text": "Для предпоследней ступени нужны стол 80-го уровня и $(9)драконье дыхание$().$(p)С их помощью можно создать $(9)насыщенное драконье дыхание$() — основной компонент $(9)полок Энда$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение 90-го уровня",
+      "recipe": "apothic_enchanting:endshelf",
+      "recipe2": "apothic_enchanting:pearl_endshelf"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Достижение 100-го уровня",
+      "item": "minecraft:dragon_head",
+      "text": "Максимальный уровень стола зачарований — 100, но обеспечить такую силу может лишь одна полка.$(p)Для её создания придётся отправиться на дальние острова Энда за $(9)головой дракона$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение 100-го уровня",
+      "recipe": "apothic_enchanting:draconic_endshelf",
+      "text": "Одной $(9)драконьей полки Энда$() достаточно, чтобы поднять стол с 90-го до 100-го уровня.$(p)Однако она не даёт бонусов к другим характеристикам."
+    }
+  ]
+}

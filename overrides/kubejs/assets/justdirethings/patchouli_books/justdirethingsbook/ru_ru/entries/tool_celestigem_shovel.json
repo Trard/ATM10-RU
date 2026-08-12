@@ -1,0 +1,17 @@
+{
+  "name": "Лопата из Celestigem",
+  "sortnum": 15,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:celestigem_shovel[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эта усовершенствованная $(l:justdirethings:tool_blazegold_shovel)лопата из Blazegold$(/l) работает на энергии Forge и вмещает 10 000 FE. Поддерживайте её заряд с помощью $(l:justdirethings:item_pocket_generator)карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:celestigem_shovel",
+      "text": "Создание лопаты из Celestigem"
+    }
+  ]
+}

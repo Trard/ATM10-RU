@@ -1,0 +1,32 @@
+{
+  "name": "Страус",
+  "icon": "livingthings:ostrich_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Быстро бегающая птица, на которой можно ездить без седла.$(br2)$(bold)Здоровье: $()10 сердец$(br2)$(bold)Предмет для размножения: $()$(li)пшеница$(br2)$(bold)Размножение:$()$(br)    См. следующую страницу..."
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:ostrich",
+      "rotate": false,
+      "scale": 1.0,
+      "default_rotation": 45,
+      "offset": 0.1,
+      "text": "Встречается во всех биомах $(bold)саванны$()."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Размножение:$()$(br2)Когда два страуса влюбятся, один из них найдёт ближайший блок песка и построит на нём гнездо.$(br)Если поблизости уже есть пустое гнездо, страус отложит яйцо туда.$(br)Через некоторое время из яйца вылупится страусёнок."
+    },
+    {
+      "type": "image",
+      "images": [
+        "livingthings:textures/other/ostrich_laying_egg.png"
+      ],
+      "border": true,
+      "text": "Страус откладывает яйцо в гнездо."
+    }
+  ]
+}

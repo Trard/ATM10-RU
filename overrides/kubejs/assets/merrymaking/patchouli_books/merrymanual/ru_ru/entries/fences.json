@@ -1,0 +1,35 @@
+{
+  "name": "Штакетники и калитки",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:fences",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/fence.png"
+      ],
+      "text": "Украшенный дубовый штакетник!"
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:oak_picket_fence",
+      "text": "Штакетник — особый декоративный вид ограды с подходящей калиткой, доступный из всех обычных пород древесины.$(br2)Эти красивые ограды можно украсить зеленью и огнями к празднику."
+    },
+    {
+      "type": "text",
+      "text": "Чтобы украсить штакетник, соедините его на верстаке с любой горизонтальной хвойной гирляндой.$(br2)Калитку штакетника можно украсить выбранным венком."
+    },
+    {
+      "type": "crafting",
+      "title": "Штакетники",
+      "recipe": "merrymaking:oak_picket_fence",
+      "recipe2": "merrymaking:cherry_picket_fence_gate"
+    },
+    {
+      "type": "crafting",
+      "title": "Украшенные штакетники",
+      "recipe": "merrymaking:jungle_wreath_lights_multi_fence",
+      "recipe2": "merrymaking:birch_wreath_fence_gate"
+    }
+  ]
+}

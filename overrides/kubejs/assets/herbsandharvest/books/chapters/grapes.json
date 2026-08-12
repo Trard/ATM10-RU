@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "Виноградные лозы растут и плодоносят подобно пещерным лианам.\n\nИх сажают под блоком; со временем они растут вниз и дают плоды.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/grapes/grapes.png",
+          "caption": "herbsandharvest.guide_book.chapters.grapes.grapes_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Как и пещерные лианы, их рост можно ускорить костной мукой.\n\nВиноград встречается на шпалерах в деревнях и в сундуках Обычного мира.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

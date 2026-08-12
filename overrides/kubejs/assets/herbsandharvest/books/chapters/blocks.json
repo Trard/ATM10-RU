@@ -1,0 +1,653 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "Обновление «Кладовая» добавляет в игру несколько блоков. Выберите тему ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.basin",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.p_jars",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.s_jars",
+          "target_page": 3
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.plates",
+          "target_page": 4
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.shelf",
+          "target_page": 5
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.churn",
+          "target_page": 8
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.stands",
+          "target_page": 9
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pot",
+          "target_page": 12
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pan",
+          "target_page": 17
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.serve",
+          "target_page": 22
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.drink",
+          "target_page": 23
+        }
+      ],
+      "elements": []
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.basin",
+      "summary": "Щёлкните ПКМ лопатой по блоку песка, чтобы создать соляной бассейн.\n\nНаполните его ведром воды или дождитесь, пока его заполнит дождь.\n\nЗатем дайте ему высохнуть.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/basin.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.basin_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Когда бассейн высохнет, в нём появится соль.\n\nЕё сбор можно автоматизировать с помощью воронки под бассейном.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.p_jars",
+      "summary": "Банки для ингредиентов служат хранилищами и вмещают до одной стопки любого предмета.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/jars.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.jars_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "В банках для ингредиентов можно хранить только предметы, но не блоки.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.s_jars",
+      "summary": "Эти небольшие банки вмещают одну стопку приправ.\n\nЭтикетка автоматически меняется в зависимости от ингредиента внутри.\n\nРазбитая и подобранная банка для специй сохраняет содержимое.",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:chopped_sage",
+              "text": "guide.herbsandharvest.chopped_herb_desc"
+            },
+            {
+              "item": "herbsandharvest:minced_garlic",
+              "text": "guide.herbsandharvest.minced_garlic_desc"
+            },
+            {
+              "item": "herbsandharvest:minced_onion",
+              "text": "guide.herbsandharvest.minced_onion_desc"
+            },
+            {
+              "item": "herbsandharvest:ground_turmeric",
+              "text": "guide.herbsandharvest.ground_turmeric_desc"
+            },
+            {
+              "item": "herbsandharvest:ground_cinnamon",
+              "text": "guide.herbsandharvest.ground_cinn_desc"
+            },
+            {
+              "item": "herbsandharvest:ground_ginger",
+              "text": "guide.herbsandharvest.ground_ginger_desc"
+            },
+            {
+              "item": "herbsandharvest:salt",
+              "text": "guide.herbsandharvest.s_salt_desc"
+            },
+            {
+              "item": "minecraft:sugar",
+              "text": "guide.herbsandharvest.s_sugar_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.plates",
+      "summary": "Тарелки хранят и отображают один предмет.\n\nОбеденные тарелки также позволяют брать порции блюд с противня или доски для мясных закусок.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/plates.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.plates_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Существует 3 вида обеденных тарелок:\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:dinner_plate",
+              "text": "guide.herbsandharvest.plate_desc"
+            },
+            {
+              "item": "herbsandharvest:delftware_dinner_plate",
+              "text": "guide.herbsandharvest.delf_plate_desc"
+            },
+            {
+              "item": "herbsandharvest:holiday_dinner_plate",
+              "text": "guide.herbsandharvest.hol_plate_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.shelf",
+      "summary": "Полка для выдержки сыра — интерактивный блок с интерфейсом, похожим на интерфейс печи. Выберите тему ниже, чтобы узнать подробности.",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.shelf.info",
+          "target_page": 6
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.shelf.auto",
+          "target_page": 7
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/shelf.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.shelf_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.shelf.info",
+      "summary": "Откройте интерфейс полки и положите невыдержанную головку сыра во входной слот. После закрытия интерфейса головка появится на полке. Одновременно на ней помещаются две головки.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/shelf_gui.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.shelf_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "\nЧерез некоторое время головка станет выдержанной. Снова откройте интерфейс блока, чтобы забрать её.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.shelf.auto",
+      "summary": "Выдержку сыра можно автоматизировать с помощью редстоуна. ",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\nВоронки могут помещать невыдержанные головки на полку для выдержки сыра и извлекать из неё выдержанные.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.churn",
+      "summary": "Маслобойка делает сливочное масло из сливок. Установите маслобойку и примените к ней ведро сливок.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/churn.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.churn_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Маслобойка начнёт двигаться и издавать звуки. По завершении она выбросит пачку сливочного масла. Этот процесс можно автоматизировать с помощью раздатчика.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.stands",
+      "summary": "Для демонстрации десертов есть два вида подставок. Выберите ссылку ниже, чтобы узнать подробности.",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.stands.cake",
+          "target_page": 10
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.stands.pastry",
+          "target_page": 11
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/stands.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.stands_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.stands.cake",
+      "summary": "Подставка для торта имеет большое одноярусное основание. На ней помещается один торт, пирог или чизкейк либо до 8 небольших пирожных или десертов.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Торт, пирог или чизкейк на подставке даёт обычное количество порций.\n\nПримечание: на подставку для торта можно также поместить несладкий закрытый пирог.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.stands.pastry",
+      "summary": "Подставка для выпечки немного меньше и состоит из двух ярусов.\n\nНа ней помещается до 8 одинаковых небольших пирожных или десертов.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n\nНа подставку для выпечки можно поместить маффины, капкейки, печенье или булочки.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pot",
+      "summary": "Кастрюля супа — размещаемый блок с едой. Выберите ссылку ниже, чтобы узнать подробности.",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.pot.craft",
+          "target_page": 13
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pot.soup",
+          "target_page": 14
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pot.list",
+          "target_page": 15
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pot.listc",
+          "target_page": 16
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/pots.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.pots_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pot.craft",
+      "summary": "Для супа нужна пустая кастрюля. Рецепт её создания показан здесь:",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/pot_craft.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.pot_craft_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nПустую кастрюлю можно установить и забрать пустой рукой.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pot.soup",
+      "summary": "Суп готовится объединением пустой кастрюли с ингредиентами. В результате получается размещаемый блок кастрюли супа.\n\nЧтобы нагреть кастрюлю супа, поместите под неё источник тепла, например костёр или огонь.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Когда кастрюля супа нагреется, примените к ней миску, чтобы набрать суп.",
+          "text": null
+        },
+        {
+          "type": "text",
+          "literal_text": "\nПример миски супа:",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:broccoli_cheddar_soup",
+              "text": "guide.herbsandharvest.broc_cheddar_soup_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\nПримечание: набрать суп миской можно ТОЛЬКО из нагретой кастрюли. Каждая кастрюля даёт 8 мисок супа.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pot.list",
+      "summary": "Рецепт супа открывается, когда игрок получает его основной ингредиент или мясо.\n\nСписок супов и открывающих их ингредиентов, указанных в скобках: ",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:beef_stew_pot",
+              "text": "guide.herbsandharvest.beef_stew_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:broccoli_cheddar_pot",
+              "text": "guide.herbsandharvest.broccoli_cheddar_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:chicken_dumplings_pot",
+              "text": "guide.herbsandharvest.chicken_dump_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:chicken_noodle_pot",
+              "text": "guide.herbsandharvest.chicken_noodle_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:chicken_rice_pot",
+              "text": "guide.herbsandharvest.chicken_rice_pot_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pot.listc",
+      "summary": "Продолжение списка супов и открывающих их ингредиентов: ",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:corn_chowder_pot",
+              "text": "guide.herbsandharvest.corn_chowder_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:pea_soup_pot",
+              "text": "guide.herbsandharvest.pea_soup_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:potato_soup_pot",
+              "text": "guide.herbsandharvest.potato_soup_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:squash_soup_pot",
+              "text": "guide.herbsandharvest.squash_soup_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:tomato_soup_pot",
+              "text": "guide.herbsandharvest.tomato_soup_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:vegetable_soup_pot",
+              "text": "guide.herbsandharvest.veg_soup_pot_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pan",
+      "summary": "Запечённые блюда на противне также являются размещаемыми блоками с едой. Выберите ссылку ниже, чтобы узнать подробности.",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.pan.info",
+          "target_page": 18
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pan.make",
+          "target_page": 19
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pan.list",
+          "target_page": 20
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.pan.listc",
+          "target_page": 21
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/pots.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.pots_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pan.info",
+      "summary": "Для запечённого блюда нужен пустой противень. Рецепт его создания показан здесь:",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/pan_craft.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.pan_craft_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nПустой противень можно установить и забрать пустой рукой.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pan.make",
+      "summary": "Запечённое блюдо готовится объединением противня с ингредиентами рецепта и последующим запеканием в печи или коптильне.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Запечённое блюдо на противне — размещаемый блок. Чтобы подать его, примените к нему тарелку. Каждый противень даёт 8 порций.\n\nРецепт блюда открывается, когда игрок получает его основной ингредиент или мясо.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pan.list",
+      "summary": "Блюда на противне и открывающие их ингредиенты:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:wellington_pan",
+              "text": "guide.herbsandharvest.wellington_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:chicken_pan",
+              "text": "guide.herbsandharvest.chicken_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:eggplant_pan",
+              "text": "guide.herbsandharvest.eggplant_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:lamb_pan",
+              "text": "guide.herbsandharvest.lamb_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:lasagna_pan",
+              "text": "guide.herbsandharvest.lasagna_pan_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.pan.listc",
+      "summary": "Продолжение списка блюд на противне и открывающих их ингредиентов:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:meatloaf_pan",
+              "text": "guide.herbsandharvest.meatloaf_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:pork_pan",
+              "text": "guide.herbsandharvest.pork_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:roast_pan",
+              "text": "guide.herbsandharvest.roast_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:salmon_pan",
+              "text": "guide.herbsandharvest.salmon_pan_desc"
+            },
+            {
+              "item": "herbsandharvest:pears_pan",
+              "text": "guide.herbsandharvest.pears_pan_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.serve",
+      "summary": "Применив обеденную тарелку к запечённому блюду на противне, вы получите порцию этого блюда на тарелке.\n\nБлюдо на тарелке можно разместить как блок и съесть позднее, щёлкнув по нему ПКМ.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/served.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.serve_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Можно также съесть блюдо, держа тарелку в руке. После еды останется пустая тарелка.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.drink",
+      "summary": "В моде «Травы и урожай» есть несколько напитков. Для их приготовления нужна стеклянная посуда.\n\nВыберите ссылку ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.drink.pitcher",
+          "target_page": 24
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.drink.cup",
+          "target_page": 25
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/drink.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.drink_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.drink.pitcher",
+      "summary": "Кувшины для напитков создаются из стекла и используются многократно.\n\nОбъедините стеклянный кувшин с ингредиентами одного из напитков, чтобы получить размещаемый кувшин с напитком.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/pitcher_craft.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.pitcher_craft_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Примените кувшин к стеклянной чашке, чтобы налить напиток. Из каждого кувшина можно налить до 4 чашек; после этого в инвентаре останется пустой стеклянный кувшин.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.blocks.drink.cup",
+      "summary": "Чашки также создаются из стекла и используются многократно.\n\nУстановленную стеклянную чашку можно забрать пустой рукой.\nЕсли в ней есть напиток, он сохранится в чашке в инвентаре.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/blocks/cup_craft.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.cup_craft_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Подобрав полную чашку, вы получите предмет, из которого можно выпить. После использования в инвентаре останется пустая чашка.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

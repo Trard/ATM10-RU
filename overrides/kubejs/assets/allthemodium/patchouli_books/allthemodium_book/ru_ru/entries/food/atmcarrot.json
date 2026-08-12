@@ -1,0 +1,16 @@
+{
+  "name": "Аллмодиумовая морковь",
+  "icon": "allthemodium:allthemodium_carrot",
+  "category": "allthemodium:food",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "allthemodium:allthemodium_carrot",
+      "title": "Аллмодиумовая морковь"
+    },
+    {
+      "type": "text",
+      "text": "Аллмодиумовая морковь восстанавливает 40 единиц голода и даёт 320 насыщения. Её эффекты:$(li)быстрое поедание;$(li)можно есть всегда;$(li)поглощение X на 30 секунд;$(li)регенерация X на 30 секунд."
+    }
+  ]
+}

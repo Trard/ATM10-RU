@@ -1,0 +1,20 @@
+{
+    "block.ars_creo.starbuncle_wheel": "Колесо звездоуха",
+    "ars_creo.page1.starbuncle_wheel": "Вырабатывает вращательную силу для Create. Золотой блок перед колесом увеличит скорость вращения.",
+    "ars_creo.page.behaviors": "Ars Creo добавляет особое поведение устройствам из Ars Nouveau на механизмах Create, включая турели заклинаний и банки Истока. Обычная турель срабатывает при взаимодействии с механизмом. Турель с таймером срабатывает через заданные интервалы. Зачарованная турель срабатывает при посещении каждого нового блока. Исток из банки могут расходовать турели на механизме.",
+    "itemGroup.ars_creo.general": "Ars Creo",
+    "ars_creo.display_source.turret.not_enough_space": "Недостаточно места ",
+    "ars_creo.display_source.turret.for_turret_status": "для состояния турели",
+    "ars_creo.display_source.turret.no_spell": "Заклинание не задано.",
+    "ars_creo.display_source.turret.spell_name": "Заклинание: %s",
+    "ars_creo.display_source.turret.spell": "%s",
+    "ars_creo.display_source.turret_target": "Турель заклинаний",
+    "ars_creo.display_source.source_count": "Исток: %s",
+    "ars_creo.display_source.for_source_status": "для уровня Истока",
+    "ars_creo.display_source.source_jar": "Количество Истока",
+    "ars_creo.display_source.turret": "Заклинание",
+    "ars_creo.page1.ars_creo.display_link": "Канал отображения можно прикрепить к банке Истока, чтобы показывать количество Истока, или к турели заклинаний, чтобы выводить текущее заклинание на информационное табло.",
+    "ars_creo.page1.ars_creo.fluid_tank": "Зелья можно хранить и перекачивать по трубам между резервуарами Create.",
+    "ars_creo.display_link": "Ars Creo: канал отображения",
+    "ars_creo.fluid_tank": "Ars Creo: резервуар для жидкостей"
+}

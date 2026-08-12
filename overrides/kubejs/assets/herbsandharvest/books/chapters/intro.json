@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "«Травы и урожай от Мамы» — мод о земледелии, который также служит основой рецептов в модах серии Mama's Minis, например MerryMaking и Happy Hallows. В нём есть 32 выращиваемые культуры, виноград, 8 плодовых деревьев и 14 трав.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/intro/crops.png",
+          "caption": "herbsandharvest.guide_book.chapters.intro.intro_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Обновление «Кладовая», добавляющее новые блоки, предметы и еду, вышло в начале февраля 2026 года.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

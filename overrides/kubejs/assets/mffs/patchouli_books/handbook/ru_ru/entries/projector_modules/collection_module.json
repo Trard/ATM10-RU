@@ -1,0 +1,18 @@
+{
+  "name": "Модуль сбора",
+  "icon": "mffs:collection_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:collection_module",
+      "link_recipe": true,
+      "text": "Установленный в слоты матрицы $(l:mffs:machines/projector)Проектора силового поля$() вместе с $(l:mffs:projector_modules/disintegration_module)$(5)Модулем дезинтеграции$(), $(5)Модуль сбора$() переносит предметы, выпавшие из разрушенных блоков, в хранилища рядом с проектором."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:collection_module",
+      "text": "Создание $(5)Модуля сбора$()."
+    }
+  ]
+}

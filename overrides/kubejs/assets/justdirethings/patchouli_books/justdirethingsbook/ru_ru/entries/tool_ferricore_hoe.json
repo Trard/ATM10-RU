@@ -1,0 +1,17 @@
+{
+  "name": "Мотыга из Ferricore",
+  "sortnum": 5,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:ferricore_hoe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мотыга из Ferricore отлично подходит для подготовки и ухода за пашней и поддерживает различные улучшения.$(br2)При вспашке земли она создаёт почву Primogel. Её невозможно вытоптать, поэтому посевы останутся целы, а растут они на ней немного быстрее."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:ferricore_hoe",
+      "text": "Создание мотыги из Ferricore"
+    }
+  ]
+}

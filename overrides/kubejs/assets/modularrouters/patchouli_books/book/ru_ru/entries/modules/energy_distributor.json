@@ -1,0 +1,19 @@
+{
+  "name": "Модуль распределения энергии",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:energy_distributor_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот модуль сочетает $(l:modules/energy_output)вывод энергии/$ с $(l:modules/distributor)распределителем/$ и по беспроводной сети передаёт FE (энергию Forge) максимум 8 близлежащим блокам-приёмникам.$(p)Нажмите $(thing)Shift + ПКМ/$ по блоку, чтобы добавить его в распределитель, и снова нажмите $(thing)Shift + ПКМ/$, чтобы удалить."
+    },
+    {
+      "type": "text",
+      "text": "Как и $(l:modules/energy_output)модуль вывода энергии/$, он берёт энергию либо из внутреннего буфера маршрутизатора (если установлены $(l:upgrades/energy)энергетические улучшения/$), либо из энергоёмкого предмета в предметном буфере. Внутренний запас имеет приоритет."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:energy_distributor_module"
+    }
+  ]
+}

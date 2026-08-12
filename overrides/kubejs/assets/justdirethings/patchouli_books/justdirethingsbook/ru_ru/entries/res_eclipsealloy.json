@@ -1,0 +1,17 @@
+{
+  "name": "Слиток сплава Eclipse",
+  "sortnum": 7,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:eclipsealloy_ingot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Слитки сплава Eclipse получают переплавкой сырого сплава Eclipse. Они обладают непревзойдённой прочностью и добываются из $(l:justdirethings:res_eclipsealloy_raw)блоков сырого сплава Eclipse$(/l), служа лучшим материалом для самых мощных и долговечных предметов."
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Переплавка сырого сплава Eclipse",
+      "recipe": "justdirethings:eclipsealloy_ingot_smelted"
+    }
+  ]
+}

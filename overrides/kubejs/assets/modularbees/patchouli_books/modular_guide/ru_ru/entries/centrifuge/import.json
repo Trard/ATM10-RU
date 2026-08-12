@@ -1,0 +1,17 @@
+{
+  "name": "Импортный люк центрифуги",
+  "icon": "modularbees:modular_centrifuge_import",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Импортный люк центрифуги",
+      "text": "Входной буфер центрифуги, автоматически извлекающий соты из сундука или бака со своей лицевой стороны.$(br)Центрифуга может напрямую использовать содержимое люка как входные материалы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_import"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Соблазнение",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Соблазнение$() — чары для мотыги.$(p)Пока вы держите зачарованную мотыгу, животные следуют за вами, словно вы держите предмет для их размножения."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Страусиное гнездо",
+  "icon": "livingthings:ostrich_nest",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)если добыть гнездо без инструмента с «Шёлковым касанием», оно развалится на несколько палок."
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:ostrich_nest",
+      "text": "$(br)$(bold)Применение:$()$(br)можно разместить$(br)страус может отложить в него яйцо"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Иссушение",
+  "icon": "minecraft:textures/mob_effect/wither.png",
+  "category": "apotheosis:potion/recipes",
+  "flag": "&apotheosis:potion,apotheosis:wstloaded",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(c)Иссушение$() — вредоносный эффект, который обычно нельзя получить зельеварением.$(p)Под его действием вы получаете урон каждый такт.$(p)В отличие от отравления, этот урон смертелен."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Рецепт зельеварения",
+      "item": "wstweaks:fragment",
+      "text": "Это зелье создаётся из неловкого зелья и фрагмента черепа визера.$(p)Обычными ингредиентами его можно продлить, усилить или превратить во взрывное зелье."
+    }
+  ]
+}

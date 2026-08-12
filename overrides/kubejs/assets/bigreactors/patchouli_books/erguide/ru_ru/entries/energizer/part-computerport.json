@@ -1,0 +1,22 @@
+{
+  "name": "Компьютерный порт",
+  "icon": "bigreactors:energizercomputerport",
+  "category": "bigreactors:energizer-parts",
+  "read_by_default": true,
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:energizercomputerport",
+      "link_recipe": true,
+      "title": "Компьютерный порт",
+      "text": "Компьютерный порт позволяет подключить энергизатор к компьютеру и получать сведения о его состоянии.$(br2)Подключённому компьютеру предоставляется стандартный набор методов, с помощью которых можно запрашивать состояние энергизатора."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Компьютерный порт",
+      "crafting.recipe1": "bigreactors:energizer/computerport",
+      "usage.text": "$(l)Обязательно:$() нет$(br)$(l)Допустимое положение:$() на любой грани (не на каркасе)$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

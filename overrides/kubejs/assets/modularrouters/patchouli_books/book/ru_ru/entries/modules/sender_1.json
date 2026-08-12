@@ -1,0 +1,16 @@
+{
+  "name": "Модуль-отправитель Мк1",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:sender_module_1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот модуль пытается передать предмет из буфера маршрутизатора в инвентарь в $(l:intro/modules#direction)заданном направлении/$:$(li)Цель может находиться не дальше 8 блоков (до 16 с $(l:augments/range_up)дополнениями радиуса/$).$(li)Она $(italic)обязана/$ лежать строго на оси X, Y или Z.$(li)Между маршрутизатором и целью $(italic)обязана/$ быть прямая видимость без непрозрачных блоков; стекло, заборы, железные прутья и подобные блоки не мешают."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:sender_module_1",
+      "recipe2": "modularrouters:sender_module_1_alt"
+    }
+  ]
+}

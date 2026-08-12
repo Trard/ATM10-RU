@@ -1,0 +1,14 @@
+{
+  "creative_storage_block.mdx": "Творческое энергохранилище",
+  "creative_tank_block.mdx": "Творческий резервуар",
+  "energy_pipe.mdx": "Энергетические трубы",
+  "fluid_pipe.mdx": "Жидкостная труба",
+  "item_pipe.mdx": "Предметная труба",
+  "item_filter_block.mdx": "Предметный фильтр",
+  "large_storage_block.mdx": "Большое энергохранилище",
+  "power_pole_block.mdx": "Опора ЛЭП",
+  "small_storage_block.mdx": "Переносное энергохранилище",
+  "small_tank_block.mdx": "Переносной резервуар",
+  "superconductor.mdx": "Сверхпроводник",
+  "unstable_container.mdx": "Сейф Шрёдингера"
+}

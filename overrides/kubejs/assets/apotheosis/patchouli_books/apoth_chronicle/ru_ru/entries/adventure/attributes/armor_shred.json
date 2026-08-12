@@ -1,0 +1,13 @@
+{
+  "name": "Разрушение брони",
+  "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Разрушение брони$() позволяет при атаке игнорировать долю брони цели.$(p)$(9)Разрушение брони$() применяется до $(9)пробивания брони$()."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Пластинки с праздничной музыкой",
+  "icon": "merrymaking:christmas_music_disc_1",
+  "category": "merrymaking:music",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Пластинки с праздничной музыкой встречаются в сундуках обычного мира и выпадают, когда скелет убивает крипера."
+    },
+    {
+      "type": "spotlight",
+      "title": "Красная пластинка с праздничной музыкой",
+      "item": "merrymaking:christmas_music_disc_1",
+      "text": "Красная пластинка воспроизводит подборку праздничных лоу-фай композиций от LofiGeek."
+    },
+    {
+      "type": "spotlight",
+      "title": "Зелёная пластинка с праздничной музыкой",
+      "item": "merrymaking:christmas_music_disc_2",
+      "text": "Зелёная пластинка воспроизводит более традиционную праздничную музыку."
+    }
+  ]
+}

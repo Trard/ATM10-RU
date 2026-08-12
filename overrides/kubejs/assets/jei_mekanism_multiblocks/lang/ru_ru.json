@@ -1,0 +1,20 @@
+{
+  "text.jei_mekanism_multiblocks.building.better_fusion_reactor": "Улучшенный термоядерный реактор",
+  "text.jei_mekanism_multiblocks.building.extra_matrix": "Усиленная индукционная матрица",
+  "text.jei_mekanism_multiblocks.not_supported": "Не поддерживается",
+  "text.jei_mekanism_multiblocks.reset": "Сбросить",
+  "text.jei_mekanism_multiblocks.clear": "Очистить",
+  "text.jei_mekanism_multiblocks.save": "Сохранить",
+  "text.jei_mekanism_multiblocks.import": "Импорт",
+  "text.jei_mekanism_multiblocks.import_from_clipboard": "Импортировать из буфера обмена",
+  "text.jei_mekanism_multiblocks.imported_successfully": "Импорт выполнен",
+  "text.jei_mekanism_multiblocks.export": "Экспорт",
+  "text.jei_mekanism_multiblocks.export_to_clipboard": "Экспортировать в буфер обмена",
+  "text.jei_mekanism_multiblocks.exported_successfully": "Экспорт выполнен",
+  "text.jei_mekanism_multiblocks.json_syntax_error": "Синтаксическая ошибка JSON",
+  "text.jei_mekanism_multiblocks.specs.advanced": "Расширенные",
+  "text.jei_mekanism_multiblocks.specs.layout": "Компоновка",
+  "text.jei_mekanism_multiblocks.result.supercharging_elements": "Сверхзаряжающие элементы: %s",
+  "text.jei_mekanism_multiblocks.result.processing_speed": "Скорость обработки",
+  "text.jei_mekanism_multiblocks.result.boil_efficiency": "Эффективность кипения"
+}

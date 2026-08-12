@@ -1,0 +1,16 @@
+{
+  "name": "Сырое мясо льва",
+  "icon": "livingthings:lion",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)может выпасть из львов"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:lion",
+      "text": "$(br)$(bold)Применение:$()$(li)можно съесть$(li)можно приготовить мясо льва"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+---
+id: oritech:electrum_ingot
+title: Электрум
+type: item
+related_items: ["oritech:electrum_dust", "oritech:electrum_block"]
+---
+
+Электрум — базовый сплав для создания проводов, соединителей и различных электронных компонентов.
+
+Электрум можно создать в сетке крафта из золота и редстоуна:
+
+<CraftingRecipe
+    slots={[
+        'minecraft:gold_ingot',
+        'minecraft:gold_ingot',
+        '',
+        'minecraft:redstone',
+        'minecraft:redstone',
+        '',
+        '',
+        '',
+        ''
+    ]}
+    result="oritech:electrum_ingot"
+    count={1}
+/>
+
+[Литейная](@oritech:foundry_block) производит больше электрума из меньшего количества материалов.

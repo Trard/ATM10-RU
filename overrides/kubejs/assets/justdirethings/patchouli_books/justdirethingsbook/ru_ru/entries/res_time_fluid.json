@@ -1,0 +1,12 @@
+{
+  "name": "Жидкость времени",
+  "sortnum": 31,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:time_fluid_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Жидкость времени — универсальное топливо для всех предметов и блоков, изменяющих время. Она словно не до конца принадлежит этому потоку времени, поэтому почти прозрачна.$(br2)Чтобы получить её, бросьте $(l:justdirethings:res_time_crystal)кристалл времени$(/l) в бассейн $(l:justdirethings:res_polymorphic_fluid)полиморфной жидкости.$(/l)"
+    }
+  ]
+}

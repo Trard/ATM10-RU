@@ -1,0 +1,7 @@
+{
+  "name": "Уровни мира",
+  "description": "Вместе с вашей силой растёт и окружающий мир.$(p)Этот раздел посвящён апофеозным уровням мира: что они меняют, как их открыть и как выбрать текущий уровень.",
+  "icon": "apotheosis:textures/gui/book/summit_icon.png",
+  "flag": "apotheosis:adventure",
+  "parent": "apotheosis:adventure/adventure"
+}

@@ -1,0 +1,26 @@
+Функции API os (операционной системы):
+os.version()
+os.getComputerID()
+os.getComputerLabel()
+os.setComputerLabel()
+os.run( environment, programpath, arguments )
+os.loadAPI( path )
+os.unloadAPI( name )
+os.pullEvent( [filter] )
+os.queueEvent( event, arguments )
+os.clock()
+os.startTimer( timeout )
+os.cancelTimer( token )
+os.sleep( timeout )
+os.time( [source] )
+os.day( [source] )
+os.epoch( [source] )
+os.setAlarm( time )
+os.cancelAlarm( token )
+os.shutdown()
+os.reboot()
+
+События API os:
+"timer" возникает по окончании отсчёта, запущенного os.startTimer(). Аргумент: токен, возвращённый os.startTimer().
+"alarm" возникает при наступлении времени, переданного в os.setAlarm(). Аргумент: токен, возвращённый os.setAlarm().
+Введите "help events", чтобы узнать о системе событий.

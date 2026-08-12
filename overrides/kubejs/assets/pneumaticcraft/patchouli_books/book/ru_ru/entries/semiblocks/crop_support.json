@@ -1,0 +1,17 @@
+{
+  "name": "Опора для растений",
+  "icon": "pneumaticcraft:crop_support",
+  "category": "pneumaticcraft:semiblocks",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Если разместить опору на грядке с $(thing)растением/$, оно будет расти быстрее. $(thing)Зелёные частицы/$ показывают, когда $(item)опора для растений/$ ускоряет рост.$(p)Чтобы снять $(item)опору для растений/$, сломайте блок под ней либо нажмите по блоку $(thing)Shift + ПКМ/$, держа $(l:tools/logistics_configurator)логистический пневмоключ/$ или другую $(item)опору для растений/$."
+    },
+    {
+      "type": "crafting",
+      "text": "Создание опоры для растений",
+      "recipe": "pneumaticcraft:crop_support"
+    }
+  ]
+}

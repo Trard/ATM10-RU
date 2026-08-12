@@ -1,0 +1,17 @@
+{
+  "name": "Зельевар",
+  "icon": "industrialforegoing:potion_brewer",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 9,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Автоматическая версия обычной варочной стойки.$(br2)Получая $(6)энергию$(), она создаёт зелье из загруженных ингредиентов.$(br)Пустые бутылочки наполняются, если внутреннее хранилище $(6)воды$() заполнено; сама вода при этом не расходуется.$(br2)Чтобы извлекать зелья, настройте нужное зелье в зелёном фильтре."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:potion_brewer"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "RFTools Power",
+  "description": "$(thing)RFTools Power$() — мод для выработки и хранения энергии.",
+  "icon": "rftoolspower:dimensionalcell"
+}

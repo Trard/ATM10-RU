@@ -1,0 +1,17 @@
+{
+  "name": "Лесоруб",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_treefeller",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Лесоруб» — пассивная способность для топоров уровня Ferricore и выше. При разрушении древесины одновременно ломаются все соседние блоки той же древесины.$(br2)Срубите целое дерево одним взмахом!$(br2)Примечание: уничтожение всего дерева занимает немного больше времени, чем одного блока."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Лесоруб»",
+      "recipe": "justdirethings:upgrade_treefeller"
+    }
+  ]
+}

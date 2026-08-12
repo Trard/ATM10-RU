@@ -1,0 +1,13 @@
+{
+  "name": "Удар щитом",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(9)Удар щитом$() — чары для щита.$(p)Атаки этим щитом в ближнем бою наносят дополнительный урон.$(p)Однако атаки с $(9)«Ударом щитом»$() сильнее расходуют прочность."
+    }
+  ]
+}

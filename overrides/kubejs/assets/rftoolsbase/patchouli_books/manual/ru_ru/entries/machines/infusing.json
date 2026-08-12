@@ -1,0 +1,49 @@
+{
+  "name": "Насыщение",
+  "icon": "rftoolsbase:machine_infuser",
+  "category": "rftoolsbase:category_machines",
+  "extra_recipe_mappings": {
+    "rftoolsbase:machine_infuser": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Насыщатель механизмов$() расходует $(l:rftoolsbase:basics/dimensional_shards)пространственные осколки$(), чтобы $(thing)повысить эффективность$() множества механизмов. Обычно насыщение снижает расход энергии, а некоторым устройствам даёт дополнительные преимущества. $(br2)$(thing)Насыщение$() самого насыщателя уменьшает его энергопотребление."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbase:machine_infuser",
+      "text": "На обороте перечислены дополнительные применения насыщателя в зависимости от установленных модов."
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsutility",
+      "title": "RFTools Utility",
+      "text": "$(li)$(l:rftoolsutility:machines/environmental)Контроллер среды$() $(li)$(l:rftoolsutility:machines/dialing_device)Устройство набора$() $(li)$(l:rftoolsutility:machines/matter_receiver)Приёмник материи$() $(li)$(l:rftoolsutility:machines/matter_transmitter)Передатчик материи$() (+скорость) $(li)$(l:rftoolsutility:machines/spawner)Спаунер$() $(li)$(l:rftoolsutility:machines/matter_beamer)Излучатель материи$() (+скорость, −расход предметов) $(li)$(l:rftoolsutility:machines/screen_controller)Контроллер экранов$() (+дальность) $(li)$(l:rftoolsutility:machines/crafter)Автокрафтер$()"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsstorage",
+      "title": "RFTools Storage",
+      "text": "$(li)$(l:rftoolsstorage:scanner/scanner)Сканер хранилищ$()"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolspower",
+      "title": "RFTools Power",
+      "text": "$(li)$(l:rftoolspower:powergeneration/coalgenerator)Угольный генератор$() $(li)$(l:rftoolspower:powergeneration/endergenic)Эндергенный генератор$() (+выработка энергии, меньше потерь при удержании жемчужин) $(li)$(l:rftoolspower:powerstorage/dimensionalcell)Пространственная ячейка$() (−потери при удалённом извлечении RF, +вывод RF/t) $(li)$(l:rftoolspower:powergeneration/blazingagitator)Огненный активатор$() (+качество огненных стержней) $(li)$(l:rftoolspower:powergeneration/blazinggenerator)Огненный генератор$() (+выработка энергии)"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsdim",
+      "title": "RFTools Dimensions",
+      "text": "$(li)$(l:rftoolsdim:dimlets/researcher)Исследователь$() (+скорость) $(li)$(l:rftoolsdim:dimensions/dimension_builder)Строитель измерений$() (+скорость)"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsbuilder",
+      "title": "RFTools Builder",
+      "text": "$(li)$(l:rftoolsbuilder:shield/shield_intro)Проектор щита$() (+урон) $(li)$(l:rftoolsbuilder:builder/builder_intro)Строитель$() (+скорость)"
+    }
+  ]
+}

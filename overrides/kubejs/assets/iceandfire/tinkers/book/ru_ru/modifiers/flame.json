@@ -1,0 +1,34 @@
+{
+  "modifier": "flame",
+  "text": [
+    {
+      "text": "Покрытие из крови огненного дракона наделяет инструмент способностью поджигать противников."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Нельзя применить к инструментам из драконьей стали. Несовместимо с модификатором «Буран»"
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "effects": [
+    "Поджигает противников на 10 секунд",
+    "Наносит дополнительный урон пламенем дракона",
+    "Только один уровень"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow",
+    "tconstruct:longsword",
+    "tconstruct:shortbow",
+    "tconstruct:frypan",
+    "tconstruct:crossbow",
+    "tconstruct:scythe",
+    "tconstruct:shuriken"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Страусиное яйцо",
+  "icon": "livingthings:ostrich_egg",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)если в страусином гнезде есть яйцо, его можно забрать щелчком ПКМ$(br2)может выпасть из страуса, который собирался построить гнездо"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:ostrich_egg",
+      "text": "$(br)$(bold)Применение:$()$(br)можно поместить в страусиное гнездо, чтобы вывести страусёнка"
+    }
+  ]
+}

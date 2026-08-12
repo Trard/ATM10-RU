@@ -1,0 +1,10 @@
+{
+	"akashictome.misc.shift_for_info": "§7Удерживайте §bSHIFT§7, чтобы узнать больше",
+	"akashictome.configuration.Allow all items to be added": "Разрешить добавление любых предметов",
+	"akashictome.configuration.Whitelisted Items": "Разрешённые предметы",
+	"akashictome.configuration.Blacklisted Mods": "Запрещённые моды",
+	"akashictome.configuration.Mod Aliases": "Псевдонимы модов",
+	"akashictome.configuration.Hide Book Render": "Скрывать отображение книги",
+	"akashictome.configuration.Whitelisted Names": "Разрешённые названия",
+	"akashictome.configuration.Blacklisted Items": "Запрещённые предметы"
+}

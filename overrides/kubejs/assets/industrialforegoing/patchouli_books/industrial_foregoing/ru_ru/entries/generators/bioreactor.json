@@ -1,0 +1,17 @@
+{
+  "name": "Биореактор",
+  "icon": "industrialforegoing:bioreactor",
+  "category": "industrialforegoing:generators",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Получая воду и различные $(6)семена$(), $(6)саженцы$(), $(6)красители$() и... $(6)черепа$()?!, эта машина создаёт $(l:generators/biofuel)биотопливо$().$(br2)Чем больше разных типов предметов в реакторе, тем больше биотоплива даёт каждый предмет. С одним типом получится лишь $(6)80$() мБ, а с четырьмя каждый даст $(6)110$() мБ — всего $(6)440$() мБ."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:bioreactor"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Снятие ослаблений",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_debuffremover",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Снятие ослаблений» автоматически удаляет все полученные отрицательные эффекты, помогая оставаться в идеальной боевой форме.$(br2)Это активная способность: назначьте ей клавишу на экране настроек инструмента. У неё также есть время восстановления."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание снятия ослаблений",
+      "recipe": "justdirethings:upgrade_debuffremover"
+    }
+  ]
+}

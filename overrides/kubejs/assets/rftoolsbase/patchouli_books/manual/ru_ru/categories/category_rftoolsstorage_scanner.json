@@ -1,0 +1,7 @@
+{
+  "name": "Сканер хранилищ",
+  "description": "Мощный блок для централизованного доступа к соседним хранилищам",
+  "parent": "rftoolsbase:category_rftoolsstorage",
+  "icon": "rftoolsstorage:storage_scanner",
+  "sortnum": 20
+}

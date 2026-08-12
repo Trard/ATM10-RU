@@ -1,0 +1,19 @@
+{
+  "name": "Контроллер перемещателей",
+  "icon": "rftoolsbuilder:mover_controller",
+  "category": "rftoolsbase:category_rftoolsbuilder_mover",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:mover_controller": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Контроллер объединяет Перемещатели. Установите его рядом с одним Перемещателем, затем воспользуйтесь им для поиска остальных подключённых Перемещателей."
+    },
+    {
+      "type": "text",
+      "text": "Два Перемещателя соединяются, если находятся не дальше 128 блоков друг от друга по одному из основных направлений."
+    }
+  ]
+}

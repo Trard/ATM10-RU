@@ -1,0 +1,44 @@
+{
+  "name": "Кровельные ступени и плиты",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:roofs",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/stairs.png"
+      ],
+      "text": "Кровельные ступени и плиты, покрытые снегом."
+    },
+    {
+      "type": "spotlight",
+      "title": "Кровельные ступени и плиты",
+      "item": "merrymaking:roof_acacia_stairs",
+      "text": "Кровельные ступени и плиты — особые блоки, которые со временем покрываются снегом.$(br2)Они доступны из всех обычных пород древесины, а также в вариантах из каменных кирпичей, полированных чернитных кирпичей и кирпичей из глубинного сланца."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)Чтобы создать кровельные ступени или плиты, соедините обычные ступени или плиты с кровельной черепицей на верстаке.$(br2)Рецепт кровельной черепицы показан здесь:"
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:roof_tiles"
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:roof_jungle_stairs",
+      "recipe2": "merrymaking:roof_bamboo_slab"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Во время снегопада плиты и ступени постепенно превращаются в заснеженный вариант.$(br2)Если снега рядом нет, не беда: бросьте в них снежок, чтобы покрыть снегом вручную."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/change.png"
+      ],
+      "text": "Кровельные ступени после снежковой атаки."
+    }
+  ]
+}

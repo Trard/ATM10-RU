@@ -1,0 +1,17 @@
+{
+  "name": "Переработчик осадка",
+  "icon": "industrialforegoing:sludge_refiner",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина превращает $(6)осадок$() во что-нибудь полезное.$(br2)Получив $(6)осадок$() от $(l:agriculture_n_husbandry/plant_gatherer)сборщика растений$(), она создаёт $(6)нечто$().$(br)Процесс расходует $(6)1000$() RF/т, поэтому заранее запасите энергию."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sludge_refiner"
+    }
+  ]
+}

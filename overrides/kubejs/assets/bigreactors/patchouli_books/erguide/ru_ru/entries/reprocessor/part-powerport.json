@@ -1,0 +1,22 @@
+{
+  "name": "Порт питания",
+  "icon": "bigreactors:reprocessorpowerport",
+  "category": "bigreactors:reprocessor-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reprocessorpowerport",
+      "link_recipe": true,
+      "title": "Порт питания",
+      "text": "Порт питания подаёт энергию, необходимую для работы репроцессора.$(br2)К нему можно подключить любой совместимый с Forge Energy кабель или генератор."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Порт питания",
+      "crafting.recipe1": "bigreactors:reprocessor/powerport",
+      "usage.text": "$(l)Обязательно:$() нужен ровно один$(br)$(l)Допустимое положение:$() на любой вертикальной грани (не на каркасе)$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

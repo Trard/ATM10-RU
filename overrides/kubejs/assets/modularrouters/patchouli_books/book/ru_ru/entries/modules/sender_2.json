@@ -1,0 +1,20 @@
+{
+  "name": "Модуль-отправитель Мк2",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:sender_module_2",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот модуль работает как $(l:modules/sender_1)отправитель Мк1/$, но гораздо свободнее выбирает инвентарь:$(li)Цель может находиться не дальше 24 блоков (до 48 с $(l:augments/range_up)дополнениями радиуса/$).$(li)Прямая видимость $(italic)не/$ требуется."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Возьмите отправитель Мк2 и нажмите $(thing)Shift + ПКМ/$ по целевому инвентарю. Появится подтверждение.$(li)Когда вы держите настроенный отправитель Мк2, целевой блок подсвечивается."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:sender_module_2",
+      "recipe2": "modularrouters:sender_module_2_x4"
+    }
+  ]
+}

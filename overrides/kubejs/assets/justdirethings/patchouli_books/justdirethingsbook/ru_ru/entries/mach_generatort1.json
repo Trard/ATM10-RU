@@ -1,0 +1,21 @@
+{
+  "name": "Простой угольный генератор",
+  "sortnum": 19,
+  "category": "justdirethings:machines",
+  "icon": "justdirethings:generatort1",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Простой угольный генератор — базовый механизм выработки энергии. Он принимает обычное топливо для печей и особый уголь разных уровней, преобразуя его в энергию Forge (FE). Более высокие уровни — $(l:justdirethings:res_coal_t1)первобытный уголь$(/l), $(l:justdirethings:res_coal_t2)уголёк Blaze$(/l), $(l:justdirethings:res_coal_t3)уголь Voidflame$(/l) и $(l:justdirethings:res_coal_t4)уголёк Eclipse$(/l) — повышают и FE за такт (FE/t), и общее количество полученной FE."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Каждое повышение уровня угля увеличивает эффективность: устройство работает дольше и получает больше энергии из того же количества топлива."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Рецепт создания",
+      "recipe": "justdirethings:generatort1"
+    }
+  ]
+}

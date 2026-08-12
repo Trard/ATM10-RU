@@ -1,0 +1,18 @@
+{
+  "nuke.mdx": "Манхэттенский модуль",
+  "low_yield_nuke.mdx": "Ядерное взрывное устройство малой мощности",
+  "uranium_pellet.mdx": "Переработка урана",
+  "reactor_controller.mdx": "Контроллер ядерного реактора",
+  "reactor_wall.mdx": "Стенка реактора",
+  "reactor_absorber_port.mdx": "Порт поглотителей тепла реактора",
+  "reactor_condenser.mdx": "Поглотитель тепла реактора",
+  "reactor_heat_pipe.mdx": "Тепловая труба реактора",
+  "reactor_vent.mdx": "Теплоотвод реактора",
+  "reactor_reflector.mdx": "Нейтронный отражатель",
+  "reactor_rod.mdx": "Топливный стержень реактора",
+  "reactor_double_rod.mdx": "Двойной стержень реактора",
+  "reactor_quad_rod.mdx": "Четырёхкратный стержень реактора",
+  "reactor_fuel_port.mdx": "Топливный порт реактора",
+  "reactor_energy_port.mdx": "Энергетический порт реактора",
+  "reactor_redstone_port.mdx": "Редстоун-порт реактора"
+}

@@ -1,0 +1,197 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "Мод «Травы и урожай» добавляет несколько трав и специй. Выберите тему ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.herbs.info",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.list",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.spices",
+          "target_page": 3
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.thistle",
+          "target_page": 4
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.cinn",
+          "target_page": 5
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/herbs/herbs.png",
+          "caption": "herbsandharvest.guide_book.chapters.herbs.herbs_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.info",
+      "summary": "Как и культурам, травам для роста нужны грядки и вода.\n\nСобранные травы можно разместить на траве или земле в качестве украшения.\n\nТравы также можно посадить в цветочный горшок.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/herbs/potted.png",
+          "caption": "herbsandharvest.guide_book.chapters.herbs.potted_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "\nВ обновлении «Кладовая» свежие травы можно нарезать или перемолоть, а затем хранить в банках для специй и использовать в рецептах.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.list",
+      "summary": "",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:fresh_basil",
+              "text": "guide.herbsandharvest.fresh_basil_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_bay_leaf",
+              "text": "guide.herbsandharvest.fresh_bay_leaf_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_chive",
+              "text": "guide.herbsandharvest.fresh_chive_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_cilantro",
+              "text": "guide.herbsandharvest.fresh_cilantro_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_dill",
+              "text": "guide.herbsandharvest.fresh_dill_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_lemongrass",
+              "text": "guide.herbsandharvest.fresh_lemongrass_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_mint",
+              "text": "guide.herbsandharvest.fresh_mint_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_mustard",
+              "text": "guide.herbsandharvest.fresh_mustard_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_oregano",
+              "text": "guide.herbsandharvest.fresh_oregano_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_parsley",
+              "text": "guide.herbsandharvest.fresh_parsley_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_rosemary",
+              "text": "guide.herbsandharvest.fresh_rosemary_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_sage",
+              "text": "guide.herbsandharvest.fresh_sage_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_thyme",
+              "text": "guide.herbsandharvest.fresh_thyme_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.spices",
+      "summary": "Как и травам, перцу горошком, имбирю и куркуме для роста нужны грядки.\n\nПерец горошком и саженец коричного дерева также можно посадить в горшок.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n\nСписок специй:\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:cinnamon",
+              "text": "guide.herbsandharvest.cinnamon_desc"
+            },
+            {
+              "item": "herbsandharvest:ginger_root",
+              "text": "guide.herbsandharvest.ginger_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_peppercorn",
+              "text": "guide.herbsandharvest.fresh_peppercorn_desc"
+            },
+            {
+              "item": "herbsandharvest:thistle",
+              "text": "guide.herbsandharvest.thistle_desc"
+            },
+            {
+              "item": "herbsandharvest:turmeric_root",
+              "text": "guide.herbsandharvest.turmeric_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.thistle",
+      "summary": "Чертополох — цветок, который встречается почти в любом биоме Обычного мира.\n\nИз чертополоха создаётся сычужный фермент для сыроварения.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/plant/thistle.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.thistle_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Чертополох достигает двух блоков в высоту и цветёт пурпурными или розовыми цветами.\n\nЕго можно выращивать костной мукой и разводить так же, как высокие цветы.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.cinn",
+      "summary": "Коричные деревья достигают двух блоков в высоту. Их кора постоянно отрастает, и её можно обтесать, чтобы получить корицу.\n\nСаженцы коричного дерева растут в тропических биомах и встречаются в сундуках Обычного мира.",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/plant/cinn_tree.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.cinn_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "Чтобы получить корицу, щёлкните ПКМ топором по дереву и обтешите кору.\n\nЕсли кора созрела, из неё выпадет немного корицы.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

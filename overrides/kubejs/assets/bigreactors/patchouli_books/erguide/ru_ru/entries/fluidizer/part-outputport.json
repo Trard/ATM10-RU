@@ -1,0 +1,22 @@
+{
+  "name": "Порт вывода",
+  "icon": "bigreactors:fluidizeroutputport",
+  "category": "bigreactors:fluidizer-parts",
+  "read_by_default": true,
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:fluidizeroutputport",
+      "link_recipe": true,
+      "title": "Порт вывода",
+      "text": "Порт вывода извлекает жидкое топливо из флюидайзера.$(br2)Для автоматического извлечения топлива можно подключить любую трубу."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Порт вывода",
+      "crafting.recipe1": "bigreactors:fluidizer/outputport",
+      "usage.text": "$(l)Обязательно:$() нужен хотя бы один$(br)$(l)Допустимое положение:$() на любой грани (не на каркасе)$(br)$(l)Интерфейс:$() нет"
+    }
+  ]
+}

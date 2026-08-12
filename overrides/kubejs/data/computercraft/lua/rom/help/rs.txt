@@ -1,0 +1,19 @@
+Функции API красного камня:
+rs.getSides( )
+rs.getInput( side )
+rs.setOutput( side, boolean )
+rs.getOutput( side )
+rs.getAnalogInput( side )
+rs.setAnalogOutput( side, number )
+rs.getAnalogOutput( side )
+
+Функции API красного камня для работы с многожильными кабелями RedPower:
+rs.getBundledInput( side )
+rs.testBundledInput( side, color )
+rs.setBundledOutput( side, colors )
+rs.getBundledOutput( side )
+Введите "help bundled", чтобы посмотреть примеры использования.
+
+События, создаваемые API красного камня:
+"redstone" — при изменении состояния любого входа красного камня. Для просмотра изменений используйте getInput() или getBundledInput()
+Введите "help events", чтобы узнать о системе событий.

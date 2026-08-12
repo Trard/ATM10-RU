@@ -1,0 +1,94 @@
+{
+  "name": "Праздничные каминные полки",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:mantels",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Устройтесь холодным вечером у красивого камина. Праздничные каминные полки можно украшать; рядом с ними так приятно пить какао у огня.$(br2)Полка имеет ширину 3 блока, высоту 3 блока и глубину 1 блок, располагаясь по центру относительно установленного блока.$(br2)Далее рассказано, как её украсить..."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Праздничные каминные полки",
+      "multiblock": {
+        "mapping": {
+          "A": "merrymaking:oak_mantel[facing=west,section=0]",
+          "B": "merrymaking:oak_mantel[facing=west,section=1]",
+          "C": "merrymaking:oak_mantel[facing=west,section=2]",
+          "D": "merrymaking:oak_mantel[facing=west,section=3]",
+          "E": "merrymaking:oak_mantel[facing=west,section=4]"
+        },
+        "pattern": [
+          [
+            "DCB"
+          ],
+          [
+            "E0A"
+          ]
+        ],
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Каждую секцию праздничной каминной полки можно украсить горизонтальной хвойной гирляндой любого вида и/или чулком.$(br2)Чтобы оформить угол на конце, установите вторую часть той же гирлянды.$(br2)Чтобы снять украшения, щёлкните по полке пустой рукой.$(br2)Далее приведён рецепт..."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Украшение каминных полок",
+      "multiblock": {
+        "mapping": {
+          "A": "merrymaking:oak_mantel[facing=west,section=0,type=garland]",
+          "B": "merrymaking:oak_mantel[corner=true,facing=west,section=1,type=garland,stocking=true]",
+          "C": "merrymaking:oak_mantel[facing=west,section=2,type=garland,stocking=true]",
+          "D": "merrymaking:oak_mantel[corner=true,facing=west,section=3,type=garland,stocking=true]",
+          "E": "merrymaking:oak_mantel[facing=west,section=4,type=garland]"
+        },
+        "pattern": [
+          [
+            "DCB"
+          ],
+          [
+            "E0A"
+          ]
+        ],
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "Праздничные каминные полки доступны из всех обычных пород древесины. Они создаются из 4 досок и 3 плит, как показано здесь."
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:oak_mantel",
+      "text": "Далее описаны украшения для каминной полки..."
+    },
+    {
+      "type": "text",
+      "text": "Некоторые декоративные блоки созданы специально для праздничной каминной полки:$(br)$(li)украшение с подсвечниками$(li)пряничный домик$(li)фонарь и пуансеттия$(li)рождественская ёлка$(li)фонарь и ёлочный шар$(li)украшение «Радость»"
+    },
+    {
+      "type": "text",
+      "text": "Поскольку обычный щелчок по украшенной каминной полке снимает одно украшение, декоративные и другие блоки следует устанавливать на неё щелчком Shift+ПКМ."
+    },
+    {
+      "type": "crafting",
+      "title": "Украшения каминной полки",
+      "recipe": "merrymaking:mantel_deco_candles",
+      "recipe2": "merrymaking:mantel_deco_gbhouse"
+    },
+    {
+      "type": "crafting",
+      "title": "Украшения каминной полки",
+      "recipe": "merrymaking:mantel_deco_lantern",
+      "recipe2": "merrymaking:mantel_deco_tree"
+    },
+    {
+      "type": "crafting",
+      "title": "Украшения каминной полки",
+      "recipe": "merrymaking:mantel_deco_ball",
+      "recipe2": "merrymaking:mantel_deco_joy"
+    }
+  ]
+}

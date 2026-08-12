@@ -1,0 +1,26 @@
+{
+    "name": "Доспехи ботаника",
+    "icon": "naturesaura:infused_iron_chest",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Помимо $(l:items/infused_iron_tools)инструментов$(), ботаник может защититься $(item)доспехами ботаника$(). По прочности они примерно равны железным и, как инструменты из того же материала, восстанавливают потерянную прочность, если красться с $(l:items/aura_cache)хранилищем ауры$(). Кроме того, у доспехов есть $(thing)бонус комплекта$(), действующий при ношении всех его частей."
+        },
+        {
+            "type": "text",
+            "text": "Когда моб атакует владельца полного комплекта, он ненадолго получает эффект $(item)иссушения$(), наносящий урон подобно чарам «Шипы».$(br)Если полный комплект надет, применение $(l:items/shockwave_creator)амулета гнева$() также ненадолго накладывает иссушение на всех мобов, задетых его эффектом."
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:infused_helmet",
+            "recipe2": "naturesaura:infused_chest"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:infused_pants",
+            "recipe2": "naturesaura:infused_shoes"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Пусковая установка бесконечности",
+  "icon": "industrialforegoing:infinity_launcher",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пусковая установка бесконечности позволяет на расстоянии ловить существ в инструмент заточения или выпускать их. Выберите режим в интерфейсе и выстрелите, чтобы поймать или освободить существо с помощью инструмента заточения из инвентаря."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_launcher"
+    }
+  ]
+}

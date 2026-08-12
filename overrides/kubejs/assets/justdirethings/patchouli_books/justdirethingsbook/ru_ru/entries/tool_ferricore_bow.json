@@ -1,0 +1,17 @@
+{
+  "name": "Лук из Ferricore",
+  "sortnum": 6,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:bow_ferricore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Прочный лук из Ferricore развивает возможности обычного лука: он долговечнее и поддерживает различные способности-улучшения.$(br2)В настройках инструмента есть особая ячейка для канистры с зельем, позволяющая наделять стрелы эффектами. Вставьте $(l:justdirethings:item_potion_canister)канистру с зельем$(/l), чтобы применить эффекты."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:bow_ferricore",
+      "text": "Создание лука из Ferricore"
+    }
+  ]
+}

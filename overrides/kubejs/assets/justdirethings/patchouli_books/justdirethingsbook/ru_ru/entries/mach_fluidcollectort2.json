@@ -1,0 +1,17 @@
+{
+  "name": "Продвинутый сборщик жидкости",
+  "sortnum": 18,
+  "category": "justdirethings:machines",
+  "icon": "justdirethings:fluidcollectort2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Продвинутый сборщик развивает возможности $(l:justdirethings:mach_fluidcollectort1)простого сборщика жидкости$(/l): он работает в большей области и позволяет фильтровать собираемые жидкости.$(br2)Поместите ведро нужной жидкости в ячейку фильтра, чтобы разрешить её сбор."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Продвинутый сборщик жидкости",
+      "recipe": "justdirethings:fluidcollectort2"
+    }
+  ]
+}

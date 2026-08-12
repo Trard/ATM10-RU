@@ -1,0 +1,31 @@
+{
+  "name": "Контроллер",
+  "icon": "bigreactors:reinforced_reactorcontroller",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorcontroller",
+      "link_recipe": true,
+      "title": "Контроллер",
+      "text": "Контроллер — основной интерфейс реактора.$(br2)Нажмите по нему ПКМ, чтобы открыть интерфейс, где можно включить или выключить реактор, проверить количество реагентов в топливных стержнях, температуру реактора и другие параметры."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "В зависимости от режима работы реактора здесь также показываются состояние внутреннего энергетического буфера и скорость выработки у реактора с $(l:bigreactors/passive)пассивным охлаждением$(/l) либо количество теплоносителя и пара у реактора с $(l:bigreactors/active)активным охлаждением$(/l).$(br2)При наведении на элемент управления появится подсказка с дополнительной информацией или пояснением его назначения."
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "Базовый",
+      "recipe1": "bigreactors:reactor/basic/controller_ingots_yellorium",
+      "title2": "Усиленный",
+      "recipe2": "bigreactors:reactor/reinforced/controller_ingots_yellorium"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)Обязательно:$() нужен хотя бы один$(br)$(l)Допустимое положение:$() на любой грани (не на каркасе)$(br)$(l)Варианты:$() все$(br)$(l)Интерфейс:$() да"
+    }
+  ]
+}

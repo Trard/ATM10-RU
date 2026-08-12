@@ -1,0 +1,50 @@
+{
+  "name": "Середина игры",
+  "icon": "irons_spellbooks:scroll_forge",
+  "category": "irons_spellbooks:root",
+  "sortnum": -2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Кузница свитков",
+      "text": "Получив ресурсы уровня Незера, вы откроете совершенно новый способ наращивать силу — Кузницу свитков.$(br2)В ней свитки создаются из чернил, бумаги и фокуса. Чернила определяют редкость и, следовательно, уровень заклинания, а фокус — его школу."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:scroll_forge"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Новые книги заклинаний",
+      "text": "Кроме того, из ресурсов Незера можно создавать книги заклинаний среднего уровня.",
+      "recipe": "irons_spellbooks:gold_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:diamond_spell_book",
+      "text": "Кожа хоглина выпадает из хоглинов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:magic_cloth",
+      "title": "Новые материалы",
+      "text": "Пора создавать более прочную броню из магической ткани. Чтобы получать много магической эссенции, сосредоточьтесь на набегах на волшебные сооружения."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Броня пугала",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:pumpkin_boots',Count:1b},{id:'irons_spellbooks:pumpkin_leggings',Count:1b},{id:'irons_spellbooks:pumpkin_chestplate',Count:1b},{id:'irons_spellbooks:pumpkin_helmet',Count:1b}],NoBasePlate:1b}"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blank_rune",
+      "title": "Редкие материалы",
+      "text": "Для дальнейшего развития ищите рунические камни в волшебных сооружениях. Они нужны для создания ещё более мощной брони. С классовых магов всегда выпадает руна их школы."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}

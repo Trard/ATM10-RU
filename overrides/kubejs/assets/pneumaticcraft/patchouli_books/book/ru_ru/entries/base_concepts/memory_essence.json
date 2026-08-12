@@ -1,0 +1,16 @@
+{
+  "name": "Эссенция памяти",
+  "icon": "pneumaticcraft:memory_essence_bucket",
+  "category": "pneumaticcraft:base_concepts",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Эссенция памяти/$ — жидкое воплощение воспоминаний и опыта игрока. Её можно извлечь и сохранить для ванильного зачарования или некоторых процессов производства в $(pncr).$(p)Получить $(item)эссенцию памяти/$ можно двумя способами:$(li)1. С помощью $(l:tools/memory_stick)карты памяти/$.$(li)2. С помощью $(l:machines/aerial_interface)воздушного интерфейса/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:memory_essence_bucket",
+      "text": "$(italic)Достаточно ли у вас опыта?/$"
+    }
+  ]
+}

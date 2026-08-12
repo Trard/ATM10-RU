@@ -1,0 +1,9 @@
+Функции HTTP API:
+http.checkURL( url )
+http.checkURLAsync( url )
+http.request( url, [postData], [headers] )
+http.get( url, [headers] )
+http.post( url, postData, [headers] )
+
+HTTP API может быть отключён в ComputerCraft.cfg.
+Через некоторое время после вызова http.request() возникает событие "http_success" или "http_failure". При успехе его аргументами будут URL и дескриптор файла. При неудаче — nil, сообщение об ошибке и, при наличии, дескриптор файла. Вызовы http.get() и http.post(), напротив, приостанавливают выполнение до возникновения этого события.

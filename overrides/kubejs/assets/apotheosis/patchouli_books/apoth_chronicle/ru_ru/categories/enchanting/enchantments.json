@@ -1,0 +1,7 @@
+{
+  "name": "Новые чары",
+  "description": "Каждая статья этого раздела подробно описывает новые чары данного модуля.$(p)Чары из других модулей здесь не рассматриваются.",
+  "icon": "minecraft:enchanted_book",
+  "flag": "apotheosis:enchanting",
+  "parent": "apotheosis:enchanting/enchanting"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Анобтаниумовая руда",
+  "icon": "allthemodium:unobtainium_ore",
+  "category": "allthemodium:ore",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "allthemodium:unobtainium_ore",
+      "title": "Анобтаниумовая руда",
+      "link_recipe": false,
+      "text": "Анобтаниумовую руду можно найти в биоме возвышенностей Энда ниже Y = 78."
+    }
+  ]
+}

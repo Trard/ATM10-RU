@@ -1,0 +1,17 @@
+{
+  "name": "Зарядник бесконечности",
+  "icon": "industrialforegoing:infinity_charger",
+  "category": "industrialforegoing:misc",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Заряжает предметы, способные хранить энергию. Предметы $(6)бесконечности$() заряжаются особенно быстро."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:infinity_charger"
+    }
+  ]
+}

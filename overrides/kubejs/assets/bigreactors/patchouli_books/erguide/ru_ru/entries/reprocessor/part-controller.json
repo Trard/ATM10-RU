@@ -1,0 +1,26 @@
+{
+  "name": "Контроллер",
+  "icon": "bigreactors:reprocessorcontroller",
+  "category": "bigreactors:reprocessor-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reprocessorcontroller",
+      "link_recipe": true,
+      "title": "Контроллер",
+      "text": "Контроллер — основной интерфейс репроцессора.$(br2) Нажмите по нему ПКМ, чтобы открыть интерфейс, где можно включить или выключить репроцессор, проверить количество жидкостей и энергии и следить за текущей переработкой."
+    },
+    {
+      "type": "crafting-text",
+      "text": "При наведении на элемент управления появится подсказка с дополнительной информацией или пояснением его назначения.$(br2)",
+      "title": "Контроллер",
+      "recipe": "bigreactors:reprocessor/controller"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Обязательно:$() нужен хотя бы один$(br)$(l)Допустимое положение:$() на любой вертикальной грани (не на каркасе)$(br)$(l)Интерфейс:$() да"
+    }
+  ]
+}

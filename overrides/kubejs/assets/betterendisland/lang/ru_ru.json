@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Создавать ванильные врата Края",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Должны ли в Крае появляться ванильные врата Края вместо переработанных",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Воспроизводить звон колокола",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Должен ли звучать колокол перед первым призывом дракона Края и при повторных призывах",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Изначально создавать центральную башню",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Должна ли центральная башня появляться в Крае при первой генерации мира",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Восстанавливать центральную башню при повторном призыве",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Должна ли центральная башня вновь появляться в Крае при повторном призыве дракона Края"
+}

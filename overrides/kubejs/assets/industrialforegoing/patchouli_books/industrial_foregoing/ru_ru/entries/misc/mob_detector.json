@@ -1,0 +1,17 @@
+{
+  "name": "Детектор существ",
+  "icon": "industrialforegoing:mob_detector",
+  "category": "industrialforegoing:misc",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Машина подсчитывает существ перед собой и выдаёт сзади редстоуновый сигнал силой, равной их количеству."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_detector"
+    }
+  ]
+}

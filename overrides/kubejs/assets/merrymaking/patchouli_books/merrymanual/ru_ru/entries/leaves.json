@@ -1,0 +1,25 @@
+{
+  "name": "Листва с огнями",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:wreaths",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Листва с огнями",
+      "item": "merrymaking:spruce_leaves_lights_large_white",
+      "text": "Подарите зимним деревьям и кустам праздничное сияние. Соедините еловую листву с огнями на верстаке, чтобы создать листву с огнями.$(br2)Для крупных огней используйте базовые классические огни, а для обычного размера — ёлочные."
+    },
+    {
+      "type": "crafting",
+      "title": "Листва с огнями",
+      "recipe": "merrymaking:leaves_large_multi_lights",
+      "recipe2": "merrymaking:leaves_white_lights"
+    },
+    {
+      "type": "crafting",
+      "title": "Листва с огнями",
+      "recipe": "merrymaking:leaves_large_white_lights",
+      "recipe2": "merrymaking:leaves_multi_lights"
+    }
+  ]
+}

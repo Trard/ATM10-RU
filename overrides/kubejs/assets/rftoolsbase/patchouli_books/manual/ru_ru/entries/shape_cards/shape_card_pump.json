@@ -1,0 +1,28 @@
+{
+  "name": "Карта насоса",
+  "icon": "rftoolsbuilder:shape_card_pump",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_pump": 1,
+    "rftoolsbuilder:shape_card_pump_clear": 2
+  },
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта насоса заставляет Строителя собирать жидкости из выбранной области. Откачанная жидкость должна поступать в подключённый резервуар."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_pump"
+    },
+    {
+      "type": "text",
+      "text": "Обычная Карта насоса заменяет удалённую жидкость заданным заполнителем. Очищающий вариант оставляет пустое пространство."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_pump_clear"
+    }
+  ]
+}

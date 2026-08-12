@@ -1,0 +1,43 @@
+{
+  "name": "Уровни 60–80",
+  "icon": "apothic_enchanting:dormant_deepshelf",
+  "category": "apotheosis:enchanting/progression",
+  "flag": "apotheosis:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение 70-го уровня",
+      "recipe": "apothic_enchanting:dormant_deepshelf",
+      "text": "Для достижения 70-го уровня нужен стол зачарований 60-го уровня и доступ к глубинному сланцу."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Достижение 70-го уровня",
+      "text": "Создав $(9)дремлющую глубинную полку$(), насытьте её.$(p)Для достижения пороговых значений характеристик этому рецепту насыщения потребуются дополнительные блоки.$(p)В результате получится $(9)глубинная полка$(), с которой можно достичь 70-го уровня."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Достижение 75-го уровня",
+      "text": "Для достижения 75-го уровня улучшите глубинные полки.$(p)Для этого нужны материалы, встречающиеся только в $(9)глубинной тьме$().$(p)$(9)Осколки эха$() можно найти в древнем городе, а $(9)скалк$() — добыть с помощью «Шёлкового касания»."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение 75-го уровня",
+      "recipe": "apothic_enchanting:echoing_deepshelf",
+      "recipe2": "apothic_enchanting:soul_touched_deepshelf"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:warden",
+      "title": "Достижение 80-го уровня",
+      "scale": 0.95,
+      "text": "На последнем этапе перед 80-м уровнем нужно убить $(9)вардена$(), чтобы получить возможность создавать $(9)скалковые полки$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Достижение 80-го уровня",
+      "recipe": "apothic_enchanting:echoing_sculkshelf",
+      "recipe2": "apothic_enchanting:soul_touched_sculkshelf"
+    }
+  ]
+}

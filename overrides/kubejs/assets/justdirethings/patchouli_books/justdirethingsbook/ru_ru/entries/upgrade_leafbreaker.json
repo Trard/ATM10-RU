@@ -1,0 +1,17 @@
+{
+  "name": "Листоруб",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_leafbreaker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Листоруб» — активная способность. Просто щёлкните правой кнопкой по блоку листвы: он и все соседние блоки листвы также будут разрушены."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Листоруб»",
+      "recipe": "justdirethings:upgrade_leafbreaker"
+    }
+  ]
+}

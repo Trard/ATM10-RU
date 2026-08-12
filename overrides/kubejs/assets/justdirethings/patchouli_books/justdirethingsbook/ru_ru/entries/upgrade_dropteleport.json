@@ -1,0 +1,17 @@
+{
+  "name": "Телепортация добычи",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_dropteleport",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Телепортация добычи» сохраняет ваши трофеи, мгновенно отправляя выпавшие предметы в привязанный инвентарь.$(br2)Чтобы выполнить привязку, нажмите Shift + ПКМ инструментом по инвентарю, например сундуку. После этого вся добыча из руды или мобов будет телепортироваться прямо туда!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Телепортация добычи»",
+      "recipe": "justdirethings:upgrade_dropteleport"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Копировщик настроек механизмов",
+  "sortnum": 9,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:machinesettingscopier",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот инструмент копирует настройки механизмов. Нажмите Shift + ПКМ по $(l:justdirethings:machines)механизму$(/l), чтобы скопировать параметры, затем щёлкните правой кнопкой по другому механизму, чтобы вставить их. Щёлкните в воздухе, чтобы открыть меню и выбрать конкретные параметры для копирования."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание копировщика настроек механизмов",
+      "recipe": "justdirethings:machinesettingscopier"
+    }
+  ]
+}

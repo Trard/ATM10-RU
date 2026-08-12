@@ -1,0 +1,23 @@
+{
+  "name": "Обычная карта фигуры",
+  "icon": "rftoolsbuilder:shape_card_def",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_def": 1
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Обычная карта фигуры хранит вид фигуры, размер, смещение и режим сплошного либо полого заполнения. Используйте её в Строителе для размещения блоков или в Проекторе щита для задания формы щита."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_def"
+    },
+    {
+      "type": "text",
+      "text": "Щёлкните картой правой кнопкой мыши, чтобы выбрать кубоид, сферу, цилиндр, конус, тор, призму, скан или композицию. Использование с зажатым Shift помогает выбирать позиции в мире."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Перемещатель",
+  "description": "Блоки для создания движущихся конструкций и управления ими",
+  "parent": "rftoolsbase:category_rftoolsbuilder",
+  "icon": "rftoolsbuilder:mover_controller",
+  "sortnum": 50
+}

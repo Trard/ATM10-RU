@@ -1,0 +1,47 @@
+{
+  "name": "Печатные платы",
+  "icon": "pneumaticcraft:printed_circuit_board",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:plastic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Печатные платы/$ — важные компоненты множества механизмов и инструментов высокого уровня. Изготовление $(item)печатной платы/$ состоит из нескольких этапов.$(p)Сначала создайте $(item)пустую печатную плату/$ в $(l:manufacturing/pressure_chamber)барокамере/$, как показано напротив. Далее есть два способа обработки; они описаны на следующей странице."
+    },
+    {
+      "type": "pneumaticcraft:pressure_chamber",
+      "recipe": "pneumaticcraft:pressure_chamber/empty_pcb"
+    },
+    {
+      "type": "text",
+      "title": "Способ №1",
+      "text": "Изначально доступен только этот способ. Без дополнительной автоматизации и системы нагрева он довольно медленный: сначала обработайте $(item)плату/$ в $(l:manufacturing/uv_light_box)камере УФ-облучения/$, а затем поместите облучённую $(item)пустую печатную плату/$ в $(l:manufacturing/etching_tank)травильную ванну/$, чтобы получить $(item)несобранную печатную плату/$."
+    },
+    {
+      "type": "blasting",
+      "title": "Переработка испорченных плат",
+      "recipe": "pneumaticcraft:empty_pcb_from_failed_pcb",
+      "text": "Если $(item)пустая печатная плата/$ была облучена в $(l:manufacturing/uv_light_box)камере УФ-облучения/$ не на 100%, травление может завершиться неудачей. $(item)Испорченные платы/$ можно переработать в $(item)плавильной печи/$."
+    },
+    {
+      "type": "spotlight",
+      "title": "Способ №2",
+      "item": "pneumaticcraft:assembly_controller",
+      "text": "Когда вам станет доступна $(l:manufacturing/assembly_system)система сборки/$, с помощью $(item)программы сборки «Лазер»/$ вы сможете напрямую превращать $(item)пустые печатные платы/$ в $(item)несобранные/$. В этом случае облучать их в $(item)камере УФ-облучения/$ и использовать $(item)травильную ванну/$ не нужно."
+    },
+    {
+      "type": "text",
+      "title": "Способ №2 (продолжение)",
+      "text": "$(p)Система сборки — удобный и довольно быстрый способ производства $(item)несобранных печатных плат/$. Однако при хорошей автоматизации и развитой системе нагрева сочетание $(thing)камеры УФ-облучения с травильной ванной/$ может работать намного быстрее, особенно при массовом производстве."
+    },
+    {
+      "type": "pneumaticcraft:assembly_system",
+      "recipe": "pneumaticcraft:assembly/unassembled_pcb"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:printed_circuit_board",
+      "text": "Наконец, добавьте $(l:components/capacitor)конденсаторы/$ и $(l:components/transistor)транзисторы/$, чтобы собрать готовую $(item)печатную плату/$!"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ftbteams.team_already_exists": "Команда %s уже существует!",
+  "ftbteams.out_of_lives": "У вашей группы закончились жизни! Приглашать новых участников нельзя!",
+  "ftbteams.lost_a_life": "Ваша группа потеряла жизнь! Осталось жизней: %s / %s!",
+  "ftbteams.kicked_no_lives": "Игрок %s исключён: он погиб, а у вашей группы не осталось жизней!",
+  "ftbteams.disbanded_no_lives": "Ваша группа распущена: закончились и жизни, и игроки!",
+  "ftbteams.gui.toggle_chat": "Нажмите для переключения",
+  "ftbteams.message.limited_lives": "У вашей группы осталось жизней: %s / %s!",
+  "ftbteams.message.limited_lives.warn": "Если вы погибнете, вас исключат из группы!",
+  "ftbteams.message.chat_redirected.on": "Сообщения перенаправляются в командный чат",
+  "ftbteams.message.chat_redirected.off": "Сообщения отправляются в обычный чат",
+  "ftbteams.message.added_stage": "Команде добавлен этап: %s",
+  "ftbteams.message.no_team_stages": "У этой команды нет этапов",
+  "ftbteams.message.removed_stage": "У команды удалён этап: %s",
+  "ftbteams.message.team_stages_header": "Этапов у этой команды: %s:",
+  "ftbteams.message.set_property": "Свойству %s задано значение %s",
+  "ftbteams.message.parse_failed": "Не удалось разобрать значение: %s",
+  "ftbteams.message.property_not_editable": "Свойство %s нельзя изменять!"
+}

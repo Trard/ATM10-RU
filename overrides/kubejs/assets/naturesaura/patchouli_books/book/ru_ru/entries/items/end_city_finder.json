@@ -1,0 +1,17 @@
+{
+    "name": "Око шалкера",
+    "icon": "naturesaura:end_city_finder",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:aura_bottle_end",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Зная свойства $(item)ока Края$() и $(l:items/fortress_finder)ока всполоха$(), магические ботаники смогли создать третье око для поиска структур, завершив последовательность измерений. Брошенное $(item)око шалкера$(), подобно своим аналогам из Верхнего мира и Незера, находит ближайший $(thing)город Края$()."
+        },
+        {
+            "type": "crafting",
+            "text": "Создание $(item)ока шалкера$()",
+            "recipe": "naturesaura:end_city_finder"
+        }
+    ]
+}

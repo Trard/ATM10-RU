@@ -1,0 +1,7 @@
+{
+  "name": "Хранение энергии",
+  "description": "Устройства для локального и межпространственного хранения энергии.",
+  "parent": "rftoolsbase:category_rftoolspower",
+  "icon": "rftoolspower:dimensionalcell",
+  "sortnum": 20
+}

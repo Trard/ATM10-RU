@@ -1,0 +1,6 @@
+{
+  "soulkey.name": "Души хранителей",
+  "soulkey.description": "Души",
+  "soulpliedenergistics.can_be_used_filter": "*Можно использовать в МЭ-интерфейсе AE2 для запроса душ*",
+  "soulpliedenergistics.storage_bus": "*Доступ к душам можно получить через шину хранения AE2 сверху*"
+}

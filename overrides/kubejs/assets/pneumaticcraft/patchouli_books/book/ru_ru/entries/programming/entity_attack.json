@@ -1,0 +1,40 @@
+{
+  "name": "Виджет атаки сущностей",
+  "icon": "pneumaticcraft:textures/progwidgets/attack_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)Дрон/$ будет атаковать любую живую сущность в области.$(p)Учтите: все подключённые к этому виджету виджеты $(l:programming/area)области/$ должны иметь тип $(thing)Параллелепипед/$ — это единственная поддерживаемая форма. Тем не менее другие формы можно составлять из нескольких виджетов Область на стороне белого списка (справа) и чёрного списка (слева)."
+    },
+    {
+      "type": "text",
+      "title": "Фильтрация сущностей",
+      "text": "Разрешённых для атаки существ можно задать виджетами $(l:programming/text)Текст/$ в качестве $(l:base_concepts/entity_filter)фильтра сущностей/$. Например, чтобы $(thing)дрон/$ атаковал всех игроков, подключите виджет $(thing)Текст/$ $(italic)справа/$ от виджета $(thing)Атака сущностей/$ и впишите в него $(#600)@player/$.$(p)Чтобы он не атаковал вас, подключите $(thing)Текст/$ со своим именем игрока $(italic)слева/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:diamond_sword",
+      "title": "Ближний бой",
+      "text": "$(l:tools/drone)Дроны/$ экипируют и применяют для атаки любое оружие ближнего боя из своего инвентаря. Если у $(thing)дрона/$ несколько видов оружия, он выберет самое мощное.$(p)Настоятельно рекомендуется снабдить дрона оружием с помощью виджета $(l:programming/inventory_import)Загрузка предметов/$ — его безоружная атака слаба."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:minigun_upgrade",
+      "text": "Установите $(l:base_concepts/upgrades#minigun)Улучшение минигана/$ в $(l:tools/drone)дрона/$, чтобы оснастить его $(l:tools/minigun)миниганом/$. Получив $(l:tools/minigun_ammo)боеприпасы/$ (через виджет $(l:programming/inventory_import)Загрузка предметов/$), $(thing)дрон/$ будет применять миниган в дальнем бою.$(p)Базовая дальность составляет 16 блоков. Её можно увеличить до 32 блоков, установив до 16 $(l:base_concepts/upgrades#range_upgrade)Улучшений дальности/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:micromissiles",
+      "text": "Дроны также умеют запускать $(l:tools/micromissiles)Микроракеты/$: если при выполнении виджета $(thing)дрон/$ держит $(item)Микроракету/$, он выпустит её по текущей цели. Дрон копирует любой подключённый $(l:base_concepts/entity_filter)фильтр сущностей/$ в собственный фильтр Микроракеты."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/attack_piece.png"
+      ],
+      "text": "$(italic)Я вернусь/$"
+    }
+  ]
+}

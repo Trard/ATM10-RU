@@ -1,0 +1,7 @@
+{
+  "itemGroup.merequester.tab": "МЭ заказчик",
+  "item.merequester.wireless_requester_terminal": "Беспроводной терминал заказчика",
+  "key.ae2.wireless_requester_terminal": "Открыть беспроводной терминал заказчика",
+  "tooltip.merequester.cpu": "Нет процессора",
+  "tooltip.merequester.cpu_desc": "Система не может найти подходящий процессор для создания. Процесс продолжится, когда процессор будет найден."
+}

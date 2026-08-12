@@ -1,0 +1,29 @@
+{
+  "name": "Контроллер экранов",
+  "icon": "rftoolsutility:screen_controller",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:screen_controller": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Контроллер экранов обеспечивает энергией соседние $(l:rftoolsbase:machines/screen)экраны$(/l). Кнопка «Сканировать» в интерфейсе подключает все экраны в области 32x32x32.$(br2)$(5)Насыщение$() механизма увеличивает эту дальность"
+    },
+    {
+      "type": "crafting",
+      "heading": "Контроллер экранов",
+      "recipe": "rftoolsutility:screen_controller"
+    },
+    {
+      "type": "text",
+      "title": "Сканирование",
+      "text": "Установите Контроллер в пределах дальности, подайте FE и нажмите «Сканировать». Повторяйте сканирование после добавления, удаления или перемещения экранов."
+    },
+    {
+      "type": "text",
+      "title": "Дальность",
+      "text": "По умолчанию область сканирования составляет 32x32x32 блока вокруг Контроллера. Его $(5)насыщение$() увеличивает дальность."
+    }
+  ]
+}

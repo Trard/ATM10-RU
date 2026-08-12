@@ -1,0 +1,20 @@
+{
+  "name": "Автокрафтер",
+  "icon": "rftoolsutility:crafter3",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:crafter1": 0,
+    "rftoolsutility:crafter2": 0,
+    "rftoolsutility:crafter3": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Автокрафтер автоматически создаёт блоки и предметы. Версия высшего уровня поддерживает до 8 разных рецептов$(br2)В ней есть 26 входных ячеек для ингредиентов и 4 выходные ячейки"
+    },
+    {
+      "type": "text",
+      "text": "Кнопка R позволяет $(l)запомнить$() содержимое ячеек. После этого входная или выходная ячейка сможет содержать только указанный предмет. Кнопка F очищает запомненное$(br2)$(5)Насыщение$() механизма снижает расход энергии$(br2)Автокрафтер поддерживает $(l:rftoolsbase:tools/filtermodule)Модуль фильтра$(/l)"
+    }
+  ]
+}

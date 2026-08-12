@@ -1,0 +1,17 @@
+{
+    "name": "Сокровищница ауры",
+    "icon": "naturesaura:aura_trove",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:sky_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Если требуемое количество $(#419600)ауры$() становится слишком большим и $(l:items/aura_cache)хранилище ауры$() приходится слишком часто наполнять, поможет $(item)сокровищница ауры$() — улучшенный вариант $(item)хранилища ауры$() с втрое большей вместимостью."
+        },
+        {
+            "type": "crafting",
+            "text": "Создание $(item)сокровищницы ауры$()",
+            "recipe": "naturesaura:aura_trove"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "simplemagnets.gui.demagnetization_coil.show_range": "Подсветка области: %s",
+  "simplemagnets.gui.demagnetization_coil.show_range.on": "Вкл.",
+  "simplemagnets.gui.demagnetization_coil.show_range.off": "Выкл.",
+  "simplemagnets.item_group": "Простые магниты",
+  "simplemagnets.keys.category": "Простые магниты"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Блок необработанного Celestigem",
+  "sortnum": 4,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_celestigem_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Под действием слизи VoidShimmer алмазный блок превращается в блок необработанного Celestigem. Разрушьте его, чтобы получить $(l:justdirethings:res_celestigem)Celestigem$(/l)."
+    }
+  ]
+}

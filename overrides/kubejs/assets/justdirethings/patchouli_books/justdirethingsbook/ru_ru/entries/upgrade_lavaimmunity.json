@@ -1,0 +1,17 @@
+{
+  "name": "Иммунитет к лаве",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lavaimmunity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Иммунитет к лаве» защищает от её испепеляющего жара и полностью устраняет урон от лавы.$(br2)Для поддержания эффекта расходуется энергия Forge — следите, чтобы она не закончилась!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание иммунитета к лаве",
+      "recipe": "justdirethings:upgrade_lavaimmunity"
+    }
+  ]
+}

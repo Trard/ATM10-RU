@@ -1,0 +1,67 @@
+{
+  "name": "Рождественские ёлки",
+  "icon": "merrymaking:christmas_tree_spruce",
+  "category": "merrymaking:trees",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Маленькие ели",
+      "item": "merrymaking:christmas_tree_spruce",
+      "text": "Чтобы нарядить рождественскую ёлку, сначала найдите и срубите маленькую ель. Они растут в холодных биомах, а их саженцы иногда выпадают из еловой листвы."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/small_spruce.png"
+      ],
+      "text": "Маленькие ели"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Получив ёлку, оставьте её обычной или покрасьте белым красителем, чтобы сделать заснеженной.$(br2)Затем создайте подставку для ёлки:"
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:snowy_christmas_tree",
+      "recipe2": "merrymaking:tree_stand"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/trees_stands.png"
+      ],
+      "text": "Ёлки в подставках"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Теперь ёлку можно наряжать.$(br2)Украшения для ёлки:$(li)огни$(li)ёлочные шары$(li)гирлянда из сладких ягод$(li)верхушка$(br2)Огни и шары бывают белыми или яркими разноцветными, а верхушкой служит звезда либо бант."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ёлка состоит из 3 секций; на каждой помещается один комплект огней, ёлочных шаров и гирлянда из сладких ягод. Используйте верхушку на верхней секции, чтобы установить её над ёлкой. Для снятия или замены взаимодействуйте с самой верхушкой.$(br2)Чтобы украсить ёлку, используйте предмет на нужной секции. Чтобы снять украшение, щёлкните по нему пустой рукой."
+    },
+    {
+      "type": "crafting",
+      "title": "Ёлочные шары",
+      "recipe": "merrymaking:ornaments_white",
+      "recipe2": "merrymaking:ornaments_multi"
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Гирлянда из сладких ягод",
+      "recipe": "merrymaking:dried_berries_smelting"
+    },
+    {
+      "type": "crafting",
+      "title": "Гирлянда из сладких ягод",
+      "recipe": "merrymaking:tree_garland"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/tree_with_presents.png"
+      ],
+      "text": "Украшенная рождественская ёлка"
+    }
+  ]
+}

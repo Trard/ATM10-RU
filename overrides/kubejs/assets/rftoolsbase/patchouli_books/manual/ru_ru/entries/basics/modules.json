@@ -1,0 +1,15 @@
+{
+  "name": "Модули",
+  "icon": "rftoolsbase:filter_module",
+  "category": "rftoolsbase:category_basics",
+  "extra_recipe_mappings": {
+    "rftoolsbase:filter_module": 0,
+    "rftoolsbase:crafting_card": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Многие механизмы технических модов RFTools поддерживают модули. Они вставляются в механизм и изменяют или добавляют функции. Обычно достаточно нажать ПКМ модулем по совместимому механизму."
+    }
+  ]
+}

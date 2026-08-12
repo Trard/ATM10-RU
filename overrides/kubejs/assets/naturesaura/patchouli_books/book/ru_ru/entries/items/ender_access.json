@@ -1,0 +1,17 @@
+{
+    "name": "Эндер-окуляр",
+    "icon": "naturesaura:ender_access",
+    "category": "naturesaura:items",
+    "advancement": "naturesaura:aura_bottle_end",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Проще говоря, $(item)эндер-окуляр$() — переносная версия $(l:using/ender_crate)эндер-сундука$(). Задайте ему $(thing)эндер-имя$() тем же способом, а затем возьмите в руку и взаимодействуйте, чтобы открыть связанное хранилище в любом месте. Для этого требуется $(l:items/aura_cache)хранилище ауры$(), из которого будет израсходовано немного $(#419600)ауры$()."
+        },
+        {
+            "type": "crafting",
+            "text": "Создание $(item)эндер-окуляра$()",
+            "recipe": "naturesaura:ender_access"
+        }
+    ]
+}

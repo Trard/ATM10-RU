@@ -1,0 +1,13 @@
+{
+  "name": "Curios",
+  "icon": "curios:textures/slot/empty_charm_slot.png",
+  "category": "apotheosis:potion/charms",
+  "flag": "&apotheosis:potion,apotheosis:curiosloaded",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Если установлен $(9)Curios$(), амулеты зелья можно экипировать в ячейку $(9)амулета$().$(p)Они будут работать так же, как в инвентаре."
+    }
+  ]
+}

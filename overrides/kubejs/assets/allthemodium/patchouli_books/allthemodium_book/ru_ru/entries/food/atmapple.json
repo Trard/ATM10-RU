@@ -1,0 +1,16 @@
+{
+  "name": "Аллмодиумовое яблоко",
+  "icon": "allthemodium:allthemodium_apple",
+  "category": "allthemodium:food",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "allthemodium:allthemodium_apple",
+      "title": "Аллмодиумовое яблоко"
+    },
+    {
+      "type": "text",
+      "text": "Аллмодиумовое яблоко восстанавливает 20 единиц голода и даёт 80 насыщения. Его эффекты:$(li)быстрое поедание;$(li)можно есть всегда;$(li)поглощение X на 30 секунд;$(li)регенерация X на 30 секунд."
+    }
+  ]
+}

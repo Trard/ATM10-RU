@@ -1,0 +1,10 @@
+{
+  "block.treetap.tap": "Кран",
+  "block.treetap.sap_collector": "Сборщик сока",
+  "block.treetap.wooden_sap_collector": "Сборщик сока",
+  "item.treetap.tap.modifier": "Множитель скорости: %s",
+  "jei.treetap.tap_extract": "Сбор древесного сока",
+  "jei.treetap.life_cycle.months": "%s",
+  "jei.treetap.life_cycle.all_year": "Круглый год",
+  "config.jade.plugin_treetap.tap": "Кран"
+}

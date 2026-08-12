@@ -1,0 +1,16 @@
+API peripheral предназначен для взаимодействия с внешними периферийными устройствами. Введите "help peripherals", чтобы узнать о доступной периферии.
+
+Функции API peripheral:
+peripheral.getNames()
+peripheral.isPresent( name )
+peripheral.getName( peripheral )
+peripheral.getType( name )
+peripheral.getMethods( name )
+peripheral.call( name, methodName, param1, param2, etc )
+peripheral.wrap( name )
+peripheral.find( type, [fnFilter] )
+
+События API peripheral:
+"peripheral" возникает при подключении новой периферии. Аргумент: имя.
+"peripheral_detach" возникает при отключении периферии. Аргумент: имя.
+Введите "help events", чтобы узнать о системе событий.

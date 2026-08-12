@@ -1,0 +1,921 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "Обновление «Кладовая» добавляет в игру множество новых блюд. Выберите тему ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.foods.meat",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dairy",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.bfast",
+          "target_page": 8
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.bread",
+          "target_page": 9
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.salad",
+          "target_page": 13
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.other",
+          "target_page": 14
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.otherc",
+          "target_page": 15
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.otherd",
+          "target_page": 16
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.cond",
+          "target_page": 17
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.condc",
+          "target_page": 18
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert",
+          "target_page": 19
+        }
+      ],
+      "elements": []
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.meat",
+      "summary": "Мод «Травы и урожай» добавляет несколько мясных продуктов.\n\nВсе они создаются из уже существующих предметов, и каждый можно приготовить в печи.\n\nМясо можно использовать в рецептах или есть отдельно.",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:bacon",
+              "text": "guide.herbsandharvest.bacon_desc"
+            },
+            {
+              "item": "herbsandharvest:chicken_cutlet",
+              "text": "guide.herbsandharvest.chicken_cutlet_desc"
+            },
+            {
+              "item": "herbsandharvest:pepperoni",
+              "text": "guide.herbsandharvest.pepperoni_desc"
+            },
+            {
+              "item": "herbsandharvest:salami",
+              "text": "guide.herbsandharvest.salami_desc"
+            },
+            {
+              "item": "herbsandharvest:salmon_steak",
+              "text": "guide.herbsandharvest.salmon_steak_desc"
+            },
+            {
+              "item": "herbsandharvest:sausage",
+              "text": "guide.herbsandharvest.sausage_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dairy",
+      "summary": "Доступно несколько молочных продуктов. Выберите ссылку ниже, чтобы узнать подробности.",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.foods.dairy.milk",
+          "target_page": 3
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dairy.milk.got_milk",
+          "target_page": 4
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dairy.cream",
+          "target_page": 5
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dairy.butter",
+          "target_page": 6
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dairy.cheese",
+          "target_page": 7
+        }
+      ],
+      "elements": []
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dairy.milk",
+      "summary": "Мод «Травы и урожай» добавляет три новых вида молока.\n\nМолоко используется в рецептах и сыроварении, а при нагревании в котле превращается в сливки.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Виды молока:\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:camel_milk_bucket",
+              "text": "guide.herbsandharvest.camel_milk_desc"
+            },
+            {
+              "item": "herbsandharvest:goat_milk_bucket",
+              "text": "guide.herbsandharvest.goat_milk_desc"
+            },
+            {
+              "item": "herbsandharvest:sheep_milk_bucket",
+              "text": "guide.herbsandharvest.sheep_milk_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dairy.milk.got_milk",
+      "summary": "Как получить молоко:\n\nКак и корову, козу можно подоить пустым ведром и получить козье молоко, а овцу — овечье. ",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Чтобы получить верблюжье молоко, нажмите Shift и примените ведро к верблюду.\n\nПримечание: при этом может открыться инвентарь верблюда или игрок сядет на него, но молоко всё равно будет получено.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dairy.cream",
+      "summary": "Сливки готовятся в нагретом котле.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:cream_bucket",
+              "text": "guide.herbsandharvest.cream_bucket_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nНалейте молоко любого вида, и со временем оно превратится в сливки.\n\nЗаберите сливки из котла ведром.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dairy.butter",
+      "summary": "Сливки получают нагреванием молока в котле.\n\nПримените ведро к котлу со сливками, чтобы набрать их.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:butter",
+              "text": "guide.herbsandharvest.butter_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nСливочное масло получают, применив ведро сливок к маслобойке.\n\nКогда сбивание завершится, появится сливочное масло.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dairy.cheese",
+      "summary": "Существует восемь видов сыра: четыре твёрдых и четыре мягких.\n\nРаздел о сыроварении в этой книге объясняет, как приготовить каждый из них.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Мягкие сыры:",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:caravane",
+              "text": "guide.herbsandharvest.caravane_desc"
+            },
+            {
+              "item": "herbsandharvest:chevre",
+              "text": "guide.herbsandharvest.chevre_desc"
+            },
+            {
+              "item": "herbsandharvest:feta",
+              "text": "guide.herbsandharvest.feta_desc"
+            },
+            {
+              "item": "herbsandharvest:ricotta",
+              "text": "guide.herbsandharvest.ricotta_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nТвёрдые сыры:",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:aged_cheddar",
+              "text": "guide.herbsandharvest.aged_cheddar_desc"
+            },
+            {
+              "item": "herbsandharvest:aged_gouda",
+              "text": "guide.herbsandharvest.aged_gouda_desc"
+            },
+            {
+              "item": "herbsandharvest:aged_parmesan",
+              "text": "guide.herbsandharvest.aged_parmesan_desc"
+            },
+            {
+              "item": "herbsandharvest:aged_swiss",
+              "text": "guide.herbsandharvest.aged_swiss_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.bfast",
+      "summary": "В моде «Травы и урожай» есть несколько блюд для завтрака.\n\nНиже перечислены блюда и предметы, открывающие их рецепты:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:avocado_toast",
+              "text": "guide.herbsandharvest.avo_toast_desc"
+            },
+            {
+              "item": "herbsandharvest:biscuits_gravy",
+              "text": "guide.herbsandharvest.bisc_grav_desc"
+            },
+            {
+              "item": "herbsandharvest:cooked_bacon",
+              "text": "guide.herbsandharvest.c_bacon_desc"
+            },
+            {
+              "item": "herbsandharvest:cooked_sausages",
+              "text": "guide.herbsandharvest.c_sausage_desc"
+            },
+            {
+              "item": "herbsandharvest:eggs",
+              "text": "guide.herbsandharvest.eggs_desc"
+            },
+            {
+              "item": "herbsandharvest:oatmeal",
+              "text": "guide.herbsandharvest.oatmeal_desc"
+            },
+            {
+              "item": "herbsandharvest:pancakes",
+              "text": "guide.herbsandharvest.pancakes_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.bread",
+      "summary": "Мод «Травы и урожай» добавляет несколько видов хлеба. Выберите ссылку ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.foods.bread.grain",
+          "target_page": 10
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.bread.grain.slice",
+          "target_page": 11
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.bread.sandwich",
+          "target_page": 12
+        }
+      ],
+      "elements": []
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.bread.grain",
+      "summary": "Разнообразие злаков в моде «Травы и урожай» позволяет готовить множество видов хлеба и сэндвичей.\n\nДоступны следующие виды хлеба:",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:barley_loaf",
+              "text": "guide.herbsandharvest.barley_bread_desc"
+            },
+            {
+              "item": "herbsandharvest:garlic_bread",
+              "text": "guide.herbsandharvest.garlic_bread_desc"
+            },
+            {
+              "item": "herbsandharvest:pumpernickel_loaf",
+              "text": "guide.herbsandharvest.pump_bread_desc"
+            },
+            {
+              "item": "herbsandharvest:rye_loaf",
+              "text": "guide.herbsandharvest.rye_bread_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.bread.grain.slice",
+      "summary": "Из каждой буханки хлеба можно создать 8 ломтиков того же вида.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:barley_slice",
+              "text": "guide.herbsandharvest.barley_slice_desc"
+            },
+            {
+              "item": "herbsandharvest:garlic_bread_slice",
+              "text": "guide.herbsandharvest.garlic_slice_desc"
+            },
+            {
+              "item": "herbsandharvest:pumpernickel_slice",
+              "text": "guide.herbsandharvest.pump_slice_desc"
+            },
+            {
+              "item": "herbsandharvest:rye_slice",
+              "text": "guide.herbsandharvest.rye_slice_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nОбычный хлеб Minecraft также можно нарезать на ломтики:",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:bread_slice",
+              "text": "guide.herbsandharvest.bread_slice_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.bread.sandwich",
+      "summary": " Для каждого сэндвича нужен определённый вид хлеба, который также открывает его рецепт.\n\nПолный список сэндвичей и требуемых видов хлеба:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:reuben",
+              "text": "guide.herbsandharvest.reuben_desc"
+            },
+            {
+              "item": "herbsandharvest:salami_rye",
+              "text": "guide.herbsandharvest.salami_rye_desc"
+            },
+            {
+              "item": "herbsandharvest:ham_swiss",
+              "text": "guide.herbsandharvest.ham_swiss_desc"
+            },
+            {
+              "item": "herbsandharvest:beef_cheddar",
+              "text": "guide.herbsandharvest.beef_cheddar_desc"
+            },
+            {
+              "item": "herbsandharvest:grilled_cheese",
+              "text": "guide.herbsandharvest.grilled_cheese_desc"
+            },
+            {
+              "item": "herbsandharvest:monte_cristo",
+              "text": "guide.herbsandharvest.monte_cristo_desc"
+            },
+            {
+              "item": "herbsandharvest:peanut_butter_jelly",
+              "text": "guide.herbsandharvest.pbj_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.salad",
+      "summary": "В моде «Травы и урожай» есть четыре вида салата; рецепт каждого открывается при получении салата-латука.\n\nПосле употребления салата остаётся пустая миска.",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:caesar_salad",
+              "text": "guide.herbsandharvest.caesar_salad_desc"
+            },
+            {
+              "item": "herbsandharvest:chef_salad",
+              "text": "guide.herbsandharvest.chef_salad_desc"
+            },
+            {
+              "item": "herbsandharvest:chicken_berry_salad",
+              "text": "guide.herbsandharvest.chicken_salad_desc"
+            },
+            {
+              "item": "herbsandharvest:garden_salad",
+              "text": "guide.herbsandharvest.garden_salad_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.other",
+      "summary": "Другие блюда и открывающие их предметы:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:mashed_potatoes",
+              "text": "guide.herbsandharvest.mashed_pot_desc"
+            },
+            {
+              "item": "herbsandharvest:cornbread_stuffing",
+              "text": "guide.herbsandharvest.stuffing_desc"
+            },
+            {
+              "item": "herbsandharvest:vegetable_medley",
+              "text": "guide.herbsandharvest.veg_medley_desc"
+            },
+            {
+              "item": "herbsandharvest:taco",
+              "text": "guide.herbsandharvest.taco_desc"
+            },
+            {
+              "item": "herbsandharvest:burrito",
+              "text": "guide.herbsandharvest.burrito_desc"
+            },
+            {
+              "item": "herbsandharvest:guacamole",
+              "text": "guide.herbsandharvest.guacamole_desc"
+            },
+            {
+              "item": "herbsandharvest:chips",
+              "text": "guide.herbsandharvest.chips_desc"
+            },
+            {
+              "item": "herbsandharvest:guacamole_chips",
+              "text": "guide.herbsandharvest.guacamole_chips_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.otherc",
+      "summary": "Продолжение списка других блюд и открывающих их предметов:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:bagel",
+              "text": "guide.herbsandharvest.bagel_desc"
+            },
+            {
+              "item": "herbsandharvest:bagel_cream_cheese",
+              "text": "guide.herbsandharvest.bagel_cheese_desc"
+            },
+            {
+              "item": "herbsandharvest:bagel_with_salmon",
+              "text": "guide.herbsandharvest.bagel_salmon_desc"
+            },
+            {
+              "item": "herbsandharvest:graham_crackers",
+              "text": "guide.herbsandharvest.graham_cracker_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.otherd",
+      "summary": "Продолжение списка других блюд и открывающих их предметов:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:beef_pie",
+              "text": "guide.herbsandharvest.beef_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:chicken_pie",
+              "text": "guide.herbsandharvest.chicken_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:lamb_pie",
+              "text": "guide.herbsandharvest.lamb_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:pork_pie",
+              "text": "guide.herbsandharvest.pork_pie_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.cond",
+      "summary": "Для создания приправ и других ингредиентов требуется миска или банка для специй — в зависимости от рецепта.\n\nПриправы и открывающие их рецепты предметы перечислены здесь:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:mayo",
+              "text": "guide.herbsandharvest.mayonnaise_desc"
+            },
+            {
+              "item": "herbsandharvest:ketchup",
+              "text": "guide.herbsandharvest.ketchup_desc"
+            },
+            {
+              "item": "herbsandharvest:mustard",
+              "text": "guide.herbsandharvest.mustard_desc"
+            },
+            {
+              "item": "herbsandharvest:oil",
+              "text": "guide.herbsandharvest.vegetable_oil_desc"
+            },
+            {
+              "item": "herbsandharvest:peanut_butter",
+              "text": "guide.herbsandharvest.peanut_butter_desc"
+            },
+            {
+              "item": "herbsandharvest:raspberry_jam",
+              "text": "guide.herbsandharvest.raspberry_jam_desc"
+            },
+            {
+              "item": "herbsandharvest:blackberry_jam",
+              "text": "guide.herbsandharvest.blackberry_jam_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.condc",
+      "summary": "Продолжение списка приправ и других ингредиентов: ",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:sour_cream",
+              "text": "guide.herbsandharvest.sour_cream_desc"
+            },
+            {
+              "item": "herbsandharvest:cream_cheese",
+              "text": "guide.herbsandharvest.cream_cheese_desc"
+            },
+            {
+              "item": "herbsandharvest:whipped_cream",
+              "text": "guide.herbsandharvest.whipped_cream_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert",
+      "summary": "В моде «Травы и урожай» множество десертов. Выберите ссылку ниже, чтобы узнать подробности:",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.info",
+          "target_page": 20
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.infoc",
+          "target_page": 21
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.cakes",
+          "target_page": 22
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.ccakes",
+          "target_page": 23
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.pies",
+          "target_page": 24
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.cookies",
+          "target_page": 25
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.muffin",
+          "target_page": 26
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/items/dessert.png",
+          "caption": "herbsandharvest.guide_book.chapters.items.dessert_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert.info",
+      "summary": "Среди доступных десертов есть торты, чизкейки, пироги, печенье, капкейки, маффины, булочки с корицей, сладкие булочки и сливовый пудинг.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Торты, чизкейки, пироги и сливовый пудинг являются размещаемыми блоками. Щелчок по ним пустой рукой даёт кусок соответствующего десерта.\n\nВсе они, кроме сливового пудинга, дают по 8 кусков. Пудинг меньше, поэтому из него получается 4 куска.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert.infoc",
+      "summary": "Небольшие десерты и выпечка — одноразовые съедобные предметы.\n\nКак упоминалось выше, на подставку для выпечки можно помещать только небольшие одноразовые десерты и выпечку.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Предметы, открывающие рецепты десертов, указаны на странице соответствующего десерта.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert.cakes",
+      "summary": "Все рецепты тортов открываются при получении пшеницы.\n\nРецепт сливового пудинга открывается при получении сливы.\n\nТорты и капкейки показаны здесь:",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:black_forest_cake",
+              "text": "guide.herbsandharvest.bforest_cake_desc"
+            },
+            {
+              "item": "herbsandharvest:carrot_cake",
+              "text": "guide.herbsandharvest.carrot_cake_desc"
+            },
+            {
+              "item": "herbsandharvest:strawberry_cake",
+              "text": "guide.herbsandharvest.straw_cake_desc"
+            },
+            {
+              "item": "herbsandharvest:yellow_cake",
+              "text": "guide.herbsandharvest.yellow_cake_desc"
+            },
+            {
+              "item": "herbsandharvest:pineapple_cake",
+              "text": "guide.herbsandharvest.pine_cake_desc"
+            },
+            {
+              "item": "herbsandharvest:plum_pudding",
+              "text": "guide.herbsandharvest.plum_pudd_desc"
+            },
+            {
+              "item": "herbsandharvest:black_forest_cupcake",
+              "text": "guide.herbsandharvest.bforest_ccake_desc"
+            },
+            {
+              "item": "herbsandharvest:carrot_cupcake",
+              "text": "guide.herbsandharvest.carrot_ccake_desc"
+            },
+            {
+              "item": "herbsandharvest:strawberry_cupcake",
+              "text": "guide.herbsandharvest.straw_ccake_desc"
+            },
+            {
+              "item": "herbsandharvest:yellow_cupcake",
+              "text": "guide.herbsandharvest.yellow_ccake_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert.ccakes",
+      "summary": "Рецепты чизкейков открываются при получении сливочного сыра.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\nЧизкейки:\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:cheesecake",
+              "text": "guide.herbsandharvest.ccake_desc"
+            },
+            {
+              "item": "herbsandharvest:blueberry_cheesecake",
+              "text": "guide.herbsandharvest.blue_ccake_desc"
+            },
+            {
+              "item": "herbsandharvest:raspberry_cheesecake",
+              "text": "guide.herbsandharvest.rasp_ccake_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert.pies",
+      "summary": "Для открытия рецептов пирогов требуется пшеница.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\nПироги:\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:apple_pie",
+              "text": "guide.herbsandharvest.apple_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:blueberry_pie",
+              "text": "guide.herbsandharvest.blueberry_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:cherry_pie",
+              "text": "guide.herbsandharvest.cherry_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:chocolate_pie",
+              "text": "guide.herbsandharvest.chocolate_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:key_lime_pie",
+              "text": "guide.herbsandharvest.key_lime_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:lemon_meringue_pie",
+              "text": "guide.herbsandharvest.lemon_meringue_pie_desc"
+            },
+            {
+              "item": "herbsandharvest:peach_pie",
+              "text": "guide.herbsandharvest.peach_pie_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert.cookies",
+      "summary": "Для открытия рецептов печенья также требуется пшеница. ",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "Печенье: ",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:oatmeal_raisin_cookie",
+              "text": "guide.herbsandharvest.oatmeal_raisin_cookie_desc"
+            },
+            {
+              "item": "herbsandharvest:peanut_butter_cookie",
+              "text": "guide.herbsandharvest.peanut_butter_cookie_desc"
+            },
+            {
+              "item": "herbsandharvest:snickerdoodle_cookie",
+              "text": "guide.herbsandharvest.snickerdoodle_desc"
+            },
+            {
+              "item": "herbsandharvest:sugar_cookie",
+              "text": "guide.herbsandharvest.sugar_cookie_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.foods.dessert.muffin",
+      "summary": "Рецепты маффинов и булочек открываются при получении пшеницы.",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\nМаффины: ",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:apple_muffin",
+              "text": "guide.herbsandharvest.apple_muffin_desc"
+            },
+            {
+              "item": "herbsandharvest:blueberry_muffin",
+              "text": "guide.herbsandharvest.blueberry_muffin_desc"
+            },
+            {
+              "item": "herbsandharvest:pumpkin_muffin",
+              "text": "guide.herbsandharvest.pumpkin_muffin_desc"
+            },
+            {
+              "item": "herbsandharvest:sweet_berry_muffin",
+              "text": "guide.herbsandharvest.sweet_berry_muffin_desc"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "literal_text": "\n\nБулочки: ",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:cinnamon_roll",
+              "text": "guide.herbsandharvest.cinnamon_roll_desc"
+            },
+            {
+              "item": "herbsandharvest:sweet_roll",
+              "text": "guide.herbsandharvest.sweet_roll_desc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

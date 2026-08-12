@@ -1,0 +1,19 @@
+{
+  "name": "Приёмник материи",
+  "icon": "rftoolsutility:matter_receiver",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:matter_receiver": 0,
+    "rftoolsutility:matter_booster": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Приёмник материи служит местом телепортации игрока из $(l:rftoolsbase:machines/matter_transmitter)Передатчика материи$(/l). С помощью $(l:rftoolsbase:machines/dialing_device)Устройства набора$(/l) соедините Передатчик материи с этим Приёмником.$(br2)$(5)Насыщение$() механизма снижает расход энергии"
+    },
+    {
+      "type": "text",
+      "text": "Очень важно обеспечить Приёмнику материи достаточно энергии. В противном случае телепортация может вызвать у игрока отрицательные эффекты"
+    }
+  ]
+}

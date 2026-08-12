@@ -1,0 +1,7 @@
+{
+  "name": "Аффиксные трофеи",
+  "description": "В путешествиях вам могут встретиться предметы с разнообразными бонусами.$(p)Это аффиксные предметы — реликвии прошлого, обладающие разной силой.",
+  "icon": "minecraft:chest",
+  "flag": "apotheosis:adventure",
+  "parent": "apotheosis:adventure/adventure"
+}

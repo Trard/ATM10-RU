@@ -1,0 +1,12 @@
+{
+  "name": "Зачаровываемость предметов",
+  "icon": "minecraft:golden_sword",
+  "category": "apotheosis:enchanting/table",
+  "flag": "apotheosis:enchanting",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "В обычной игре зачаровываемость предмета влияет на $(fpower).$(p)В Apotheosis вместо этого она напрямую повышает $(arcana).$(p)$(arcana) увеличивается на 50% от зачаровываемости предмета."
+    }
+  ]
+}

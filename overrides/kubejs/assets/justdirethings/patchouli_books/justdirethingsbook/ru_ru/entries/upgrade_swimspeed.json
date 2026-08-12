@@ -1,0 +1,17 @@
+{
+  "name": "Скорость плавания",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_swimspeed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Скорость плавания» дарует невиданную подвижность в воде и существенно ускоряет подводные исследования.$(br2)Броня более высокого уровня позволяет двигаться ещё быстрее; скорость регулируется ползунком в меню настроек."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Скорость плавания»",
+      "recipe": "justdirethings:upgrade_swimspeed"
+    }
+  ]
+}

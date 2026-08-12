@@ -1,0 +1,14 @@
+{
+  "name": "Передатчик материи",
+  "icon": "rftoolsutility:matter_transmitter",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:matter_transmitter": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Передатчик материи телепортирует игроков к любому другому $(l:rftoolsbase:machines/matter_receiver)Приёмнику материи$(/l). С помощью $(l:rftoolsbase:machines/dialing_device)Устройства набора$(/l) соедините Передатчик с Приёмником.$(br2)$(5)Насыщение$() механизма снижает расход энергии и ускоряет телепортацию"
+    }
+  ]
+}

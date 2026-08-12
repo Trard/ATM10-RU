@@ -1,0 +1,7 @@
+{
+  "name": "Карты фигур",
+  "description": "Карты фигур — предметы, задающие определённую фигуру. Их используют Строитель и Проектор щита",
+  "parent": "rftoolsbase:category_rftoolsbuilder",
+  "icon": "rftoolsbuilder:shape_card_def",
+  "sortnum": 10
+}

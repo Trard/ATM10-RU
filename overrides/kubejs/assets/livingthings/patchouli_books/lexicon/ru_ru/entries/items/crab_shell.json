@@ -1,0 +1,16 @@
+{
+  "name": "Панцирь краба",
+  "icon": "livingthings:crab_shell",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)Получение:$()$(br)может выпасть из крабов"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:crab_shell",
+      "text": "$(br)$(bold)Применение:$()$(li)известных применений нет"
+    }
+  ]
+}

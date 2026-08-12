@@ -1,0 +1,25 @@
+{
+  "name": "Тепловая труба",
+  "icon": "pneumaticcraft:heat_pipe",
+  "category": "pneumaticcraft:machines",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Тепловая труба/$ — изолированный сердечник из сжатого железа, передающий тепло между блоками без теплообмена с соседними блоками воздуха или жидкости. Это более компактная и дешёвая альтернатива $(thing)блокам сжатого железа/$ для переноса тепла.$(p)Тепловые трубы можно скрыть с помощью $(l:tools/camo_applicator)камуфликатора/$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/heat_sinks.png"
+      ],
+      "border": "true",
+      "text": "$(italic)Нужно добавить изображение тепловой трубы/$"
+    },
+    {
+      "type": "crafting",
+      "text": "Создание тепловой трубы",
+      "recipe": "pneumaticcraft:heat_pipe"
+    }
+  ]
+}
