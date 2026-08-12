@@ -2,5 +2,13 @@
   "pack": {
     "pack_format": 34,
     "description": "ATM10-RU: внешняя русская локализация"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "^(?:enderdrives|soulplied_energistics)$",
+        "path": "^lang/ru_ru\\.json$"
+      }
+    ]
   }
 }

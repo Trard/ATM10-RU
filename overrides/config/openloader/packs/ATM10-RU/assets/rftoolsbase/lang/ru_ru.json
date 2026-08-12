@@ -1,5 +1,7 @@
 {
   "_comment": "Сообщения",
+  "block.rftoolsbase.machine_base": "Основа механизма",
+  "block.rftoolsbase.machine_frame": "Каркас механизма",
   "block.rftoolsbase.dimensionalshard_end": "Руда пространственных осколков",
   "block.rftoolsbase.dimensionalshard_nether": "Руда пространственных осколков",
   "block.rftoolsbase.dimensionalshard_overworld": "Руда пространственных осколков",

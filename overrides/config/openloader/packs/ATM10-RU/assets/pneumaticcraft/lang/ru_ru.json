@@ -1,4 +1,7 @@
 {
+  "block.pneumaticcraft.ethanol": "Этанол",
+  "block.pneumaticcraft.gasoline": "Бензин",
+  "block.pneumaticcraft.memory_essence": "Эссенция памяти",
   "block.pneumaticcraft.reinforced_pressure_chamber_valve": "Усиленный клапан барокамеры",
   "gui.tooltip.block.pneumaticcraft.reinforced_pressure_chamber_valve": "Версия обычного клапана барокамеры для высокого давления.",
   "gui.tooltip.item.pneumaticcraft.spawner_agitator.apotheosis": "Функциональность ограничена из-за наличия мода Apothic Spawners: мобы не появляются, если игроки находятся слишком далеко, но уже появившиеся мобы не исчезают при удалении игроков.",

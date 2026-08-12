@@ -1,4 +1,5 @@
 {
+    "block.ars_nouveau.source_gem": "Исходный самоцвет",
     "ars_nouveau.augment_desc.glyph_animate_block_glyph_duration_down": "Уменьшает длительность призыва.",
     "ars_nouveau.augment_desc.glyph_animate_block_glyph_extend_time": "Увеличивает длительность призыва.",
     "ars_nouveau.augment_desc.glyph_blink_glyph_amplify": "Увеличивает дальность телепортации.",

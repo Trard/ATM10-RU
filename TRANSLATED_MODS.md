@@ -1,6 +1,6 @@
 # Переведённые моды
 
-Список 340 установленных модов и компонентов, для которых создан или дополнен внешний русский перевод.
+Список 342 установленных модов и компонентов, для которых создан или дополнен внешний русский перевод.
 Applied Flux, Ars Énergistique и Productive Metalworks представлены переводами руководств; их обычные языковые файлы уже были встроены в моды.
 
 - Actually Additions
@@ -231,6 +231,7 @@ Applied Flux, Ars Énergistique и Productive Metalworks представлен�
 - More Red
 - MrCrayfish's Furniture Mod: Refurbished
 - Multi-Piston
+- Mystical Agradditions
 - Mystical Agriculture
 - NaturesAura
 - NeoAuth
@@ -241,6 +242,7 @@ Applied Flux, Ars Énergistique и Productive Metalworks представлен�
 - Nuggets
 - Observable
 - Occultism
+- Oh The Biomes We've Gone
 - Olympus
 - Oracle Index
 - Oritech

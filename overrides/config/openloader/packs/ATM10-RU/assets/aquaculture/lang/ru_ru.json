@@ -1,4 +1,10 @@
 {
+    "block.aquaculture.acacia_fish_mount": "Акациевая трофейная доска",
+    "block.aquaculture.birch_fish_mount": "Берёзовая трофейная доска",
+    "block.aquaculture.dark_oak_fish_mount": "Трофейная доска из тёмного дуба",
+    "block.aquaculture.jungle_fish_mount": "Трофейная доска из тропического дерева",
+    "block.aquaculture.oak_fish_mount": "Дубовая трофейная доска",
+    "block.aquaculture.spruce_fish_mount": "Еловая трофейная доска",
     "tabs.aquaculture.tab": "Аквакультура",
     "aquaculture.message25": "Исключение нулевого указателя: Aquaculture.MessageInABottle (String) не может быть null.",
     "tag.item.aquaculture.bobber": "Поплавки",

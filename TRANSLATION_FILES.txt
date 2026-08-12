@@ -114,6 +114,7 @@ config/openloader/packs/ATM10-RU/assets/bibliobiomes/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/bibliocraft/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/bibliowoods/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/bigreactors/lang/ru_ru.json
+config/openloader/packs/ATM10-RU/assets/biomeswevegone/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/blockui/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/bookshelf/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/botanypots/lang/ru_ru.json
@@ -300,6 +301,7 @@ config/openloader/packs/ATM10-RU/assets/mostructures/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/mss/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/multipiston/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/mvs/lang/ru_ru.json
+config/openloader/packs/ATM10-RU/assets/mysticalagradditions/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/mysticalagriculture/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/natures_aura/lang/ru_ru.json
 config/openloader/packs/ATM10-RU/assets/naturesaura/lang/ru_ru.json
